@@ -1,0 +1,22 @@
+thunderMouseButton: right
+world:
+    preventIgnition: false
+    allowStorm: true
+    allowNormal: true
+    allowThunder: true
+thunderItem: 294
+Nether:
+    preventIgnition: false
+    allowStorm: true
+    allowNormal: true
+    allowThunder: true
+Creative:
+    preventIgnition: false
+    allowStorm: true
+    allowNormal: true
+    allowThunder: true
+Spheres:
+    preventIgnition: false
+    allowStorm: true
+    allowNormal: true
+    allowThunder: true

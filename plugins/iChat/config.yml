@@ -1,0 +1,9 @@
+date-format: hh:mm
+
+message-format: '&f[+time]&a+prefix+name+suffix:&e +message'
+
+censor-char: '*'
+
+censor-string-color: '&f'
+
+censor-colored: true

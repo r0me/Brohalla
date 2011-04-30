@@ -1,0 +1,7 @@
+'Sup, %nm, mah bro. Welcome to BROHALLA!
+There are %size bros online.
+%ol
+Also, remember the three Bs of BROHALLA.
+-BRAHSOME: The server is forever brahsome.
+-BROTASTIC: The server is the most brotastic server ever.
+-BROGASMIC: Self-explanatory.

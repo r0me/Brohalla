@@ -1,0 +1,43 @@
+worlds:
+    Creative:
+        animals: true
+        pvp: true
+        alias: ''
+        blockBlacklist: ''
+        worldBlacklist: ''
+        spawn: 165:64:61:-67.49996:16.350002
+        mobs: true
+        price: 0.0
+        environment: NORMAL
+        editWhitelist: ''
+        playerBlacklist: ''
+        playerWhitelist: ''
+        editBlacklist: ''
+    world:
+        animals: true
+        pvp: true
+        alias: ''
+        blockBlacklist: ''
+        worldBlacklist: ''
+        spawn: -590:72:83:0.0:0.0
+        mobs: true
+        price: 0.0
+        environment: NORMAL
+        editWhitelist: ''
+        playerBlacklist: ''
+        playerWhitelist: ''
+        editBlacklist: ''
+    Nether:
+        animals: true
+        pvp: true
+        alias: ''
+        blockBlacklist: ''
+        worldBlacklist: ''
+        spawn: -42:64:-13:0.0:0.0
+        mobs: true
+        price: 0.0
+        environment: NETHER
+        editWhitelist: ''
+        playerBlacklist: ''
+        playerWhitelist: ''
+        editBlacklist: ''

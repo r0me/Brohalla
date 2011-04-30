@@ -1,0 +1,590 @@
+/*******************
+ * Page setup
+ */
+
+.dynmap .map .tile img, img {
+    image-rendering: -moz-crisp-edges;
+    -ms-interpolation-mode: nearest-neighbor;
+}
+
+
+/*******************
+ * fieldset and legend styles
+ */
+
+.dynmap fieldset {
+    border: none;
+    border-top: 1px solid rgba(196,196,196,0.4);
+}
+
+.dynmap legend {
+    padding: 8px 4px;
+    font-weight: bold;
+}
+
+
+/*******************
+ * Map Setup
+ */
+
+#mcmap {
+    /*width: 100%;
+    height: 100%*/
+}
+
+.dynmap {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.dynmap > .map {
+    width: 100%;
+    height: 100%;
+    background: #000;
+}
+
+/* Map Controls */
+.gmnoprint{
+    margin-top:-75px;
+    margin-left:-20px
+}
+
+/* Google branding */
+
+.dynmap > div.map > DIV > DIV:first-child + DIV,
+.dynmap > div.map > DIV > DIV:first-child + DIV + DIV {
+    visibility: hidden !important;
+}
+
+
+/*******************
+ * Alerts are pretty.
+ */
+
+.alertbox {
+    position: fixed;
+    width: 50%;
+    z-index: 999;
+
+    top: 0;
+    left: 0;
+    right: 0;
+
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+
+    color: #fff;
+    background: #c00;
+
+    border-color: #a00;
+
+    margin: auto;
+    padding: 8px;
+}
+
+
+/*******************
+ * shared rules
+ */
+
+.dynmap .panel ul, .dynmap .panel li {
+    list-style: none;
+
+    padding: 0;
+    margin: 0;
+}
+
+.maplist li a,
+.playerlist li a {
+    outline: none;
+    text-decoration: none;
+}
+
+.alertbox,
+.largeclock {
+    border-style: solid;
+    border-width: 0px 1px 1px 1px;
+
+    -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4);
+    -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4);
+    -o-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4);
+
+    -moz-border-radius: 0 0 3px 3px;
+    -webkit-border-radius: 0 0 3px 3px;
+    -o-border-radius: 0 0 3px 3px;
+
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4);
+    border-radius: 0 0 3px 3px;
+}
+
+/*******************
+ * sidebar panels
+ */
+
+.dynmap .sidebar {
+
+    display: block;
+    position: absolute;
+    z-index: 120;
+
+    top: 0px;
+    right: 0px;
+
+    height: 100%;
+
+    background: rgb(0,0,0); /* FU IE */
+    background: rgba(0,0,0,0.6);
+    color: #fff;
+
+    border-left: 1px solid rgba(0,0,0,0.5);
+
+    -moz-transition: all 0.6s ease-in-out;
+    -webkit-transition: all 0.6s ease-in-out;
+    -o-transition: all 0.6s ease-in-out;
+
+    transition: all 0.6s ease-in-out;
+}
+
+.dynmap .hitbar {
+
+    display: block;
+    position: absolute;
+    z-index: 110;
+
+    top: 0px;
+
+    height: 100%;
+    width: 16px;
+
+    text-align: center;
+
+    background: url(../images/sidebar_hint.png) rgb(0,0,0);
+    background: url(../images/sidebar_hint.png) rgba(0,0,0,0.6);
+    background-repeat: no-repeat;
+    background-position:center;
+
+    border: 1px solid rgba(0,0,0,0.5);
+
+    -moz-transition: all 0.6s ease-in-out;
+    -webkit-transition: all 0.6s ease-in-out;
+    -o-transition: all 0.6s ease-in-out;
+
+    transition: all 0.6s ease-in-out;
+}
+
+/* magic and metrics */
+
+.dynmap .sidebar:hover,
+.dynmap .sidebar.pinned {
+    margin-right: 0px;
+}
+
+.dynmap .sidebar < .hitbar:hover {
+    margin-right: 0px;
+}
+
+.dynmap .sidebar:hover .hitbar,
+.dynmap .sidebar.pinned .hitbar {
+    right: -120px;
+}
+
+/* pinning */
+
+.dynmap .sidebar .panel > .pin {
+    position: absolute;
+
+    right: 8px;
+    top: 7px;
+
+    width: 16px;
+    height: 16px;
+
+    background-image: url(../images/window_close.png);
+}
+
+.dynmap .sidebar .panel > .pin:hover {
+    background-image: url(../images/window_pinned_hover.png);
+}
+
+.dynmap .sidebar.pinned .panel > .pin:hover {
+    background-image: url(../images/window_close_hover.png);
+}
+
+.dynmap .sidebar.pinned .panel > .pin {
+    background-image: url(../images/window_pinned.png);
+}
+
+
+/*******************
+ * Sidebar clock style
+ */
+/*
+.dynmap .panel .clock {
+    display: inline-block;
+    height: 16px;
+
+    font-weight: bold;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    margin-left: 8px;
+}
+*/
+.largeclock.digitalclock {
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.digitalclock {
+	text-align: center;
+}
+
+.digitalclock.night {
+    /* background-image: url(../images/clock_night.png); */
+    color: #dff;
+}
+
+.digitalclock.day {
+    /* background-image: url(../images/clock_day.png); */
+    color: #fd3;
+}
+
+.digitalclock.night, .digitalclock.day {
+    -moz-transition: color 8s 8s linear;
+    -webkit-transition: color 8s 8s linear;
+    -o-transition: color 8s 8s linear;
+    transition: color 8s 8s linear;
+}
+
+
+/*******************
+ * Large clock style
+ */
+
+.largeclock {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    border-color: rgba(0,0,0,0.5);
+    width: 150px;
+    height: 60px;
+    background: rgba(0,0,0,0.6);
+
+    margin: auto;
+}
+
+.timeofday {
+    background-repeat: no-repeat;
+}
+
+.timeofday.sun {
+    background-image: url(../images/sun.png);
+}
+
+.timeofday.moon {
+    background-image: url(../images/moon.png);
+}
+
+.timeofday.digitalclock {
+	position: relative;
+	bottom: 16px;
+}
+
+/*******************
+ * map list-specific styling
+ */
+
+.dynmap .panel .world {
+    display: block;
+    clear: both;
+
+    width: 100%;
+    line-height: 18px;
+    margin: 0 0 30px 0;
+
+    border-bottom: 1px solid rgba(128,128,128,0.3);
+
+}
+
+.dynmap .maplist .map {
+    display: block;
+    float: left;
+
+    height: 18px;
+    width: 18px;
+
+    padding: 2px;
+    margin: 5px 2px;
+
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+
+    background: rgba(32,32,32,0.6);
+    border: 1px solid rgba(64,64,64,0.6);
+}
+
+.dynmap .maplist .map:hover {
+    background: rgba(64,64,64,0.6);
+    border: 1px solid rgba(128,128,128,0.6);
+}
+
+.dynmap .maplist .map.selected {
+    background: rgba(128,128,128,0.5);
+    border: 1px solid rgba(255,255,255,0.5);
+}
+
+.dynmap .maplist .map > a {
+    display: block;
+
+    text-indent: -99999px;
+    outline: none;
+}
+
+.dynmap .maplist .map > a {
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*******************
+ * player list-specific styles
+ */
+
+.dynmap .playerlist .player {
+
+    display: inline-block;
+    float: left;
+    width: 100%;
+
+    padding: 4px 0;
+    border: 3px solid transparent;
+}
+
+.dynmap .playerlist .player.otherworld {
+	opacity: 0.5;
+}
+
+.dynmap .playerlist .player:hover {
+    background: rgba(64,64,64,0.6);
+}
+
+.dynmap .playerlist .player a {
+    color: #fff;
+}
+
+.dynmap .playerlist .playerIcon img {
+    width: 16px;
+    height: 16px;
+}
+
+.dynmap .playerlist .playerIcon > * {
+    vertical-align: middle;
+    border: none;
+}
+
+.dynmap .playerlist .playerIcon {
+    width: 16px;
+    height: 16px;
+
+    display: block;
+    float: left;
+
+    margin: 0px 4px 0px 2px;
+}
+
+.dynmap .playerlist .player.following {
+    background: rgba(128,128,128,0.5);
+    border: 1px solid rgba(255,255,255,0.5);
+
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+
+    padding: 6px 2px;
+}
+
+.dynmap .playerlist .player:hover .playericon {
+    background: url(../images/player_follow_off.png) no-repeat;
+}
+
+.dynmap .playerlist .player.following .playericon {
+    background: url(../images/player_follow_on.gif) no-repeat;
+}
+
+.dynmap .playerlist .player.following .playericon > *,
+.dynmap .playerlist .player:hover .playericon > * {
+    visibility: hidden;
+}
+
+/*******************
+ * Playerlist Scrolling
+ */
+
+.panel .scrollup {
+    border: 1px solid rgba(64,64,64,0.6);
+	background: url(../images/scrollup.png) rgba(32,32,32,0.6);
+
+	margin-bottom: 4px;
+
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -o-border-radius: 2px;
+	border-radius: 2px;
+}
+
+.panel .scrolldown {
+    border: 1px solid rgba(64,64,64,0.6);
+	background: url(../images/scrolldown.png) rgba(32,32,32,0.6);
+
+	margin-top: 4px;
+
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -o-border-radius: 2px;
+	border-radius: 2px;
+}
+
+.panel .scrollup:hover, .panel .scrolldown:hover {
+    border: 1px solid rgba(128,128,128,0.6);
+	background: url(../images/scrollup.png) rgba(64,64,64,0.6);
+}
+
+.panel .scrollup:active, .panel .scrolldown:active {
+    border: 1px solid rgba(255,255,255,0.5);
+	background: url(../images/scrollup.png) rgba(128,128,128,0.5);
+}
+
+.panel .scrolldown:hover {
+    border: 1px solid rgba(128,128,128,0.6);
+	background: url(../images/scrolldown.png) rgba(64,64,64,0.6);
+}
+
+.panel .scrolldown:active {
+    border: 1px solid rgba(255,255,255,0.5);
+	background: url(../images/scrolldown.png) rgba(128,128,128,0.5);
+}
+
+.panel .scrollup, .panel .scrollup:active, .panel .scrollup:hover,
+.panel .scrolldown, .panel .scrolldown:active, .panel .scrolldown:hover {
+	height: 18px;
+	width: 100%;
+
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.playerlist {
+	overflow:hidden;
+}
+
+/*******************
+ * players on the map
+ */
+
+.dynmap .playerName {
+	position: absolute;
+	top: 0px;
+	left: 34px;
+
+    color: #fff;
+    background: rgba(0,0,0,0.6);
+    padding: 2px;
+
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+
+/*******************
+ * Compass
+ */
+
+.compass {
+    display: block;
+    position: absolute;
+    z-index: 10;
+
+    top: 10px;
+    right: 32px;
+
+    height: 84px;
+    width: 83px;
+
+    background-repeat: no-repeat;
+    background-image: url(../images/compass.png);
+}
+
+/*******************
+ * Chat
+ */
+
+.chat {
+	position: absolute;
+	bottom: 0px;
+	left: 14px;
+
+    border-color: rgba(0,0,0,0.5);
+    background: rgba(0,0,0,0.6);
+
+    border-style: solid;
+    border-width: 1px 1px 0px 1px;
+
+    -moz-border-radius: 3px 3px 0px 0px;
+    -webkit-border-radius: 3px 3px 0px 0px;
+    -o-border-radius: 3px 3px 0px 0px;
+    border-radius: 3px 3px 0px 0px;
+}
+
+.chatinput {
+
+	width: 608px;
+	height: 16px;
+
+	outline: none;
+	color: #fff;
+
+	border: 0px;
+	background: rgba(0, 0, 0, 0.6);
+	background: url(../images/chat_cursor.png) rgba(0,0,0,0.6);
+	background-repeat: no-repeat;
+	background-position: 1px center;
+
+	margin: 4px;
+	padding: 1px 1px 1px 15px;
+}
+
+.messagelist {
+	color: white;
+	overflow: hidden;
+
+	width: 622px;
+	max-height: 198px;
+
+	margin: 4px 4px 0px 4px;
+	padding: 1px;
+}
+
+.messagerow {
+	position: relative;
+	max-height: 200px;
+
+	left: 0px;
+	bottom: 0px;
+
+	color: #fff;
+	font-weight: bold;
+}
+
+.messageicon {
+	position: relative;
+	top: 1px;
+	left: 0px;
+}
+
+.messagetext {
+	position: relative;
+	top: -3px;
+	left: 0px;
+}

@@ -1,0 +1,40 @@
+#                       #
+#        WolfSpawn      #
+#         config        #
+#                       #
+#
+# Permissions
+# WolfSpawn.release
+# WolfSpawn.respawn
+# WolfSpawn.spawn
+# WolfSpawn.spawnatplayer
+#
+# do not change
+version: 0.4
+
+## Options ##
+wolf:
+    spawn:
+        health: 20 #max 20
+        delay: 60  #seconds
+        on-player: true
+    max-tamed: 1
+    
+messages:
+    enabled: true #all messages
+    
+    death:
+        enabled: true
+        text: '[WolfSpawn] Your wolf got scared and ran off'
+    release:
+        enabled: true
+        text: '[WolfSpawn] You released your wolf'
+    release-toggle-on:
+        enabled: true
+        text: '[WolfSpawn] Release enabled - your wolves will not respawn'
+    release-toggle-off:
+        enabled: true
+        text: '[WolfSpawn] Release disabled - your wolves will respawn again'
+    respawn:
+        enabled: true
+        text: '[WolfSpawn] A wolf found you'

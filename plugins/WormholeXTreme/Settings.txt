@@ -1,0 +1,77 @@
+WormholeXTreme 0.833
+WormholeXTreme Config Settings
+-------------------------------
+
+---------------
+Setting: BUILT_IN_PERMISSIONS_ENABLED
+Value: false
+Description: This should be set to true if you want the built in permissions enabled. This
+             setting does nothing if you have Permissions plugin installed.
+---------------
+Setting: BUILT_IN_DEFAULT_PERMISSION_LEVEL
+Value: WORMHOLE_USE_PERMISSION
+Description: If built in permissions are being used, this is the default level of control
+             users (non-ops) have.
+---------------
+Setting: PERMISSIONS_SUPPORT_DISABLE
+Value: false
+Description: If set to true, Permissions plugin will not be attached to evem if available.
+---------------
+Setting: SIMPLE_PERMISSIONS
+Value: false
+Description: If using Permissions plugin based permissions, setting this to true switches
+             WormholeXTreme to use an extremely simplified permissions set
+             ('wormhole.simple.use', 'wormhole.simple.build',
+             'wormhole.simple.config', and 'wormhole.simple.remove').
+---------------
+Setting: WORMHOLE_USE_IS_TELEPORT
+Value: false
+Description: The wormhole.use (or wormhole.simple.use) permission means that a user can
+             teleport through gate. When false a user will be able to teleport
+             but not activate a gate. When true only users with wormhole.use (or
+             wormhole.simple.use) can even teleport.
+---------------
+Setting: TIMEOUT_ACTIVATE
+Value: 30
+Description: Number of seconds after a gate is activated, but before dialing before timing
+             out.
+---------------
+Setting: TIMEOUT_SHUTDOWN
+Value: 38
+Description: Number of seconds after a gate is dialed before automatically shutdown. With 0
+             timeout a gate won't shutdown until something goes through the
+             gate.
+---------------
+Setting: ICONOMY_SUPPORT_DISABLE
+Value: false
+Description: If set to true, iConomy plugin will not be attached to even if available.
+---------------
+Setting: ICONOMY_WORMHOLE_USE_COST
+Value: 0.0
+Description: Cost for users to use a wormhole (charged on teleport, not activation.)
+---------------
+Setting: ICONOMY_WORMHOLE_BUILD_COST
+Value: 0.0
+Description: Cost for users to build a wormhole.
+---------------
+Setting: ICONOMY_OPS_EXEMPT
+Value: true
+Description: Server Ops will not be charged to use or build gates.
+---------------
+Setting: ICONOMY_OWNER_EXEMPT
+Value: true
+Description: Stargate owners will not be charged to use their own gates.
+---------------
+Setting: ICONOMY_WORMHOLE_OWNER_PERCENT
+Value: 0.0
+Description: Percent ( from 0.0 - 1.0 ) of wormhole use cost the builder of a gate is given.
+---------------
+Setting: HELP_SUPPORT_DISABLE
+Value: false
+Description: If set to true, Help plugin will not be attached to even if available.
+---------------
+Setting: LOG_LEVEL
+Value: INFO
+Description: Log level to use for minecraft logging purposes. Values are SEVERE, WARNING,
+             INFO, CONFIG, FINE, FINER, and FINEST. In order of least to most
+             logging output.
