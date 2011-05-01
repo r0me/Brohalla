@@ -244,3 +244,9 @@ users:
             prefix: 'The Brotato himself, '
             suffix: ''
         permissions:
+    Bennythebull:
+        group: User
+        info:
+            prefix: 'The Word Nerd '
+            suffix: ''
+        permissions:

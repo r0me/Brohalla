@@ -1191,3 +1191,1189 @@ java.lang.NullPointerException
 2011-04-30 21:01:10 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
 2011-04-30 21:01:10 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
 2011-04-30 21:01:10 [INFO] Saving chunks
+2011-04-30 21:08:07 [INFO] Starting minecraft server version Beta 1.5_02
+2011-04-30 21:08:07 [INFO] Loading properties
+2011-04-30 21:08:07 [INFO] Starting Minecraft server on *:25565
+2011-04-30 21:08:07 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-04-30 21:08:07 [INFO] Preparing level "world"
+2011-04-30 21:08:07 [INFO] Preparing start region
+2011-04-30 21:08:08 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-04-30 21:08:09 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-04-30 21:08:10 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-04-30 21:08:10 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-04-30 21:08:10 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-04-30 21:08:10 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-04-30 21:08:10 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 21:08:10 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 21:08:10 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 21:08:10 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-04-30 21:08:10 [INFO] Activated world 'world' in Dynmap.
+2011-04-30 21:08:10 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 21:08:10 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 21:08:10 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 21:08:10 [INFO] Dynmap WebServer started on null:80
+2011-04-30 21:08:10 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-04-30 21:08:10 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-04-30 21:08:10 [INFO] iChat (v2.2.3) enabled
+2011-04-30 21:08:10 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 21:08:10 [INFO] [Landmarks] Successfully loaded 1 markers.
+2011-04-30 21:08:10 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-04-30 21:08:10 [INFO] LoginMessage 0.6_3 enabled
+2011-04-30 21:08:10 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-04-30 21:08:11 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-04-30 21:08:11 [INFO] [MultiVerse] Permissions Found
+2011-04-30 21:08:11 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-04-30 21:08:11 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-04-30 21:08:11 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-04-30 21:08:11 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-04-30 21:08:11 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-04-30 21:08:11 [INFO] [MultiVerse] Loading Portals
+2011-04-30 21:08:11 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-04-30 21:08:11 [INFO] [MYHOME]: 2 homes loaded
+2011-04-30 21:08:11 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-04-30 21:08:11 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-04-30 21:08:11 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-04-30 21:08:11 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-04-30 21:08:11 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-04-30 21:08:11 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-04-30 21:08:11 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-04-30 21:08:11 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-04-30 21:08:11 [INFO] [WeatherGod] Permission system detected.
+2011-04-30 21:08:11 [INFO] WeatherGod version 0.22 is enabled!
+2011-04-30 21:08:11 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-04-30 21:08:11 [INFO] WorldEdit 4.4 enabled.
+2011-04-30 21:08:11 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 21:08:11 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-04-30 21:08:11 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-04-30 21:08:11 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-04-30 21:08:11 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-04-30 21:08:11 [INFO] [WormholeXTreme]iConomy Plugin not yet available - there will be no iConomy integration until loaded.
+2011-04-30 21:08:11 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-04-30 21:08:11 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-04-30 21:08:11 [INFO] Done (0.351s)! For help, type "help" or "?"
+2011-04-30 21:10:28 [INFO] Stopping the server..
+2011-04-30 21:10:28 [INFO] CONSOLE: Stopping the server..
+2011-04-30 21:10:28 [INFO] Stopping server
+2011-04-30 21:10:28 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-04-30 21:10:28 [INFO] Stopping map renderer...
+2011-04-30 21:10:28 [INFO] Shutting down webserver...
+2011-04-30 21:10:28 [INFO] [iChat] iChat Disabled
+2011-04-30 21:10:28 [INFO] map WebServer.run() stops with IOException
+2011-04-30 21:10:28 [INFO] Webserver shut down.
+2011-04-30 21:10:28 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 21:10:28 [INFO] [Landmarks] Landmarks disabled.
+2011-04-30 21:10:28 [INFO] [MultiInv] Plugin disabled.
+2011-04-30 21:10:28 [INFO] [MultiVerse] - Disabled
+2011-04-30 21:10:28 [INFO] [Permissions] (Phoenix) saved all data.
+2011-04-30 21:10:28 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-04-30 21:10:28 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 21:10:28 [INFO] [iChat] Permissions plugin lost.
+2011-04-30 21:10:28 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-04-30 21:10:28 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-04-30 21:10:28 [INFO] WeatherGod disabled!
+2011-04-30 21:10:28 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-04-30 21:10:28 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-04-30 21:10:28 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-04-30 21:10:28 [INFO] Saving chunks
+2011-04-30 21:10:29 [INFO] Stopping server
+2011-04-30 21:10:32 [INFO] Starting minecraft server version Beta 1.5_02
+2011-04-30 21:10:32 [INFO] Loading properties
+2011-04-30 21:10:32 [INFO] Starting Minecraft server on *:25565
+2011-04-30 21:10:32 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-04-30 21:10:32 [INFO] Preparing level "world"
+2011-04-30 21:10:32 [INFO] Preparing start region
+2011-04-30 21:10:33 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-04-30 21:10:33 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-04-30 21:10:35 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-04-30 21:10:35 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-04-30 21:10:35 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-04-30 21:10:35 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-04-30 21:10:35 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 21:10:35 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 21:10:35 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 21:10:35 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-04-30 21:10:35 [INFO] Activated world 'world' in Dynmap.
+2011-04-30 21:10:35 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 21:10:35 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 21:10:35 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 21:10:35 [INFO] Dynmap WebServer started on null:80
+2011-04-30 21:10:35 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-04-30 21:10:35 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-04-30 21:10:35 [INFO] iChat (v2.2.3) enabled
+2011-04-30 21:10:35 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 21:10:35 [INFO] [Landmarks] Successfully loaded 1 markers.
+2011-04-30 21:10:35 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-04-30 21:10:35 [INFO] LoginMessage 0.6_3 enabled
+2011-04-30 21:10:35 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-04-30 21:10:35 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-04-30 21:10:35 [INFO] [MultiVerse] Permissions Found
+2011-04-30 21:10:35 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-04-30 21:10:35 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-04-30 21:10:35 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-04-30 21:10:35 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-04-30 21:10:35 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-04-30 21:10:35 [INFO] [MultiVerse] Loading Portals
+2011-04-30 21:10:35 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-04-30 21:10:36 [INFO] [MYHOME]: 2 homes loaded
+2011-04-30 21:10:36 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-04-30 21:10:36 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-04-30 21:10:36 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-04-30 21:10:36 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-04-30 21:10:36 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-04-30 21:10:36 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-04-30 21:10:36 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-04-30 21:10:36 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-04-30 21:10:36 [INFO] [WeatherGod] Permission system detected.
+2011-04-30 21:10:36 [INFO] WeatherGod version 0.22 is enabled!
+2011-04-30 21:10:36 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-04-30 21:10:36 [INFO] WorldEdit 4.4 enabled.
+2011-04-30 21:10:36 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 21:10:36 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-04-30 21:10:36 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-04-30 21:10:36 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-04-30 21:10:36 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-04-30 21:10:36 [INFO] [WormholeXTreme]iConomy Plugin not yet available - there will be no iConomy integration until loaded.
+2011-04-30 21:10:36 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-04-30 21:10:36 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-04-30 21:10:36 [INFO] Done (0.428s)! For help, type "help" or "?"
+2011-04-30 21:11:28 [INFO] CAPSLOCKNINJA [/127.0.0.1:59493] logged in with entity id 230
+2011-04-30 21:12:32 [INFO] [WormholeXTreme]CAPSLOCKNINJA used wormhole: Main to go to: Nether
+2011-04-30 21:12:35 [INFO] Loaded world: Nether
+2011-04-30 21:12:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 21:13:38 [INFO] [WormholeXTreme]CAPSLOCKNINJA used wormhole: Nether to go to: Main
+2011-04-30 21:16:53 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Sign' in your inventory.
+2011-04-30 21:18:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 21:18:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 21:20:41 [INFO] Connection reset
+2011-04-30 21:20:41 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-04-30 21:20:41 [INFO] Connected players: 
+2011-04-30 21:22:23 [INFO] fpsrome [/76.216.211.71:59393] logged in with entity id 36775
+2011-04-30 21:22:35 [INFO] Ti22_simos [/98.250.9.78:60263] logged in with entity id 37651
+2011-04-30 21:22:58 [INFO] Connection reset
+2011-04-30 21:22:58 [INFO] fpsrome lost connection: disconnect.quitting
+2011-04-30 21:22:59 [INFO] Connected players: Ti22_simos
+2011-04-30 21:30:24 [INFO] Connection reset
+2011-04-30 21:30:24 [INFO] Ti22_simos lost connection: disconnect.quitting
+2011-04-30 21:30:25 [INFO] Connected players: 
+2011-04-30 21:32:57 [INFO] Ti22_simos [/98.250.9.78:60485] logged in with entity id 97649
+2011-04-30 21:42:18 [INFO] CAPSLOCKNINJA [/127.0.0.1:59904] logged in with entity id 129826
+2011-04-30 21:42:22 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-04-30 21:42:22 [INFO] Connection reset
+2011-04-30 21:49:37 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+	at nl.robinvandervliet.DeathMessagePlugin.DeathMessagePluginEntityListener.onEntityDeath(DeathMessagePluginEntityListener.java:427)
+	at org.bukkit.plugin.java.JavaPluginLoader$45.execute(JavaPluginLoader.java:480)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityPlayer.a(EntityPlayer.java:121)
+	at net.minecraft.server.EntityLiving.damageEntity(EntityLiving.java:393)
+	at net.minecraft.server.EntityHuman.damageEntity(EntityHuman.java:423)
+	at net.minecraft.server.EntityPlayer.damageEntity(EntityPlayer.java:149)
+	at net.minecraft.server.Explosion.a(Explosion.java:152)
+	at net.minecraft.server.World.createExplosion(World.java:1275)
+	at net.minecraft.server.WorldServer.createExplosion(WorldServer.java:130)
+	at net.minecraft.server.EntityCreeper.a(EntityCreeper.java:99)
+	at net.minecraft.server.EntityCreature.c_(EntityCreature.java:67)
+	at net.minecraft.server.EntityLiving.u(EntityLiving.java:657)
+	at net.minecraft.server.EntityMonster.u(EntityMonster.java:30)
+	at net.minecraft.server.EntityLiving.p_(EntityLiving.java:231)
+	at net.minecraft.server.EntityMonster.p_(EntityMonster.java:34)
+	at net.minecraft.server.EntityCreeper.p_(EntityCreeper.java:57)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-04-30 21:55:59 [INFO] Psycholiptic [/71.205.171.23:48886] logged in with entity id 193136
+2011-04-30 21:56:10 [INFO] [CONSOLE] kurt, what do you want your title to be?
+2011-04-30 21:56:18 [INFO] [world]§f[09:56]§aPsycholiptic:§e whos there? 
+2011-04-30 21:56:25 [INFO] [world]§f[09:56]§aTi22_simos:§e ME!! 
+2011-04-30 21:56:25 [INFO] [world]§f[09:56]§aPsycholiptic:§e am i talking to..god> 
+2011-04-30 21:56:28 [INFO] [CONSOLE] this is caps/rob
+2011-04-30 21:56:44 [INFO] [world]§f[09:56]§aPsycholiptic:§e ohhh hey rob! 
+2011-04-30 21:56:50 [INFO] [CONSOLE] sup
+2011-04-30 21:57:08 [INFO] [CONSOLE] cereally though, what you want your title to be? Neither of you guys have one
+2011-04-30 21:57:16 [INFO] [world]§f[09:57]§aPsycholiptic:§e nm, and what do you men by title? 
+2011-04-30 21:57:29 [INFO] [CONSOLE] like when I talk it says "I, CAPSLOCKNINJA, decree"
+2011-04-30 21:57:59 [INFO] [world]§f[09:57]§aPsycholiptic:§e i want mine to e pimpassdaddiothe3rd lol jk 
+2011-04-30 21:58:21 [INFO] [CONSOLE] or with chaz it says "The winrar asneakyfatcat demands"
+2011-04-30 21:58:30 [INFO] [CONSOLE] with mike it says "Fuck you, GTManiac is a real G!"
+2011-04-30 21:58:40 [INFO] [world]§f[09:58]§aPsycholiptic:§e can i have some time to think of one? 
+2011-04-30 21:58:42 [INFO] [CONSOLE] for owen it says "Yaaaargh, it be fpsrome"
+2011-04-30 21:58:43 [INFO] [CONSOLE] etc
+2011-04-30 21:58:43 [INFO] [CONSOLE] 
+2011-04-30 21:58:45 [INFO] [CONSOLE] and sure
+2011-04-30 21:59:03 [INFO] [world]§f[09:59]§aPsycholiptic:§e are there zombies on this server 
+2011-04-30 21:59:41 [INFO] [world]§f[09:59]§aPsycholiptic:§e nvm i found out 
+2011-04-30 21:59:50 [INFO] [CONSOLE] lol
+2011-04-30 22:00:09 [INFO] [CONSOLE] sooner or later I'll make it so they aren't on the creative world though
+2011-04-30 22:00:12 [INFO] [world]§f[10:00]§aPsycholiptic:§e ok so whats up with this area with like all stone lol? 
+2011-04-30 22:00:27 [INFO] [CONSOLE] Chaz and Mike are making a quarry the size of aperture science
+2011-04-30 22:00:40 [INFO] [world]§f[10:00]§aPsycholiptic:§e ohhh lol 
+2011-04-30 22:00:52 [INFO] [world]§f[10:00]§aPsycholiptic:§e wait can you do the / give command? 
+2011-04-30 22:01:22 [INFO] [world]§f[10:01]§aTi22_simos:§e nap time!! 
+2011-04-30 22:01:29 [INFO] [world]§f[10:01]§aPsycholiptic:§e k 
+2011-04-30 22:01:49 [INFO] [CONSOLE] I can use /give yes
+2011-04-30 22:01:58 [INFO] [world]§f[10:01]§aPsycholiptic:§e can i? 
+2011-04-30 22:02:05 [INFO] [CONSOLE] you guys can too but only on the creative world, you're probably on the survival world
+2011-04-30 22:02:23 [INFO] [world]§f[10:02]§aPsycholiptic:§e oh lol 
+2011-04-30 22:02:43 [INFO] [CONSOLE] also I need to turn off enemies in the creative world
+2011-04-30 22:03:02 [INFO] [world]§f[10:03]§aPsycholiptic:§e is the command /spawn sitll there? 
+2011-04-30 22:03:14 [INFO] [world]§f[10:03]§aTi22_simos:§e yup 
+2011-04-30 22:03:20 [INFO] Psycholiptic tried command: spawn
+2011-04-30 22:03:21 [INFO] [world]§f[10:03]§aTi22_simos:§e and homes too 
+2011-04-30 22:03:35 [INFO] [CONSOLE] spawn doesn't exist no moars
+2011-04-30 22:03:42 [INFO] [world]§f[10:03]§aPsycholiptic:§e noesss!!/ 
+2011-04-30 22:03:49 [INFO] [CONSOLE] but you can type /set home to make your houce, and that becomes your spawn point
+2011-04-30 22:03:56 [INFO] [world]§f[10:03]§aPsycholiptic:§e sweet 
+2011-04-30 22:04:05 [INFO] lufonso [/71.205.82.84:49985] logged in with entity id 362295
+2011-04-30 22:04:06 [INFO] [world]§f[10:04]§aPsycholiptic:§e whose house is made outta wood? 
+2011-04-30 22:04:20 [INFO] [world]§f[10:04]§alufonso 60s man:§e myn 
+2011-04-30 22:04:35 [INFO] lufonso lost connection: disconnect.quitting
+2011-04-30 22:04:35 [INFO] Connection reset
+2011-04-30 22:04:39 [INFO] lufonso [/71.205.82.84:50051] logged in with entity id 363883
+2011-04-30 22:04:55 [INFO] [world]§f[10:04]§aPsycholiptic:§e jeezz thats a loong bridge 
+2011-04-30 22:05:25 [INFO] [world]§f[10:05]§alufonso 60s man:§e hah ya i needed somewhere to put all the dirt i had left over :P 
+2011-04-30 22:05:35 [INFO] [CONSOLE] lol cha cha
+2011-04-30 22:05:52 [INFO] [world]§f[10:05]§aPsycholiptic:§e hey rob, is there a way to tell how far i am from spawn? 
+2011-04-30 22:05:59 [INFO] [CONSOLE] not really
+2011-04-30 22:06:04 [INFO] [CONSOLE] I'll check for you
+2011-04-30 22:06:05 [INFO] asneakyfatcat [/71.205.168.236:2698] logged in with entity id 369707
+2011-04-30 22:06:52 [INFO] Bennythebull [/99.39.138.15:4193] logged in with entity id 372406
+2011-04-30 22:06:55 [INFO] [CONSOLE] kurt you're like just south of it
+2011-04-30 22:06:59 [INFO] [CONSOLE] sup ben
+2011-04-30 22:07:03 [INFO] [CONSOLE] lemme whitelist you
+2011-04-30 22:07:05 [INFO] [world]§f[10:07]§aTi22_simos:§e is there a map? 
+2011-04-30 22:07:08 [INFO] [world]§f[10:07]§aBennythebull:§e Hey 
+2011-04-30 22:07:16 [INFO] [world]§f[10:07]§aTi22_simos:§e yoo 
+2011-04-30 22:07:16 [INFO] [world]§f[10:07]§aBennythebull:§e How do i talk 
+2011-04-30 22:07:21 [INFO] [world]§f[10:07]§aTi22_simos:§e lol 
+2011-04-30 22:07:25 [INFO] [world]§f[10:07]§aBennythebull:§e Oh nvm 
+2011-04-30 22:07:32 [INFO] [world]§f[10:07]§aBennythebull:§e Hah 
+2011-04-30 22:07:50 [INFO] [world]§f[10:07]§aPsycholiptic:§e i cant find a good spot to make mai house!!!! 
+2011-04-30 22:07:52 [INFO] [CONSOLE] lol good job
+2011-04-30 22:07:57 [INFO] [world]§f[10:07]§aTi22_simos:§e come near me 
+2011-04-30 22:08:01 [INFO] [CONSOLE] ewwww
+2011-04-30 22:08:05 [INFO] [world]§f[10:08]§aTi22_simos:§e lol 
+2011-04-30 22:08:06 [INFO] [world]§f[10:08]§aBennythebull:§e Okay so who is who? 
+2011-04-30 22:08:12 [INFO] asneakyfatcat lost connection: disconnect.quitting
+2011-04-30 22:08:12 [INFO] Connection reset
+2011-04-30 22:08:15 [INFO] asneakyfatcat [/71.205.168.236:2710] logged in with entity id 377701
+2011-04-30 22:08:17 [INFO] [world]§f[10:08]§aBennythebull:§e PIG 
+2011-04-30 22:08:18 [INFO] [CONSOLE] anseakyfatcat=chaz moshier
+2011-04-30 22:08:20 [INFO] Connection reset
+2011-04-30 22:08:20 [INFO] asneakyfatcat lost connection: disconnect.quitting
+2011-04-30 22:08:21 [INFO] Connected players: Ti22_simos, Psycholiptic, lufonso, Bennythebull
+2011-04-30 22:08:22 [INFO] [world]§f[10:08]§aTi22_simos:§e Ti is Simon 
+2011-04-30 22:08:26 [INFO] [CONSOLE] lufonso=charlie zuccarini
+2011-04-30 22:08:35 [INFO] [CONSOLE] psycholiptic=Kurt Melendy
+2011-04-30 22:08:38 [INFO] [world]§f[10:08]§aBennythebull:§e Hello Charlie 
+2011-04-30 22:08:43 [INFO] [CONSOLE] Ti22_Simos=Simon Trask
+2011-04-30 22:08:46 [INFO] [world]§f[10:08]§alufonso 60s man:§e herro 
+2011-04-30 22:08:47 [INFO] [CONSOLE] and then you're ben ervin
+2011-04-30 22:08:50 [INFO] [world]§f[10:08]§aTi22_simos:§e yo 
+2011-04-30 22:08:52 [INFO] [world]§f[10:08]§aPsycholiptic:§e you know me silly 
+2011-04-30 22:08:58 [INFO] [world]§f[10:08]§aBennythebull:§e I did not know that 
+2011-04-30 22:09:09 [INFO] [CONSOLE] and I'm Markus Persson
+2011-04-30 22:09:14 [INFO] [world]§f[10:09]§aBennythebull:§e yes kurt i know you 
+2011-04-30 22:09:19 [INFO] asneakyfatcat [/71.205.168.236:2718] logged in with entity id 384165
+2011-04-30 22:09:31 [INFO] [world]§f[10:09]§aPsycholiptic:§e you do?? 
+2011-04-30 22:09:38 [INFO] [world]§f[10:09]§aBennythebull:§e Hah yeah 
+2011-04-30 22:09:41 [INFO] [CONSOLE] wait a sex guys I gotta restart the server for a sex
+2011-04-30 22:09:42 [INFO] [world]§f[10:09]§aBennythebull:§e most likely 
+2011-04-30 22:09:46 [INFO] Stopping the server..
+2011-04-30 22:09:46 [INFO] CONSOLE: Stopping the server..
+2011-04-30 22:09:46 [INFO] Stopping server
+2011-04-30 22:09:46 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-04-30 22:09:46 [INFO] Stopping map renderer...
+2011-04-30 22:09:46 [INFO] Shutting down webserver...
+2011-04-30 22:09:46 [INFO] [iChat] iChat Disabled
+2011-04-30 22:09:46 [INFO] map WebServer.run() stops with IOException
+2011-04-30 22:09:46 [INFO] Webserver shut down.
+2011-04-30 22:09:46 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 22:09:46 [INFO] [Landmarks] Landmarks disabled.
+2011-04-30 22:09:46 [INFO] [MultiInv] Plugin disabled.
+2011-04-30 22:09:46 [INFO] [MultiVerse] - Disabled
+2011-04-30 22:09:46 [INFO] [Permissions] (Phoenix) saved all data.
+2011-04-30 22:09:46 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-04-30 22:09:46 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 22:09:46 [INFO] [iChat] Permissions plugin lost.
+2011-04-30 22:09:46 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-04-30 22:09:46 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-04-30 22:09:46 [INFO] WeatherGod disabled!
+2011-04-30 22:09:46 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-04-30 22:09:46 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-04-30 22:09:46 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-04-30 22:09:46 [INFO] Saving chunks
+2011-04-30 22:09:47 [INFO] Stopping server
+2011-04-30 22:09:51 [INFO] Starting minecraft server version Beta 1.5_02
+2011-04-30 22:09:51 [INFO] Loading properties
+2011-04-30 22:09:51 [INFO] Starting Minecraft server on *:25565
+2011-04-30 22:09:51 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-04-30 22:09:51 [INFO] Preparing level "world"
+2011-04-30 22:09:51 [INFO] Preparing start region
+2011-04-30 22:09:52 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-04-30 22:09:52 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-04-30 22:09:54 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-04-30 22:09:54 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-04-30 22:09:54 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-04-30 22:09:54 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-04-30 22:09:54 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 22:09:54 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 22:09:54 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 22:09:54 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-04-30 22:09:54 [INFO] Activated world 'world' in Dynmap.
+2011-04-30 22:09:54 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 22:09:54 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 22:09:54 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 22:09:54 [INFO] Dynmap WebServer started on null:80
+2011-04-30 22:09:54 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-04-30 22:09:54 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-04-30 22:09:54 [INFO] iChat (v2.2.3) enabled
+2011-04-30 22:09:54 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 22:09:54 [INFO] [Landmarks] Successfully loaded 1 markers.
+2011-04-30 22:09:54 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-04-30 22:09:54 [INFO] LoginMessage 0.6_3 enabled
+2011-04-30 22:09:54 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-04-30 22:09:54 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-04-30 22:09:54 [INFO] [MultiVerse] Permissions Found
+2011-04-30 22:09:54 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-04-30 22:09:54 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-04-30 22:09:54 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-04-30 22:09:54 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-04-30 22:09:54 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-04-30 22:09:54 [INFO] [MultiVerse] Loading Portals
+2011-04-30 22:09:54 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-04-30 22:09:54 [INFO] [MYHOME]: 2 homes loaded
+2011-04-30 22:09:54 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-04-30 22:09:54 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-04-30 22:09:54 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-04-30 22:09:54 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-04-30 22:09:54 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-04-30 22:09:54 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-04-30 22:09:54 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-04-30 22:09:54 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-04-30 22:09:54 [INFO] [WeatherGod] Permission system detected.
+2011-04-30 22:09:54 [INFO] WeatherGod version 0.22 is enabled!
+2011-04-30 22:09:54 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-04-30 22:09:54 [INFO] WorldEdit 4.4 enabled.
+2011-04-30 22:09:54 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 22:09:55 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-04-30 22:09:55 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-04-30 22:09:55 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-04-30 22:09:55 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-04-30 22:09:55 [INFO] [WormholeXTreme]iConomy Plugin not yet available - there will be no iConomy integration until loaded.
+2011-04-30 22:09:55 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-04-30 22:09:55 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-04-30 22:09:55 [INFO] Done (0.364s)! For help, type "help" or "?"
+2011-04-30 22:09:56 [INFO] Ti22_simos [/98.250.9.78:60681] logged in with entity id 403
+2011-04-30 22:09:56 [INFO] Bennythebull [/99.39.138.15:4213] logged in with entity id 504
+2011-04-30 22:09:57 [INFO] lufonso [/71.205.82.84:50505] logged in with entity id 521
+2011-04-30 22:10:10 [INFO] [CONSOLE] benyameen say summin
+2011-04-30 22:10:15 [INFO] [world]§f[10:10]§aBennythebull:§f Hi 
+2011-04-30 22:10:20 [INFO] [CONSOLE] ok that didn't work
+2011-04-30 22:10:22 [INFO] [world]§f[10:10]§aBennythebull:§f There is a large cross 
+2011-04-30 22:10:28 [INFO] [world]§f[10:10]§aBennythebull:§f ... 
+2011-04-30 22:10:29 [INFO] Psycholiptic [/71.205.171.23:49009] logged in with entity id 777
+2011-04-30 22:10:37 [INFO] [world]§f[10:10]§aBennythebull:§f should i be building a house 
+2011-04-30 22:10:38 [INFO] asneakyfatcat [/71.205.168.236:2737] logged in with entity id 1542
+2011-04-30 22:10:43 [INFO] [CONSOLE] ben can you build?
+2011-04-30 22:10:48 [INFO] [world]§f[10:10]§aPsycholiptic:§f si senor 
+2011-04-30 22:10:58 [INFO] [world]§f[10:10]§aBennythebull:§f idk yet one sec 
+2011-04-30 22:11:17 [INFO] [CONSOLE] btw notch is a fatass
+2011-04-30 22:11:24 [INFO] [CONSOLE] but gabe newell is fatter
+2011-04-30 22:11:24 [INFO] [world]§f[10:11]§aBennythebull:§f D: 
+2011-04-30 22:11:35 [INFO] [world]§f[10:11]§aBennythebull:§f :D 
+2011-04-30 22:11:36 [INFO] [CONSOLE] although thanks to gabe newell being so fat, I want to work at valve
+2011-04-30 22:11:38 [INFO] CAPSLOCKNINJA [/127.0.0.1:60352] logged in with entity id 5150
+2011-04-30 22:11:42 [INFO] [CONSOLE] just ask chaz
+2011-04-30 22:11:49 [INFO] [world]§f[10:11]§aThe Winrar asneakyfatcat demands:§f the big... pink... cookie... 
+2011-04-30 22:11:52 [INFO] [world]§f[10:11]§aBennythebull:§f Mowing the grass..... 
+2011-04-30 22:11:56 [INFO] Connection reset
+2011-04-30 22:11:56 [INFO] CAPSLOCKNINJA lost connection: disconnect.endOfStream
+2011-04-30 22:11:56 [INFO] Connected players: Ti22_simos, Bennythebull, lufonso, Psycholiptic, asneakyfatcat
+2011-04-30 22:12:19 [INFO] /127.0.0.1:60371 lost connection
+2011-04-30 22:12:19 [INFO] [world]§f[10:12]§aBennythebull:§f Shit! Night is falling! I have no home 
+2011-04-30 22:12:20 [INFO] [world]§f[10:12]§aTi22_simos:§f need cobble will trade coal 
+2011-04-30 22:12:23 [INFO] /127.0.0.1:60374 lost connection
+2011-04-30 22:12:29 [INFO] [world]§f[10:12]§aBennythebull:§f Hah 
+2011-04-30 22:12:34 [INFO] [world]§f[10:12]§aThe Winrar asneakyfatcat demands:§f how much coal for a stack of cobble 
+2011-04-30 22:12:37 [INFO] [CONSOLE] oh
+2011-04-30 22:12:39 [INFO] [CONSOLE] guyz
+2011-04-30 22:12:46 [INFO] [CONSOLE] you think we should get an economy?
+2011-04-30 22:12:46 [INFO] [world]§f[10:12]§aTi22_simos:§f 10? 
+2011-04-30 22:12:47 [INFO] [CONSOLE] or naw?
+2011-04-30 22:12:52 [INFO] [world]§f[10:12]§aTi22_simos:§f yes 
+2011-04-30 22:12:55 [INFO] [world]§f[10:12]§aPsycholiptic:§f rob how far am i now? 
+2011-04-30 22:12:56 [INFO] [world]§f[10:12]§aThe Winrar asneakyfatcat demands:§f define 
+2011-04-30 22:12:57 [INFO] [world]§f[10:12]§aBennythebull:§f I'm F***ed 
+2011-04-30 22:13:10 [INFO] [CONSOLE] economy= minecraft munnies system
+2011-04-30 22:13:11 [INFO] [world]§f[10:13]§aPsycholiptic:§f me to ben! 
+2011-04-30 22:13:14 [INFO] CAPSLOCKNINJA [/127.0.0.1:60381] logged in with entity id 9067
+2011-04-30 22:13:15 [INFO] [world]§f[10:13]§aThe Winrar asneakyfatcat demands:§f yes 
+2011-04-30 22:13:16 [INFO] [world]§f[10:13]§aBennythebull:§f I think we should 
+2011-04-30 22:13:22 [INFO] [world]§f[10:13]§aTi22_simos:§f yayz we needs it 
+2011-04-30 22:13:24 [INFO] [world]§f[10:13]§alufonso 60s man:§f 12 for 12 
+2011-04-30 22:13:30 [INFO] [world]§f[10:13]§aTi22_simos:§f ? 
+2011-04-30 22:13:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:13:34 [INFO] [world]§f[10:13]§alufonso 60s man:§f 24 for 24 
+2011-04-30 22:13:37 [INFO] [world]§f[10:13]§a§2I, CAPSLOCKNINJA, decree:§f ok ben can you build? 
+2011-04-30 22:13:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:13:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:13:46 [INFO] [world]§f[10:13]§aBennythebull:§f yes 
+2011-04-30 22:13:49 [INFO] [world]§f[10:13]§alufonso 60s man:§f 36 for 36 
+2011-04-30 22:13:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:13:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:13:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:13:54 [INFO] [world]§f[10:13]§aThe Winrar asneakyfatcat demands:§f simon 1 stack of cobble for 20 coal 
+2011-04-30 22:13:56 [INFO] [world]§f[10:13]§a§2I, CAPSLOCKNINJA, decree:§f and cha cha, 25 for 250? 
+2011-04-30 22:14:01 [INFO] [world]§f[10:14]§aTi22_simos:§f 16 
+2011-04-30 22:14:05 [INFO] [world]§f[10:14]§aBennythebull:§f Herro 
+2011-04-30 22:14:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:14:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:14:11 [INFO] [world]§f[10:14]§aThe Winrar asneakyfatcat demands:§f 25 OR 2 FOR 50!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+2011-04-30 22:14:17 [INFO] [world]§f[10:14]§aBennythebull:§f roberto! 
+2011-04-30 22:14:19 [INFO] [world]§f[10:14]§alufonso 60s man:§f meh i think we should just haggle for it all 
+2011-04-30 22:14:23 [INFO] [world]§f[10:14]§aTi22_simos:§f ? 
+2011-04-30 22:14:27 [INFO] [world]§f[10:14]§aPsycholiptic:§f whose house has wood in it nd cobble surrounding it? 
+2011-04-30 22:14:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:14:30 [INFO] [world]§f[10:14]§aThe Winrar asneakyfatcat demands:§f econo MEH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+2011-04-30 22:14:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:14:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:14:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:14:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:14:50 [INFO] [world]§f[10:14]§a§2I, CAPSLOCKNINJA, decree:§f chaz says no? 
+2011-04-30 22:14:50 [INFO] [world]§f[10:14]§aThe Winrar asneakyfatcat demands:§f FUCKING SPIDE 
+2011-04-30 22:14:51 [INFO] [world]§f[10:14]§aBennythebull:§f Herro robertO 
+2011-04-30 22:14:54 [INFO] [world]§f[10:14]§aThe Winrar asneakyfatcat demands:§f i say yes 
+2011-04-30 22:15:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:15:06 [INFO] [world]§f[10:15]§aThe Winrar asneakyfatcat demands:§f also can we makje it day, erryone to a bed 
+2011-04-30 22:15:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:15:14 [INFO] [world]§f[10:15]§a§2I, CAPSLOCKNINJA, decree:§f sup 
+2011-04-30 22:15:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:15:18 [INFO] [world]§f[10:15]§aPsycholiptic:§f i dont otta bed... 
+2011-04-30 22:15:19 [INFO] [CONSOLE] ok
+2011-04-30 22:15:24 [INFO] [world]§f[10:15]§aThe Winrar asneakyfatcat demands:§f log real fast then 
+2011-04-30 22:15:27 [INFO] [world]§f[10:15]§aBennythebull:§f -_-" I don't have one 
+2011-04-30 22:15:29 [INFO] [CONSOLE] I lag like crazy when I'm actually playing
+2011-04-30 22:15:32 [INFO] [world]§f[10:15]§aThe Winrar asneakyfatcat demands:§f log real fast thgen 
+2011-04-30 22:15:33 [INFO] [CONSOLE] lol
+2011-04-30 22:15:39 [INFO] [world]§f[10:15]§aPsycholiptic:§f grrr... 
+2011-04-30 22:15:42 [INFO] [CONSOLE] ben relog
+2011-04-30 22:15:43 [INFO] [world]§f[10:15]§aPsycholiptic:§f ruff!! 
+2011-04-30 22:15:44 [INFO] [world]§f[10:15]§aPsycholiptic:§f lol 
+2011-04-30 22:15:47 [INFO] Connection reset
+2011-04-30 22:15:47 [INFO] Bennythebull lost connection: disconnect.quitting
+2011-04-30 22:15:47 [INFO] Connected players: Ti22_simos, lufonso, Psycholiptic, asneakyfatcat, CAPSLOCKNINJA
+2011-04-30 22:15:53 [INFO] Bennythebull [/99.39.138.15:4224] logged in with entity id 189582
+2011-04-30 22:15:53 [INFO] Connection reset
+2011-04-30 22:15:53 [INFO] Psycholiptic lost connection: disconnect.quitting
+2011-04-30 22:15:53 [INFO] Connected players: Ti22_simos, lufonso, asneakyfatcat, CAPSLOCKNINJA, Bennythebull
+2011-04-30 22:15:57 [INFO] [world]§f[10:15]§a§2I, CAPSLOCKNINJA, decree:§f speak 
+2011-04-30 22:15:59 [INFO] [world]§f[10:15]§aThe Winrar asneakyfatcat demands:§f who isent in bed 
+2011-04-30 22:16:02 [INFO] [world]§f[10:16]§aBennythebull:§f yes 
+2011-04-30 22:16:05 [INFO] Psycholiptic [/71.205.171.23:49031] logged in with entity id 194142
+2011-04-30 22:16:09 [INFO] [world]§f[10:16]§aThe Winrar asneakyfatcat demands:§f what the fuclk 
+2011-04-30 22:16:14 [INFO] [world]§f[10:16]§a§2I, CAPSLOCKNINJA, decree:§f ben relog again 
+2011-04-30 22:16:15 [INFO] [world]§f[10:16]§aThe Winrar asneakyfatcat demands:§f log real fast 
+2011-04-30 22:16:20 [INFO] [world]§f[10:16]§aBennythebull:§f k 
+2011-04-30 22:16:20 [INFO] [world]§f[10:16]§a§2I, CAPSLOCKNINJA, decree:§f fuck it 
+2011-04-30 22:16:22 [INFO] Connection reset
+2011-04-30 22:16:22 [INFO] Bennythebull lost connection: disconnect.quitting
+2011-04-30 22:16:23 [INFO] Connected players: Ti22_simos, lufonso, asneakyfatcat, CAPSLOCKNINJA, Psycholiptic
+2011-04-30 22:16:24 [INFO] CraftPlayer: Set time to 0
+2011-04-30 22:16:25 [WARNING] asneakyfatcat moved wrongly!
+2011-04-30 22:16:25 [INFO] Got position -677.0999755859375, 57.5625, 51.5
+2011-04-30 22:16:25 [INFO] Expected -678.3000000119209, 57.200000047683716, 52.30000001192093
+2011-04-30 22:16:28 [INFO] Bennythebull [/99.39.138.15:4227] logged in with entity id 216210
+2011-04-30 22:16:33 [INFO] [world]§f[10:16]§aBennythebull:§f yay 
+2011-04-30 22:16:36 [INFO] [world]§f[10:16]§a§2I, CAPSLOCKNINJA, decree:§f so uh 
+2011-04-30 22:16:39 [INFO] [world]§f[10:16]§a§2I, CAPSLOCKNINJA, decree:§f how bout dat rain 
+2011-04-30 22:16:42 [INFO] [world]§f[10:16]§aBennythebull:§f one sec 
+2011-04-30 22:16:55 [INFO] [world]§f[10:16]§aThe Winrar asneakyfatcat demands:§f yes rain 
+2011-04-30 22:16:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:16:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:16:59 [INFO] [world]§f[10:16]§a§2I, CAPSLOCKNINJA, decree:§f wait dammit, did the message that tells you that someone logged in break again? 
+2011-04-30 22:17:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:17:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:18:03 [INFO] [world]§f[10:18]§aBennythebull:§f dkajsfjdsalkfjasldjflkasjdflkjsdalkfj 
+2011-04-30 22:18:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 22:18:22 [INFO] Ti22_simos tried command: spawn
+2011-04-30 22:18:25 [INFO] [CONSOLE] ok I'm not waiting nearly 2 hours for rain
+2011-04-30 22:18:30 [INFO] [world]§f[10:18]§aBennythebull:§f Guys imma spend time with my dad 
+2011-04-30 22:18:36 [INFO] [world]§f[10:18]§aBennythebull:§f so i'll be on later 
+2011-04-30 22:18:36 [INFO] /weather set <normal|storm|thunder> [world] [duration (seconds)] - Set the current weather of a world
+2011-04-30 22:18:36 [INFO] /weather get [world] - Get the current weather of a world
+2011-04-30 22:18:36 [INFO] /weather strike <Player> - Kill a player with a thunderbolt.
+2011-04-30 22:18:36 [INFO] /weather strike - Toggle the creation of thunderbolts with the thunder item.
+2011-04-30 22:18:37 [INFO] Bennythebull lost connection: disconnect.quitting
+2011-04-30 22:18:37 [INFO] Connection reset
+2011-04-30 22:18:39 [INFO] [world]§f[10:18]§aTi22_simos:§f t/spawn doesn't work! 
+2011-04-30 22:18:45 [INFO] Read timed out
+2011-04-30 22:18:45 [INFO] asneakyfatcat lost connection: disconnect.endOfStream
+2011-04-30 22:18:47 [INFO] [world]§f[10:18]§a§2I, CAPSLOCKNINJA, decree:§f it hasn't worked in so long 
+2011-04-30 22:18:59 [INFO] asneakyfatcat [/71.205.168.236:2753] logged in with entity id 225125
+2011-04-30 22:19:01 [INFO] [world]§f[10:19]§aTi22_simos:§f but i need to get to spawn to trade 
+2011-04-30 22:19:02 [INFO] /weather set <normal|storm|thunder> [world] [duration (seconds)] - Set the current weather of a world
+2011-04-30 22:19:02 [INFO] /weather get [world] - Get the current weather of a world
+2011-04-30 22:19:02 [INFO] /weather strike <Player> - Kill a player with a thunderbolt.
+2011-04-30 22:19:02 [INFO] /weather strike - Toggle the creation of thunderbolts with the thunder item.
+2011-04-30 22:19:12 [INFO] [world]§f[10:19]§aTi22_simos:§f in about 10-15 minutes away 
+2011-04-30 22:19:27 [INFO] [world]§f[10:19]§a§2I, CAPSLOCKNINJA, decree:§f I doubt that 
+2011-04-30 22:19:31 [INFO] [world]§f[10:19]§aPsycholiptic:§f Y TF CAN I NOT FINDED A GOOD SPOT!?!?!? 
+2011-04-30 22:19:32 [INFO] [world]§f[10:19]§aTi22_simos:§f check 
+2011-04-30 22:19:44 [INFO] [world]§f[10:19]§aTi22_simos:§f come to my place 
+2011-04-30 22:20:06 [INFO] Ti22_simos tried command: invite Psycholiptic
+2011-04-30 22:20:15 [INFO] [world]§f[10:20]§a§2I, CAPSLOCKNINJA, decree:§f I wish I had 2 comps 
+2011-04-30 22:20:28 [INFO] [world]§f[10:20]§a§2I, CAPSLOCKNINJA, decree:§f cuz then I could host on one and play on the other 
+2011-04-30 22:20:46 [INFO] [world]§f[10:20]§aTi22_simos:§f how can I get back to town? 
+2011-04-30 22:20:53 [INFO] [world]§f[10:20]§a§2I, CAPSLOCKNINJA, decree:§f go north 
+2011-04-30 22:20:54 [INFO] [world]§f[10:20]§aPsycholiptic:§f rob how far is i from spawn? 
+2011-04-30 22:20:58 [INFO] [world]§f[10:20]§aPsycholiptic:§f can you check? 
+2011-04-30 22:21:03 [INFO] [world]§f[10:21]§a§2I, CAPSLOCKNINJA, decree:§f just check the dynamic map 
+2011-04-30 22:21:09 [INFO] [world]§f[10:21]§a§2I, CAPSLOCKNINJA, decree:§f also if you don't know which was is north 
+2011-04-30 22:21:25 [SEVERE] java.net.SocketException: Connection reset by peer: socket write error
+2011-04-30 22:21:25 [INFO] Connection reset
+2011-04-30 22:21:25 [SEVERE] 	at java.net.SocketOutputStream.socketWrite0(Native Method)
+2011-04-30 22:21:25 [INFO] CAPSLOCKNINJA lost connection: disconnect.endOfStream
+2011-04-30 22:21:25 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+2011-04-30 22:21:25 [SEVERE] 	at java.net.SocketOutputStream.write(Unknown Source)
+2011-04-30 22:21:25 [SEVERE] 	at java.io.DataOutputStream.write(Unknown Source)
+2011-04-30 22:21:25 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:120)
+2011-04-30 22:21:25 [SEVERE] 	at net.minecraft.server.NetworkManager.e(NetworkManager.java:96)
+2011-04-30 22:21:25 [SEVERE] 	at net.minecraft.server.NetworkManager.d(NetworkManager.java:230)
+2011-04-30 22:21:25 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:90)
+2011-04-30 22:21:26 [INFO] Connected players: Ti22_simos, lufonso, Psycholiptic, asneakyfatcat
+2011-04-30 22:21:26 [INFO] Connected players: Ti22_simos, lufonso, Psycholiptic, asneakyfatcat
+2011-04-30 22:21:29 [INFO] [CONSOLE] it's the direction the clouds move in
+2011-04-30 22:21:37 [INFO] [world]§f[10:21]§aPsycholiptic:§f rob 
+2011-04-30 22:21:46 [INFO] [CONSOLE] actually simon go northeast
+2011-04-30 22:21:50 [INFO] [CONSOLE] and yeah kurt?
+2011-04-30 22:21:57 [INFO] [world]§f[10:21]§aTi22_simos:§f im not walking back 
+2011-04-30 22:22:02 [INFO] [world]§f[10:22]§aPsycholiptic:§f can you check how far i am from spawn? 
+2011-04-30 22:22:11 [INFO] [world]§f[10:22]§aTi22_simos:§f what is website? 
+2011-04-30 22:22:12 [INFO] [CONSOLE] you're still very close
+2011-04-30 22:22:19 [INFO] [CONSOLE] brohalla.dyndns.org
+2011-04-30 22:22:20 [INFO] [world]§f[10:22]§aPsycholiptic:§f really? 
+2011-04-30 22:22:24 [INFO] [CONSOLE] yes you are
+2011-04-30 22:22:29 [INFO] [world]§f[10:22]§aPsycholiptic:§f should i go farther away? 
+2011-04-30 22:22:37 [INFO] [world]§f[10:22]§aPsycholiptic:§f or is tis alright? 
+2011-04-30 22:22:48 [INFO] [CONSOLE] are you on the mountain?
+2011-04-30 22:22:52 [INFO] [world]§f[10:22]§aPsycholiptic:§f yesss 
+2011-04-30 22:22:58 [INFO] [world]§f[10:22]§aTi22_simos:§f can I invite kurt to build by my place 
+2011-04-30 22:23:06 [INFO] [CONSOLE] pl0x no houces on the mountain
+2011-04-30 22:23:18 [INFO] [CONSOLE] I also hve no clue what you mean simon
+2011-04-30 22:23:20 [INFO] [world]§f[10:23]§aPsycholiptic:§f :((((((((((( 
+2011-04-30 22:23:27 [INFO] [CONSOLE] wait
+2011-04-30 22:23:27 [INFO] [world]§f[10:23]§aPsycholiptic:§f you killed my idea 
+2011-04-30 22:23:30 [INFO] [CONSOLE] can you see me cove
+2011-04-30 22:23:41 [INFO] [world]§f[10:23]§aTi22_simos:§f can you invite people to your house? 
+2011-04-30 22:23:48 [INFO] [CONSOLE] if the answer is yes, then not that spot. If the answer is no, than you're fine
+2011-04-30 22:23:55 [INFO] [CONSOLE] and you can invite people, but I dunno how
+2011-04-30 22:24:24 [INFO] Ti22_simos tried command: invite Pscholiptic
+2011-04-30 22:24:35 [INFO] [world]§f[10:24]§aPsycholiptic:§f whose house is surrounded in cobble? 
+2011-04-30 22:24:38 [INFO] [CONSOLE] type /home invite <name>
+2011-04-30 22:24:40 [INFO] [CONSOLE] that's mine
+2011-04-30 22:24:47 [INFO] [world]§f[10:24]§aTi22_simos:§f kurt you get my invite 
+2011-04-30 22:24:52 [INFO] [world]§f[10:24]§aPsycholiptic:§f noes 
+2011-04-30 22:25:28 [INFO] [CONSOLE] simon have you set your home yet by typing /home set?
+2011-04-30 22:25:34 [INFO] [world]§f[10:25]§aTi22_simos:§f yup 
+2011-04-30 22:25:59 [INFO] [CONSOLE] odds
+2011-04-30 22:26:07 [INFO] Connection reset
+2011-04-30 22:26:08 [INFO] asneakyfatcat lost connection: disconnect.endOfStream
+2011-04-30 22:26:08 [INFO] Connected players: Ti22_simos, lufonso, Psycholiptic
+2011-04-30 22:26:48 [INFO] [CONSOLE] k I'm gonna do something else
+2011-04-30 22:26:51 [INFO] [CONSOLE] cya guys
+2011-04-30 22:26:55 [INFO] [CONSOLE] server's staying up though
+2011-04-30 22:27:11 [INFO] [world]§f[10:27]§aPsycholiptic:§f do we gotta leave..? 
+2011-04-30 22:28:11 [INFO] Ti22_simos tried command: spawn
+2011-04-30 22:28:15 [INFO] Ti22_simos tried command: town
+2011-04-30 22:29:02 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+	at nl.robinvandervliet.DeathMessagePlugin.DeathMessagePluginEntityListener.onEntityDeath(DeathMessagePluginEntityListener.java:427)
+	at org.bukkit.plugin.java.JavaPluginLoader$45.execute(JavaPluginLoader.java:480)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityPlayer.a(EntityPlayer.java:121)
+	at net.minecraft.server.EntityLiving.damageEntity(EntityLiving.java:393)
+	at net.minecraft.server.EntityHuman.damageEntity(EntityHuman.java:423)
+	at net.minecraft.server.EntityPlayer.damageEntity(EntityPlayer.java:149)
+	at net.minecraft.server.EntityLiving.a(EntityLiving.java:495)
+	at net.minecraft.server.EntityHuman.a(EntityHuman.java:824)
+	at net.minecraft.server.Entity.a(Entity.java:621)
+	at net.minecraft.server.EntityPlayer.b(EntityPlayer.java:271)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:336)
+	at net.minecraft.server.Packet10Flying.a(SourceFile:126)
+	at net.minecraft.server.NetworkManager.a(NetworkManager.java:195)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:74)
+	at net.minecraft.server.NetworkListenThread.a(SourceFile:100)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:370)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-04-30 22:30:58 [INFO] [world]§f[10:30]§aPsycholiptic:§f i am sad... 
+2011-04-30 22:31:03 [INFO] [world]§f[10:31]§aTi22_simos:§f ? 
+2011-04-30 22:31:04 [INFO] [world]§f[10:31]§aPsycholiptic:§f im trapped in a hole 
+2011-04-30 22:31:08 [INFO] [world]§f[10:31]§aTi22_simos:§f lol 
+2011-04-30 22:32:19 [INFO] asneakyfatcat [/71.205.168.236:3003] logged in with entity id 368920
+2011-04-30 22:33:01 [INFO] Connection reset
+2011-04-30 22:33:01 [SEVERE] java.net.SocketException: Software caused connection abort: socket write error
+2011-04-30 22:33:01 [SEVERE] 	at java.net.SocketOutputStream.socketWrite0(Native Method)
+2011-04-30 22:33:01 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+2011-04-30 22:33:01 [SEVERE] 	at java.net.SocketOutputStream.write(Unknown Source)
+2011-04-30 22:33:01 [SEVERE] 	at java.io.DataOutputStream.write(Unknown Source)
+2011-04-30 22:33:01 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:120)
+2011-04-30 22:33:01 [SEVERE] 	at net.minecraft.server.NetworkManager.e(NetworkManager.java:96)
+2011-04-30 22:33:01 [SEVERE] 	at net.minecraft.server.NetworkManager.d(NetworkManager.java:230)
+2011-04-30 22:33:01 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:90)
+2011-04-30 22:33:01 [INFO] asneakyfatcat lost connection: disconnect.endOfStream
+2011-04-30 22:33:01 [INFO] Connected players: Ti22_simos, lufonso, Psycholiptic
+2011-04-30 22:33:15 [INFO] Connection reset
+2011-04-30 22:33:15 [INFO] Ti22_simos lost connection: disconnect.quitting
+2011-04-30 22:33:16 [INFO] Connected players: lufonso, Psycholiptic
+2011-04-30 22:35:15 [INFO] [world]§f[10:35]§aPsycholiptic:§f is it day yet? 
+2011-04-30 22:35:45 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+	at nl.robinvandervliet.DeathMessagePlugin.DeathMessagePluginEntityListener.onEntityDeath(DeathMessagePluginEntityListener.java:427)
+	at org.bukkit.plugin.java.JavaPluginLoader$45.execute(JavaPluginLoader.java:480)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityPlayer.a(EntityPlayer.java:121)
+	at net.minecraft.server.EntityLiving.damageEntity(EntityLiving.java:393)
+	at net.minecraft.server.EntityHuman.damageEntity(EntityHuman.java:423)
+	at net.minecraft.server.EntityPlayer.damageEntity(EntityPlayer.java:149)
+	at net.minecraft.server.EntityMonster.a(EntityMonster.java:101)
+	at net.minecraft.server.EntityCreature.c_(EntityCreature.java:67)
+	at net.minecraft.server.EntityLiving.u(EntityLiving.java:657)
+	at net.minecraft.server.EntityMonster.u(EntityMonster.java:30)
+	at net.minecraft.server.EntityZombie.u(EntityZombie.java:34)
+	at net.minecraft.server.EntityLiving.p_(EntityLiving.java:231)
+	at net.minecraft.server.EntityMonster.p_(EntityMonster.java:34)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-04-30 22:37:32 [INFO] asneakyfatcat [/71.205.168.236:3093] logged in with entity id 391583
+2011-04-30 22:38:03 [INFO] Read timed out
+2011-04-30 22:38:03 [INFO] asneakyfatcat lost connection: disconnect.endOfStream
+2011-04-30 22:39:00 [INFO] asneakyfatcat [/71.205.168.236:3103] logged in with entity id 393085
+2011-04-30 22:39:31 [INFO] Read timed out
+2011-04-30 22:39:31 [INFO] asneakyfatcat lost connection: disconnect.endOfStream
+2011-04-30 22:45:30 [INFO] [world]§f[10:45]§alufonso 60s man:§f got free beds and storage for those who need em 
+2011-04-30 22:45:39 [INFO] [world]§f[10:45]§aPsycholiptic:§f GIMMEEE!!!!!!!! 
+2011-04-30 22:45:53 [INFO] [world]§f[10:45]§aPsycholiptic:§f please? lol 
+2011-04-30 22:46:08 [INFO] [world]§f[10:46]§alufonso 60s man:§f in the fort 
+2011-04-30 22:46:45 [INFO] CAPSLOCKNINJA [/127.0.0.1:60946] logged in with entity id 400781
+2011-04-30 22:47:02 [INFO] [world]§f[10:47]§a§2I, CAPSLOCKNINJA, decree:§f WHO WANTS RAAAAAIN?!? 
+2011-04-30 22:47:16 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Cookie' in your inventory.
+2011-04-30 22:47:39 [INFO] [world]§f[10:47]§aPsycholiptic:§f i do 
+2011-04-30 22:47:45 [INFO] [world]§f[10:47]§aPsycholiptic:§f not 
+2011-04-30 22:47:47 [INFO] [world]§f[10:47]§aPsycholiptic:§f oh ok lol 
+2011-04-30 22:47:59 [INFO] [world]§f[10:47]§aPsycholiptic:§f SHIIT!!! 
+2011-04-30 22:48:02 [INFO] [world]§f[10:48]§aPsycholiptic:§f THUNDA!!! 
+2011-04-30 22:48:10 [INFO] [world]§f[10:48]§a§2I, CAPSLOCKNINJA, decree:§f I made thos ebolts lol 
+2011-04-30 22:48:27 [INFO] [world]§f[10:48]§a§2I, CAPSLOCKNINJA, decree:§f ok now it's actually gonna thunderstorm 
+2011-04-30 22:48:38 [INFO] [world]§f[10:48]§aPsycholiptic:§f lufonso, can i take these beds and trunks? 
+2011-04-30 22:48:50 [INFO] [world]§f[10:48]§aPsycholiptic:§f jeez thats allotta thunda 
+2011-04-30 22:48:55 [INFO] [world]§f[10:48]§alufonso 60s man:§f how many ya want? 
+2011-04-30 22:48:56 [INFO] [world]§f[10:48]§a§2I, CAPSLOCKNINJA, decree:§f I was making that 
+2011-04-30 22:48:59 [INFO] asneakyfatcat [/71.205.168.236:3300] logged in with entity id 402611
+2011-04-30 22:49:07 [INFO] [world]§f[10:49]§aPsycholiptic:§f 2 of those half chests and one bed? 
+2011-04-30 22:49:09 [INFO] [world]§f[10:49]§a§2I, CAPSLOCKNINJA, decree:§f k brb 
+2011-04-30 22:49:10 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-04-30 22:49:10 [INFO] Connection reset
+2011-04-30 22:49:22 [INFO] [world]§f[10:49]§aPsycholiptic:§f that ok? 
+2011-04-30 22:49:23 [INFO] [world]§f[10:49]§aThe Winrar asneakyfatcat demands:§f im playing greyscale minecraft, u jelly haters? 
+2011-04-30 22:49:27 [INFO] [world]§f[10:49]§alufonso 60s man:§f sure i was gunna make more anyway 
+2011-04-30 22:49:31 [INFO] [world]§f[10:49]§aPsycholiptic:§f k cool ty 
+2011-04-30 22:49:51 [INFO] Connection reset
+2011-04-30 22:49:51 [INFO] asneakyfatcat lost connection: disconnect.quitting
+2011-04-30 22:49:51 [INFO] Connected players: lufonso, Psycholiptic
+2011-04-30 22:50:13 [INFO] [world]§f[10:50]§aPsycholiptic:§f whats up with the cross? 
+2011-04-30 22:50:25 [INFO] [world]§f[10:50]§alufonso 60s man:§f just felt like makin one 
+2011-04-30 22:50:30 [INFO] [world]§f[10:50]§aPsycholiptic:§f niice lol 
+2011-04-30 22:50:38 [INFO] CAPSLOCKNINJA [/127.0.0.1:60970] logged in with entity id 426747
+2011-04-30 22:51:00 [INFO] [world]§f[10:51]§aPsycholiptic:§f is there a way into your tower? lol 
+2011-04-30 22:51:14 [INFO] [world]§f[10:51]§aPsycholiptic:§f i founded it lol 
+2011-04-30 22:51:28 [INFO] [world]§f[10:51]§a§2I, CAPSLOCKNINJA, decree:§f whoah 
+2011-04-30 22:51:42 [INFO] Connection reset
+2011-04-30 22:51:42 [INFO] CAPSLOCKNINJA lost connection: disconnect.endOfStream
+2011-04-30 22:51:42 [INFO] Connected players: lufonso, Psycholiptic
+2011-04-30 22:51:45 [INFO] [CONSOLE] I just hit one of my wolves with lightning
+2011-04-30 22:51:48 [INFO] [world]§f[10:51]§aPsycholiptic:§f you might have a spider 
+2011-04-30 22:51:56 [INFO] [world]§f[10:51]§aPsycholiptic:§f omg ttytyty 
+2011-04-30 22:51:57 [INFO] [world]§f[10:51]§alufonso 60s man:§f hah 
+2011-04-30 22:51:59 [INFO] CAPSLOCKNINJA [/127.0.0.1:60985] logged in with entity id 427221
+2011-04-30 22:52:22 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Raw Porkchop' in your inventory.
+2011-04-30 22:52:30 [INFO] [world]§f[10:52]§aPsycholiptic:§f omg theres cows and sheep but not pigs... 
+2011-04-30 22:52:41 [INFO] [world]§f[10:52]§alufonso 60s man:§f wow realy 
+2011-04-30 22:52:49 [INFO] [world]§f[10:52]§aPsycholiptic:§f yeah lolw 
+2011-04-30 22:52:52 [INFO] [world]§f[10:52]§alufonso 60s man:§f theres like always at least a pig 
+2011-04-30 22:53:02 [INFO] [world]§f[10:53]§aPsycholiptic:§f i dont see one 
+2011-04-30 22:53:14 [INFO] [world]§f[10:53]§aPsycholiptic:§f t 
+2011-04-30 22:53:21 [INFO] [world]§f[10:53]§alufonso 60s man:§f hah your right 
+2011-04-30 22:53:22 [INFO] [world]§f[10:53]§a§2I, CAPSLOCKNINJA, decree:§f WOO 
+2011-04-30 22:53:37 [INFO] [world]§f[10:53]§a§2I, CAPSLOCKNINJA, decree:§f I just replaced a ton of the sounds with zelda sounds and IT WORKS 
+2011-04-30 22:53:41 [INFO] [world]§f[10:53]§aPsycholiptic:§f ? 
+2011-04-30 22:53:50 [INFO] [world]§f[10:53]§aPsycholiptic:§f what do you mean lol 
+2011-04-30 22:53:55 [INFO] [world]§f[10:53]§a§2I, CAPSLOCKNINJA, decree:§f sounds from zelda 
+2011-04-30 22:54:10 [INFO] [world]§f[10:54]§a§2I, CAPSLOCKNINJA, decree:§f brb gotta change my skin 
+2011-04-30 22:54:12 [INFO] Connection reset
+2011-04-30 22:54:12 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-04-30 22:54:12 [INFO] Connected players: lufonso, Psycholiptic
+2011-04-30 22:54:27 [INFO] [world]§f[10:54]§aPsycholiptic:§f how much longer til day jeesh 
+2011-04-30 22:54:57 [INFO] [world]§f[10:54]§alufonso 60s man:§f meh i wait it out by making more in fort lufonso 
+2011-04-30 22:54:57 [INFO] [world]§f[10:54]§aPsycholiptic:§f bed? 
+2011-04-30 22:55:04 [INFO] [world]§f[10:55]§alufonso 60s man:§f kk 
+2011-04-30 22:55:18 [INFO] [world]§f[10:55]§aPsycholiptic:§f im in 
+2011-04-30 22:55:29 [INFO] [world]§f[10:55]§aPsycholiptic:§f yay lol 
+2011-04-30 22:55:42 [INFO] [world]§f[10:55]§aPsycholiptic:§f thank you for your hospitality 
+2011-04-30 22:55:48 [INFO] [world]§f[10:55]§alufonso 60s man:§f anytime 
+2011-04-30 22:56:18 [INFO] [world]§f[10:56]§aPsycholiptic:§f holy crap a creeper almost blew up part of your base lol 
+2011-04-30 22:56:28 [INFO] [world]§f[10:56]§alufonso 60s man:§f good lord 
+2011-04-30 22:56:41 [INFO] [world]§f[10:56]§alufonso 60s man:§f god i hate those things 
+2011-04-30 22:56:42 [INFO] [world]§f[10:56]§aPsycholiptic:§f i mnaged to get it awaybefore it exploded 
+2011-04-30 22:56:47 [INFO] [world]§f[10:56]§alufonso 60s man:§f thanks 
+2011-04-30 22:56:52 [INFO] [world]§f[10:56]§aPsycholiptic:§f np 
+2011-04-30 22:59:16 [INFO] [world]§f[10:59]§aPsycholiptic:§f well i g2g ill be on tommorrow 
+2011-04-30 22:59:19 [INFO] [world]§f[10:59]§aPsycholiptic:§f cya!! 
+2011-04-30 22:59:21 [INFO] Psycholiptic lost connection: disconnect.quitting
+2011-04-30 22:59:21 [INFO] Connection reset
+2011-04-30 23:02:27 [INFO] CAPSLOCKNINJA [/127.0.0.1:61348] logged in with entity id 449888
+2011-04-30 23:02:36 [INFO] [world]§f[11:02]§a§2I, CAPSLOCKNINJA, decree:§f :D 
+2011-04-30 23:02:42 [INFO] [world]§f[11:02]§alufonso 60s man:§f yo 
+2011-04-30 23:02:57 [INFO] [world]§f[11:02]§a§2I, CAPSLOCKNINJA, decree:§f It's playing the Hyrule Fields song :D 
+2011-04-30 23:03:09 [INFO] [world]§f[11:03]§alufonso 60s man:§f nice 
+2011-04-30 23:04:11 [INFO] [world]§f[11:04]§a§2I, CAPSLOCKNINJA, decree:§f where are you 
+2011-04-30 23:04:22 [INFO] [world]§f[11:04]§alufonso 60s man:§f somewhere on the mountin 
+2011-04-30 23:04:29 [INFO] [world]§f[11:04]§a§2I, CAPSLOCKNINJA, decree:§f oh ok 
+2011-04-30 23:06:45 [INFO] [world]§f[11:06]§a§2I, CAPSLOCKNINJA, decree:§f for the next 10000 seconds (almost 3 hours) it shall thunderstorm 
+2011-04-30 23:07:18 [INFO] Connection reset
+2011-04-30 23:07:18 [INFO] CAPSLOCKNINJA lost connection: disconnect.endOfStream
+2011-04-30 23:07:18 [INFO] Connected players: lufonso
+2011-04-30 23:07:25 [INFO] [CONSOLE] I should get the plugin that makes the weather on the server immitate real life
+2011-04-30 23:07:36 [INFO] [world]§f[11:07]§alufonso 60s man:§f cool 
+2011-04-30 23:08:36 [INFO] CAPSLOCKNINJA [/127.0.0.1:61381] logged in with entity id 462820
+2011-04-30 23:09:16 [INFO] [world]§f[11:09]§a§2I, CAPSLOCKNINJA, decree:§f cha cha where are you? 
+2011-04-30 23:09:27 [INFO] [world]§f[11:09]§alufonso 60s man:§f in ma fort 
+2011-04-30 23:09:33 [INFO] [world]§f[11:09]§a§2I, CAPSLOCKNINJA, decree:§f come to mah cove 
+2011-04-30 23:09:51 [INFO] [world]§f[11:09]§a§2I, CAPSLOCKNINJA, decree:§f wait a sec 
+2011-04-30 23:09:54 [INFO] [world]§f[11:09]§a§2I, CAPSLOCKNINJA, decree:§f stay in your fort 
+2011-04-30 23:09:55 [INFO] [world]§f[11:09]§alufonso 60s man:§f kk one sec 
+2011-04-30 23:11:02 [INFO] [world]§f[11:11]§a§2I, CAPSLOCKNINJA, decree:§f come on over 
+2011-04-30 23:11:49 [INFO] [world]§f[11:11]§alufonso 60s man:§f y? 
+2011-04-30 23:11:59 [INFO] [world]§f[11:11]§a§2I, CAPSLOCKNINJA, decree:§f just cuz 
+2011-04-30 23:12:04 [INFO] [world]§f[11:12]§alufonso 60s man:§f cool 
+2011-04-30 23:13:37 [INFO] [world]§f[11:13]§a§2I, CAPSLOCKNINJA, decree:§f ZELDA MOOZIX 
+2011-04-30 23:13:44 [INFO] [world]§f[11:13]§alufonso 60s man:§f nice 
+2011-04-30 23:14:08 [INFO] [world]§f[11:14]§a§2I, CAPSLOCKNINJA, decree:§f I urrently have the oot sage music 
+2011-04-30 23:14:25 [INFO] [world]§f[11:14]§alufonso 60s man:§f nice 
+2011-04-30 23:14:37 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+	at org.bukkit.craftbukkit.TextWrapper.wrapText(TextWrapper.java:38)
+	at net.minecraft.server.NetServerHandler.sendPacket(NetServerHandler.java:596)
+	at org.bukkit.craftbukkit.entity.CraftPlayer.sendRawMessage(CraftPlayer.java:81)
+	at org.bukkit.craftbukkit.entity.CraftPlayer.sendMessage(CraftPlayer.java:85)
+	at nl.robinvandervliet.DeathMessagePlugin.DeathMessagePluginEntityListener.onEntityDeath(DeathMessagePluginEntityListener.java:424)
+	at org.bukkit.plugin.java.JavaPluginLoader$45.execute(JavaPluginLoader.java:480)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityPlayer.a(EntityPlayer.java:121)
+	at net.minecraft.server.EntityLiving.damageEntity(EntityLiving.java:393)
+	at net.minecraft.server.EntityHuman.damageEntity(EntityHuman.java:423)
+	at net.minecraft.server.EntityPlayer.damageEntity(EntityPlayer.java:149)
+	at net.minecraft.server.EntityMonster.a(EntityMonster.java:101)
+	at net.minecraft.server.EntitySpider.a(EntitySpider.java:81)
+	at net.minecraft.server.EntityCreature.c_(EntityCreature.java:67)
+	at net.minecraft.server.EntityLiving.u(EntityLiving.java:657)
+	at net.minecraft.server.EntityMonster.u(EntityMonster.java:30)
+	at net.minecraft.server.EntityLiving.p_(EntityLiving.java:231)
+	at net.minecraft.server.EntityMonster.p_(EntityMonster.java:34)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-04-30 23:14:47 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Raw Porkchop' in your inventory.
+2011-04-30 23:15:57 [INFO] [world]§f[11:15]§a§2I, CAPSLOCKNINJA, decree:§f g'minecraft mornin', cha cha 
+2011-04-30 23:16:08 [INFO] [world]§f[11:16]§alufonso 60s man:§f hah 
+2011-04-30 23:16:15 [INFO] [world]§f[11:16]§a§2I, CAPSLOCKNINJA, decree:§f wazzis 
+2011-04-30 23:16:36 [INFO] [world]§f[11:16]§a§2I, CAPSLOCKNINJA, decree:§f cha cha 
+2011-04-30 23:16:37 [INFO] GTManiac [/24.11.89.204:59589] logged in with entity id 477441
+2011-04-30 23:16:40 [INFO] [world]§f[11:16]§a§2I, CAPSLOCKNINJA, decree:§f what's this 
+2011-04-30 23:16:46 [INFO] [world]§f[11:16]§alufonso 60s man:§f ? 
+2011-04-30 23:16:56 [INFO] [world]§f[11:16]§a§2I, CAPSLOCKNINJA, decree:§f right here 
+2011-04-30 23:17:07 [INFO] [world]§f[11:17]§alufonso 60s man:§f nothing 
+2011-04-30 23:17:08 [INFO] [world]§f[11:17]§a§2I, CAPSLOCKNINJA, decree:§f OH EWWW 
+2011-04-30 23:17:47 [INFO] [world]§f[11:17]§alufonso 60s man:§f thanks 
+2011-04-30 23:17:53 [INFO] [world]§f[11:17]§a§2I, CAPSLOCKNINJA, decree:§f np 
+2011-04-30 23:18:07 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+	at org.bukkit.craftbukkit.TextWrapper.wrapText(TextWrapper.java:38)
+	at net.minecraft.server.NetServerHandler.sendPacket(NetServerHandler.java:596)
+	at org.bukkit.craftbukkit.entity.CraftPlayer.sendRawMessage(CraftPlayer.java:81)
+	at org.bukkit.craftbukkit.entity.CraftPlayer.sendMessage(CraftPlayer.java:85)
+	at nl.robinvandervliet.DeathMessagePlugin.DeathMessagePluginEntityListener.onEntityDeath(DeathMessagePluginEntityListener.java:424)
+	at org.bukkit.plugin.java.JavaPluginLoader$45.execute(JavaPluginLoader.java:480)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityPlayer.a(EntityPlayer.java:121)
+	at net.minecraft.server.EntityLiving.damageEntity(EntityLiving.java:393)
+	at net.minecraft.server.EntityHuman.damageEntity(EntityHuman.java:423)
+	at net.minecraft.server.EntityPlayer.damageEntity(EntityPlayer.java:149)
+	at net.minecraft.server.EntityMonster.a(EntityMonster.java:101)
+	at net.minecraft.server.EntitySpider.a(EntitySpider.java:81)
+	at net.minecraft.server.EntityCreature.c_(EntityCreature.java:67)
+	at net.minecraft.server.EntityLiving.u(EntityLiving.java:657)
+	at net.minecraft.server.EntityMonster.u(EntityMonster.java:30)
+	at net.minecraft.server.EntityLiving.p_(EntityLiving.java:231)
+	at net.minecraft.server.EntityMonster.p_(EntityMonster.java:34)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-04-30 23:18:07 [INFO] [world]§f[11:18]§a§2I, CAPSLOCKNINJA, decree:§f I'm gonna build hte bronze creepre soon 
+2011-04-30 23:18:21 [INFO] [world]§f[11:18]§alufonso 60s man:§f a wha? 
+2011-04-30 23:18:32 [INFO] [world]§f[11:18]§a§2I, CAPSLOCKNINJA, decree:§f the bronze creepre 
+2011-04-30 23:18:41 [INFO] [world]§f[11:18]§alufonso 60s man:§f that monument thing? 
+2011-04-30 23:18:49 [INFO] [world]§f[11:18]§a§2I, CAPSLOCKNINJA, decree:§f OW 
+2011-04-30 23:18:51 [INFO] [world]§f[11:18]§a§2I, CAPSLOCKNINJA, decree:§f and yes 
+2011-04-30 23:18:58 [INFO] [world]§f[11:18]§alufonso 60s man:§f cool 
+2011-04-30 23:19:01 [INFO] [world]§f[11:19]§a§2I, CAPSLOCKNINJA, decree:§f speaking of creepres 
+2011-04-30 23:19:05 [INFO] [world]§f[11:19]§a§2I, CAPSLOCKNINJA, decree:§f there's a hole in your wall 
+2011-04-30 23:19:25 [INFO] [world]§f[11:19]§alufonso 60s man:§f where? 
+2011-04-30 23:19:31 [INFO] [world]§f[11:19]§a§2I, CAPSLOCKNINJA, decree:§f where the creeper exploded 
+2011-04-30 23:19:43 [INFO] [world]§f[11:19]§alufonso 60s man:§f damn 
+2011-04-30 23:19:47 [INFO] [world]§f[11:19]§a§2I, CAPSLOCKNINJA, decree:§f I fix it 
+2011-04-30 23:19:56 [INFO] [world]§f[11:19]§alufonso 60s man:§f thanks 
+2011-04-30 23:20:03 [INFO] [world]§f[11:20]§a§2I, CAPSLOCKNINJA, decree:§f np 
+2011-04-30 23:20:06 [INFO] [world]§f[11:20]§aFuck you, GTManiac is a real G!:§f we should make a brotel v2.0 
+2011-04-30 23:20:11 [INFO] [world]§f[11:20]§alufonso 60s man:§f hah ya 
+2011-04-30 23:20:12 [INFO] [world]§f[11:20]§aFuck you, GTManiac is a real G!:§f bigger and more epic 
+2011-04-30 23:20:19 [INFO] [world]§f[11:20]§a§2I, CAPSLOCKNINJA, decree:§f chaz and I planned that already 
+2011-04-30 23:20:23 [INFO] [world]§f[11:20]§aFuck you, GTManiac is a real G!:§f =o 
+2011-04-30 23:20:27 [INFO] [world]§f[11:20]§aFuck you, GTManiac is a real G!:§f i wanna halp 
+2011-04-30 23:20:32 [INFO] [world]§f[11:20]§aFuck you, GTManiac is a real G!:§f after im done building my house 
+2011-04-30 23:20:33 [INFO] [world]§f[11:20]§a§2I, CAPSLOCKNINJA, decree:§f ok 
+2011-04-30 23:20:41 [INFO] [world]§f[11:20]§aFuck you, GTManiac is a real G!:§f which wont be for several days 
+2011-04-30 23:20:50 [INFO] [world]§f[11:20]§a§2I, CAPSLOCKNINJA, decree:§f well 
+2011-04-30 23:21:01 [INFO] [world]§f[11:21]§a§2I, CAPSLOCKNINJA, decree:§f chaz doesn't actually want a real new brotel 
+2011-04-30 23:21:09 [INFO] [world]§f[11:21]§aFuck you, GTManiac is a real G!:§f oh? 
+2011-04-30 23:21:14 [INFO] [world]§f[11:21]§a§2I, CAPSLOCKNINJA, decree:§f yeah 
+2011-04-30 23:21:25 [INFO] [world]§f[11:21]§a§2I, CAPSLOCKNINJA, decree:§f shit 
+2011-04-30 23:21:26 [INFO] [world]§f[11:21]§a§2I, CAPSLOCKNINJA, decree:§f cha cha 
+2011-04-30 23:21:30 [INFO] [world]§f[11:21]§aFuck you, GTManiac is a real G!:§f what does he want? 
+2011-04-30 23:21:31 [INFO] [world]§f[11:21]§a§2I, CAPSLOCKNINJA, decree:§f the wall needs moar wood 
+2011-04-30 23:21:43 [INFO] [world]§f[11:21]§alufonso 60s man:§f kk 
+2011-04-30 23:21:44 [INFO] [world]§f[11:21]§a§2I, CAPSLOCKNINJA, decree:§f he just thinks we've built the brotel once and that we don't need to do it again 
+2011-04-30 23:21:52 [INFO] [world]§f[11:21]§a§2I, CAPSLOCKNINJA, decree:§f epona's song! :D 
+2011-04-30 23:21:56 [INFO] [world]§f[11:21]§aFuck you, GTManiac is a real G!:§f okay, we a brotel-like project 
+2011-04-30 23:22:07 [INFO] [world]§f[11:22]§a§2I, CAPSLOCKNINJA, decree:§f I was thinking a brotel 
+2011-04-30 23:22:14 [INFO] [world]§f[11:22]§a§2I, CAPSLOCKNINJA, decree:§f a fancy motel 
+2011-04-30 23:22:17 [INFO] [world]§f[11:22]§aFuck you, GTManiac is a real G!:§f WHOA 
+2011-04-30 23:22:22 [INFO] [world]§f[11:22]§aFuck you, GTManiac is a real G!:§f i creeper exploded 
+2011-04-30 23:22:24 [INFO] [world]§f[11:22]§aFuck you, GTManiac is a real G!:§f and I didnt die 
+2011-04-30 23:22:25 [INFO] [world]§f[11:22]§aFuck you, GTManiac is a real G!:§f but 
+2011-04-30 23:22:29 [INFO] [world]§f[11:22]§aFuck you, GTManiac is a real G!:§f it made me spawn 
+2011-04-30 23:22:31 [INFO] [world]§f[11:22]§a§2I, CAPSLOCKNINJA, decree:§f Aren't I so creative with the name for the fancy motel? 
+2011-04-30 23:22:32 [INFO] [world]§f[11:22]§a§2I, CAPSLOCKNINJA, decree:§f and lol 
+2011-04-30 23:22:42 [INFO] [world]§f[11:22]§aFuck you, GTManiac is a real G!:§f we should make 
+2011-04-30 23:22:47 [INFO] [world]§f[11:22]§aFuck you, GTManiac is a real G!:§f the aperture motel rooms XD 
+2011-04-30 23:22:48 [INFO] [world]§f[11:22]§a§2I, CAPSLOCKNINJA, decree:§f why is it playing saria's song 
+2011-04-30 23:22:51 [INFO] [world]§f[11:22]§a§2I, CAPSLOCKNINJA, decree:§f NO 
+2011-04-30 23:22:52 [INFO] [world]§f[11:22]§a§2I, CAPSLOCKNINJA, decree:§f WAIT 
+2011-04-30 23:22:55 [INFO] [world]§f[11:22]§alufonso 60s man:§f hey do you have any of the signs that were there? 
+2011-04-30 23:22:59 [INFO] [world]§f[11:22]§a§2I, CAPSLOCKNINJA, decree:§f let's build high-tech fancy groves 
+2011-04-30 23:23:02 [INFO] [world]§f[11:23]§a§2I, CAPSLOCKNINJA, decree:§f and yes I have one 
+2011-04-30 23:23:02 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+	at org.bukkit.craftbukkit.TextWrapper.wrapText(TextWrapper.java:38)
+	at net.minecraft.server.NetServerHandler.sendPacket(NetServerHandler.java:596)
+	at org.bukkit.craftbukkit.entity.CraftPlayer.sendRawMessage(CraftPlayer.java:81)
+	at org.bukkit.craftbukkit.entity.CraftPlayer.sendMessage(CraftPlayer.java:85)
+	at nl.robinvandervliet.DeathMessagePlugin.DeathMessagePluginEntityListener.onEntityDeath(DeathMessagePluginEntityListener.java:424)
+	at org.bukkit.plugin.java.JavaPluginLoader$45.execute(JavaPluginLoader.java:480)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityPlayer.a(EntityPlayer.java:121)
+	at net.minecraft.server.EntityLiving.damageEntity(EntityLiving.java:393)
+	at net.minecraft.server.EntityHuman.damageEntity(EntityHuman.java:423)
+	at net.minecraft.server.EntityPlayer.damageEntity(EntityPlayer.java:149)
+	at net.minecraft.server.EntityLiving.a(EntityLiving.java:495)
+	at net.minecraft.server.EntityHuman.a(EntityHuman.java:824)
+	at net.minecraft.server.Entity.a(Entity.java:621)
+	at net.minecraft.server.EntityPlayer.b(EntityPlayer.java:271)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:336)
+	at net.minecraft.server.Packet10Flying.a(SourceFile:126)
+	at net.minecraft.server.NetworkManager.a(NetworkManager.java:195)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:74)
+	at net.minecraft.server.NetworkListenThread.a(SourceFile:100)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:370)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-04-30 23:23:05 [INFO] [world]§f[11:23]§a§2I, CAPSLOCKNINJA, decree:§f nvm I have both 
+2011-04-30 23:23:13 [INFO] [world]§f[11:23]§alufonso 60s man:§f could i have em? 
+2011-04-30 23:23:21 [INFO] [world]§f[11:23]§a§2I, CAPSLOCKNINJA, decree:§f actually building groves is a bad idea 
+2011-04-30 23:23:28 [INFO] [world]§f[11:23]§aFuck you, GTManiac is a real G!:§f yes 
+2011-04-30 23:24:17 [INFO] [world]§f[11:24]§a§2I, CAPSLOCKNINJA, decree:§f We should build... 
+2011-04-30 23:24:25 [INFO] [world]§f[11:24]§a§2I, CAPSLOCKNINJA, decree:§f 1x1 scale replica of.... 
+2011-04-30 23:24:28 [INFO] [world]§f[11:24]§a§2I, CAPSLOCKNINJA, decree:§f Johto 
+2011-04-30 23:24:32 [INFO] [world]§f[11:24]§aFuck you, GTManiac is a real G!:§f NOI 
+2011-04-30 23:24:34 [INFO] [world]§f[11:24]§aFuck you, GTManiac is a real G!:§f NO 
+2011-04-30 23:24:38 [INFO] [world]§f[11:24]§aFuck you, GTManiac is a real G!:§f soooooo tedious 
+2011-04-30 23:24:39 [INFO] [world]§f[11:24]§a§2I, CAPSLOCKNINJA, decree:§f Kanto? 
+2011-04-30 23:24:51 [INFO] [world]§f[11:24]§aFuck you, GTManiac is a real G!:§f bleh I already did it up to cerulean city 
+2011-04-30 23:24:51 [INFO] [world]§f[11:24]§a§2I, CAPSLOCKNINJA, decree:§f Jesus? 
+2011-04-30 23:24:54 [INFO] [world]§f[11:24]§aFuck you, GTManiac is a real G!:§f and that took hours 
+2011-04-30 23:25:04 [INFO] [world]§f[11:25]§a§2I, CAPSLOCKNINJA, decree:§f Let's build Hyrule 
+2011-04-30 23:25:08 [INFO] [world]§f[11:25]§aFuck you, GTManiac is a real G!:§f hmm 
+2011-04-30 23:25:16 [INFO] [world]§f[11:25]§aFuck you, GTManiac is a real G!:§f but there are multiple "hyrules" 
+2011-04-30 23:25:20 [INFO] [world]§f[11:25]§a§2I, CAPSLOCKNINJA, decree:§f The good one. 
+2011-04-30 23:25:25 [INFO] [world]§f[11:25]§a§2I, CAPSLOCKNINJA, decree:§f The OoT one 
+2011-04-30 23:25:29 [INFO] [world]§f[11:25]§a§2I, CAPSLOCKNINJA, decree:§f or we can build Termina 
+2011-04-30 23:25:36 [INFO] [world]§f[11:25]§a§2I, CAPSLOCKNINJA, decree:§f Or the Great Sea! 
+2011-04-30 23:25:53 [INFO] [world]§f[11:25]§a§2I, CAPSLOCKNINJA, decree:§f I mean, I still want to rebuild the original idea... 
+2011-04-30 23:26:02 [INFO] [world]§f[11:26]§a§2I, CAPSLOCKNINJA, decree:§f chaz and I know we could actually rebuild it almost exactly 
+2011-04-30 23:26:06 [INFO] [world]§f[11:26]§a§2I, CAPSLOCKNINJA, decree:§f I have so many screens of it 
+2011-04-30 23:26:37 [INFO] [world]§f[11:26]§a§2I, CAPSLOCKNINJA, decree:§f I remember its base was a 17x17 square 
+2011-04-30 23:26:46 [INFO] [world]§f[11:26]§aFuck you, GTManiac is a real G!:§f world 1-1 
+2011-04-30 23:26:48 [INFO] [world]§f[11:26]§aFuck you, GTManiac is a real G!:§f from mario 
+2011-04-30 23:26:49 [INFO] [world]§f[11:26]§aFuck you, GTManiac is a real G!:§f boom 
+2011-04-30 23:26:54 [INFO] [world]§f[11:26]§a§2I, CAPSLOCKNINJA, decree:§f We could probably do a 25x25 square for the new one 
+2011-04-30 23:26:54 [INFO] [world]§f[11:26]§aFuck you, GTManiac is a real G!:§f that wouldnt take long 
+2011-04-30 23:26:58 [INFO] [world]§f[11:26]§a§2I, CAPSLOCKNINJA, decree:§f and build it from the ground up 
+2011-04-30 23:27:04 [INFO] [world]§f[11:27]§a§2I, CAPSLOCKNINJA, decree:§f Oh, delfino town 
+2011-04-30 23:27:10 [INFO] [world]§f[11:27]§a§2I, CAPSLOCKNINJA, decree:§f Sunshine was such a pro game 
+2011-04-30 23:27:25 [INFO] [world]§f[11:27]§aFuck you, GTManiac is a real G!:§f i thought it was good, except it was... empty 
+2011-04-30 23:27:30 [INFO] [world]§f[11:27]§aFuck you, GTManiac is a real G!:§f like i felt really lone when I played it 
+2011-04-30 23:27:32 [INFO] [world]§f[11:27]§aFuck you, GTManiac is a real G!:§f i dunno 
+2011-04-30 23:27:36 [INFO] [world]§f[11:27]§aFuck you, GTManiac is a real G!:§f *alone 
+2011-04-30 23:27:41 [INFO] [world]§f[11:27]§a§2I, CAPSLOCKNINJA, decree:§f forever alone 
+2011-04-30 23:27:45 [INFO] [world]§f[11:27]§aFuck you, GTManiac is a real G!:§f yer 
+2011-04-30 23:27:58 [INFO] [world]§f[11:27]§a§2I, CAPSLOCKNINJA, decree:§f We can try building a giant troll face? 
+2011-04-30 23:28:08 [INFO] [world]§f[11:28]§aFuck you, GTManiac is a real G!:§f already been done twice =P 
+2011-04-30 23:28:20 [INFO] [world]§f[11:28]§a§2I, CAPSLOCKNINJA, decree:§f lol I love how we all just left lumaro's server with tht just hanging in the sky 
+2011-04-30 23:28:23 [INFO] [world]§f[11:28]§a§2I, CAPSLOCKNINJA, decree:§f incomplete 
+2011-04-30 23:28:30 [INFO] [world]§f[11:28]§aFuck you, GTManiac is a real G!:§f hahaha yeah 
+2011-04-30 23:28:35 [INFO] [world]§f[11:28]§aFuck you, GTManiac is a real G!:§f castle le pew v1.0 
+2011-04-30 23:28:36 [INFO] [world]§f[11:28]§aFuck you, GTManiac is a real G!:§f good times 
+2011-04-30 23:28:44 [INFO] [world]§f[11:28]§a§2I, CAPSLOCKNINJA, decree:§f I might get us a flight plugin for the creative world 
+2011-04-30 23:28:56 [INFO] [world]§f[11:28]§aFuck you, GTManiac is a real G!:§f =o sexy 
+2011-04-30 23:29:10 [INFO] [world]§f[11:29]§a§2I, CAPSLOCKNINJA, decree:§f but then the bulding would require no skill whatsoever beyond creativity, what with worledit and all 
+2011-04-30 23:29:12 [INFO] [world]§f[11:29]§aFuck you, GTManiac is a real G!:§f aww, if we had biome worlds id suggest bowsers castle 
+2011-04-30 23:29:20 [INFO] [world]§f[11:29]§a§2I, CAPSLOCKNINJA, decree:§f We have a nether 
+2011-04-30 23:29:34 [INFO] [world]§f[11:29]§aFuck you, GTManiac is a real G!:§f but i mean like his flooating castle 
+2011-04-30 23:29:41 [INFO] [world]§f[11:29]§a§2I, CAPSLOCKNINJA, decree:§f oh 
+2011-04-30 23:29:55 [INFO] [world]§f[11:29]§a§2I, CAPSLOCKNINJA, decree:§f LOL CHA CHA 
+2011-04-30 23:30:01 [INFO] [world]§f[11:30]§alufonso 60s man:§f ? 
+2011-04-30 23:30:03 [INFO] [world]§f[11:30]§a§2I, CAPSLOCKNINJA, decree:§f there's a zombeh on your tower 
+2011-04-30 23:30:15 [INFO] [world]§f[11:30]§alufonso 60s man:§f hah so there is 
+2011-04-30 23:30:49 [INFO] [world]§f[11:30]§a§2I, CAPSLOCKNINJA, decree:§f where is the rain? 
+2011-04-30 23:31:04 [INFO] [world]§f[11:31]§aFuck you, GTManiac is a real G!:§f i think im invincible 
+2011-04-30 23:31:06 [INFO] [world]§f[11:31]§a§2I, CAPSLOCKNINJA, decree:§f brb 
+2011-04-30 23:31:08 [INFO] Connection reset
+2011-04-30 23:31:08 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-04-30 23:31:08 [INFO] Connected players: lufonso, GTManiac
+2011-04-30 23:31:09 [INFO] CAPSLOCKNINJA [/127.0.0.1:61420] logged in with entity id 505993
+2011-04-30 23:31:14 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+2011-04-30 23:31:20 [INFO] [world]§f[11:31]§a§2I, CAPSLOCKNINJA, decree:§f ok my rain just disappeared lol 
+2011-04-30 23:31:23 [INFO] [world]§f[11:31]§a§2I, CAPSLOCKNINJA, decree:§f but it's back 
+2011-04-30 23:31:34 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+2011-04-30 23:31:41 [INFO] [world]§f[11:31]§a§2I, CAPSLOCKNINJA, decree:§f I need a bow 
+2011-04-30 23:31:55 [INFO] [world]§f[11:31]§a§2I, CAPSLOCKNINJA, decree:§f I should get the fire/ice/bomb arrow plugin 
+2011-04-30 23:32:00 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+2011-04-30 23:32:08 [INFO] [world]§f[11:32]§a§2I, CAPSLOCKNINJA, decree:§f also, mecha, should I get us an economy plugin? 
+2011-04-30 23:32:56 [INFO] [world]§f[11:32]§aFuck you, GTManiac is a real G!:§f hmm 
+2011-04-30 23:33:13 [INFO] [world]§f[11:33]§aFuck you, GTManiac is a real G!:§f only if youre gonna add people from teh internetz 
+2011-04-30 23:33:14 [INFO] [world]§f[11:33]§a§2I, CAPSLOCKNINJA, decree:§f HYAH 
+2011-04-30 23:33:24 [INFO] RampantConstruct [/98.65.254.176:50208] logged in with entity id 522536
+2011-04-30 23:33:31 [INFO] [world]§f[11:33]§aFuck you, GTManiac is a real G!:§f we should probably build a spawn building 
+2011-04-30 23:33:36 [INFO] [world]§f[11:33]§a§2I, CAPSLOCKNINJA, decree:§f yeah 
+2011-04-30 23:33:45 [INFO] [world]§f[11:33]§aFuck you, GTManiac is a real G!:§f out of obsidian or granite 
+2011-04-30 23:33:50 [INFO] [world]§f[11:33]§a§2I, CAPSLOCKNINJA, decree:§f We'll do it in the minecraft morning 
+2011-04-30 23:33:54 [INFO] [world]§f[11:33]§a§2I, CAPSLOCKNINJA, decree:§f no neither 
+2011-04-30 23:33:59 [INFO] [world]§f[11:33]§a§2I, CAPSLOCKNINJA, decree:§f just cobble 
+2011-04-30 23:34:04 [INFO] [world]§f[11:34]§aFuck you, GTManiac is a real G!:§f yes, otherwise creepers will rape it 
+2011-04-30 23:34:07 [INFO] [world]§f[11:34]§aFuck you, GTManiac is a real G!:§f happen in broland v2 
+2011-04-30 23:34:17 [INFO] [world]§f[11:34]§aFuck you, GTManiac is a real G!:§f *happened 
+2011-04-30 23:34:25 [INFO] [world]§f[11:34]§a§2I, CAPSLOCKNINJA, decree:§f make spawn IN spawn building 
+2011-04-30 23:34:34 [INFO] [world]§f[11:34]§a§2I, CAPSLOCKNINJA, decree:§f BAM problem solved 
+2011-04-30 23:34:43 [INFO] [world]§f[11:34]§aFuck you, GTManiac is a real G!:§f that doesnt mean creepers cant blow it up =P 
+2011-04-30 23:34:50 [INFO] [world]§f[11:34]§a§2I, CAPSLOCKNINJA, decree:§f besides, I can make the spawn be where I please 
+2011-04-30 23:34:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-04-30 23:35:01 [INFO] [world]§f[11:35]§a§2I, CAPSLOCKNINJA, decree:§f I could technically put it in my base 
+2011-04-30 23:35:05 [INFO] [world]§f[11:35]§aFuck you, GTManiac is a real G!:§f idea 
+2011-04-30 23:35:10 [INFO] [world]§f[11:35]§aFuck you, GTManiac is a real G!:§f make it underground 
+2011-04-30 23:35:21 [INFO] [world]§f[11:35]§aFuck you, GTManiac is a real G!:§f then have it come up through an bosidian shaft and shack 
+2011-04-30 23:35:26 [INFO] [world]§f[11:35]§aFuck you, GTManiac is a real G!:§f *obsidian 
+2011-04-30 23:35:32 [INFO] [world]§f[11:35]§a§2I, CAPSLOCKNINJA, decree:§f In that cave you started excavating on day 1? 
+2011-04-30 23:35:44 [INFO] [world]§f[11:35]§a§2I, CAPSLOCKNINJA, decree:§f guys, I'm gonna restart the server to reduce lag and shit 
+2011-04-30 23:35:53 [INFO] RampantConstruct lost connection: disconnect.quitting
+2011-04-30 23:35:53 [INFO] Connection reset
+2011-04-30 23:35:54 [INFO] [world]§f[11:35]§a§2I, CAPSLOCKNINJA, decree:§f hold tight 
+2011-04-30 23:35:57 [INFO] CraftPlayer: Stopping the server..
+2011-04-30 23:35:58 [INFO] Stopping server
+2011-04-30 23:35:58 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-04-30 23:35:58 [INFO] Stopping map renderer...
+2011-04-30 23:35:58 [INFO] Shutting down webserver...
+2011-04-30 23:35:58 [INFO] [iChat] iChat Disabled
+2011-04-30 23:35:58 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 23:35:58 [INFO] [Landmarks] Landmarks disabled.
+2011-04-30 23:35:58 [INFO] map WebServer.run() stops with IOException
+2011-04-30 23:35:58 [INFO] Webserver shut down.
+2011-04-30 23:35:58 [INFO] [MultiInv] Plugin disabled.
+2011-04-30 23:35:58 [INFO] [MultiVerse] - Disabled
+2011-04-30 23:35:58 [INFO] [Permissions] (Phoenix) saved all data.
+2011-04-30 23:35:58 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-04-30 23:35:58 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 23:35:58 [INFO] [iChat] Permissions plugin lost.
+2011-04-30 23:35:58 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-04-30 23:35:58 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-04-30 23:35:58 [INFO] WeatherGod disabled!
+2011-04-30 23:35:58 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-04-30 23:35:58 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-04-30 23:35:58 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-04-30 23:35:58 [INFO] Saving chunks
+2011-04-30 23:36:00 [INFO] Stopping server
+2011-04-30 23:36:00 [INFO] Saving chunks
+2011-04-30 23:36:06 [INFO] Starting minecraft server version Beta 1.5_02
+2011-04-30 23:36:06 [INFO] Loading properties
+2011-04-30 23:36:06 [INFO] Starting Minecraft server on *:25565
+2011-04-30 23:36:06 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-04-30 23:36:06 [INFO] Preparing level "world"
+2011-04-30 23:36:06 [INFO] Preparing start region
+2011-04-30 23:36:07 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-04-30 23:36:08 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-04-30 23:36:09 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-04-30 23:36:09 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-04-30 23:36:09 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-04-30 23:36:09 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-04-30 23:36:09 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 23:36:09 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 23:36:09 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 23:36:09 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-04-30 23:36:09 [INFO] Activated world 'world' in Dynmap.
+2011-04-30 23:36:09 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 23:36:09 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 23:36:09 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 23:36:09 [INFO] Dynmap WebServer started on null:80
+2011-04-30 23:36:09 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-04-30 23:36:09 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-04-30 23:36:09 [INFO] iChat (v2.2.3) enabled
+2011-04-30 23:36:09 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 23:36:09 [INFO] [Landmarks] Successfully loaded 1 markers.
+2011-04-30 23:36:09 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-04-30 23:36:09 [INFO] LoginMessage 0.6_3 enabled
+2011-04-30 23:36:09 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-04-30 23:36:09 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-04-30 23:36:09 [INFO] [MultiVerse] Permissions Found
+2011-04-30 23:36:09 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-04-30 23:36:09 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-04-30 23:36:09 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-04-30 23:36:09 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-04-30 23:36:09 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-04-30 23:36:09 [INFO] [MultiVerse] Loading Portals
+2011-04-30 23:36:09 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-04-30 23:36:10 [INFO] [MYHOME]: 2 homes loaded
+2011-04-30 23:36:10 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-04-30 23:36:10 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-04-30 23:36:10 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-04-30 23:36:10 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-04-30 23:36:10 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-04-30 23:36:10 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-04-30 23:36:10 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-04-30 23:36:10 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-04-30 23:36:10 [INFO] [WeatherGod] Permission system detected.
+2011-04-30 23:36:10 [INFO] WeatherGod version 0.22 is enabled!
+2011-04-30 23:36:10 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-04-30 23:36:10 [INFO] WorldEdit 4.4 enabled.
+2011-04-30 23:36:10 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 23:36:10 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-04-30 23:36:10 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-04-30 23:36:10 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-04-30 23:36:10 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-04-30 23:36:10 [INFO] [WormholeXTreme]iConomy Plugin not yet available - there will be no iConomy integration until loaded.
+2011-04-30 23:36:10 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-04-30 23:36:10 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-04-30 23:36:10 [INFO] Done (0.358s)! For help, type "help" or "?"
+2011-04-30 23:36:11 [INFO] lufonso [/71.205.82.84:58758] logged in with entity id 359
+2011-04-30 23:36:14 [INFO] CAPSLOCKNINJA [/127.0.0.1:61440] logged in with entity id 475
+2011-04-30 23:36:21 [INFO] [world]§f[11:36]§a§2I, CAPSLOCKNINJA, decree:§f how long was josh here 
+2011-04-30 23:36:22 [INFO] [world]§f[11:36]§a§2I, CAPSLOCKNINJA, decree:§f xd 
+2011-04-30 23:36:26 [INFO] [world]§f[11:36]§a§2I, CAPSLOCKNINJA, decree:§f *xD 
+2011-04-30 23:36:34 [INFO] RampantConstruct [/98.65.254.176:50241] logged in with entity id 721
+2011-04-30 23:38:19 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+	at org.bukkit.craftbukkit.TextWrapper.wrapText(TextWrapper.java:38)
+	at net.minecraft.server.NetServerHandler.sendPacket(NetServerHandler.java:596)
+	at org.bukkit.craftbukkit.entity.CraftPlayer.sendRawMessage(CraftPlayer.java:81)
+	at org.bukkit.craftbukkit.entity.CraftPlayer.sendMessage(CraftPlayer.java:85)
+	at nl.robinvandervliet.DeathMessagePlugin.DeathMessagePluginEntityListener.onEntityDeath(DeathMessagePluginEntityListener.java:424)
+	at org.bukkit.plugin.java.JavaPluginLoader$45.execute(JavaPluginLoader.java:480)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityPlayer.a(EntityPlayer.java:121)
+	at net.minecraft.server.EntityLiving.damageEntity(EntityLiving.java:393)
+	at net.minecraft.server.EntityHuman.damageEntity(EntityHuman.java:423)
+	at net.minecraft.server.EntityPlayer.damageEntity(EntityPlayer.java:149)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:172)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-04-30 23:38:23 [INFO] lufonso [/71.205.82.84:58964] logged in with entity id 6713
+2011-04-30 23:38:25 [INFO] Connection reset
+2011-04-30 23:38:25 [INFO] Connected players: CAPSLOCKNINJA, RampantConstruct, lufonso
+2011-04-30 23:38:29 [INFO] [world]§f[11:38]§aProject RampantConstruct:§f Still storming 
+2011-04-30 23:38:36 [INFO] [world]§f[11:38]§a§2I, CAPSLOCKNINJA, decree:§f I know 
+2011-04-30 23:38:53 [INFO] [world]§f[11:38]§a§2I, CAPSLOCKNINJA, decree:§f why did the login notifications break again... 
+2011-04-30 23:39:02 [INFO] [world]§f[11:39]§a§2I, CAPSLOCKNINJA, decree:§f I'll have to look back into it soon 
+2011-04-30 23:39:20 [INFO] [world]§f[11:39]§a§2I, CAPSLOCKNINJA, decree:§f ok 
+2011-04-30 23:39:21 [INFO] [world]§f[11:39]§a§2I, CAPSLOCKNINJA, decree:§f guys 
+2011-04-30 23:39:29 [INFO] [world]§f[11:39]§a§2I, CAPSLOCKNINJA, decree:§f sorry but gonna restart ooonnne more time 
+2011-04-30 23:39:32 [INFO] [world]§f[11:39]§aProject RampantConstruct:§f Ok 
+2011-04-30 23:39:33 [INFO] Connection reset
+2011-04-30 23:39:33 [INFO] RampantConstruct lost connection: disconnect.quitting
+2011-04-30 23:39:34 [INFO] Connected players: CAPSLOCKNINJA, lufonso
+2011-04-30 23:39:35 [INFO] Connection reset
+2011-04-30 23:39:35 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-04-30 23:39:35 [INFO] Connected players: lufonso
+2011-04-30 23:39:37 [INFO] Stopping the server..
+2011-04-30 23:39:37 [INFO] CONSOLE: Stopping the server..
+2011-04-30 23:39:37 [INFO] Stopping server
+2011-04-30 23:39:37 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-04-30 23:39:37 [INFO] Stopping map renderer...
+2011-04-30 23:39:37 [INFO] Shutting down webserver...
+2011-04-30 23:39:37 [INFO] [iChat] iChat Disabled
+2011-04-30 23:39:37 [INFO] map WebServer.run() stops with IOException
+2011-04-30 23:39:37 [INFO] Webserver shut down.
+2011-04-30 23:39:37 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 23:39:37 [INFO] [Landmarks] Landmarks disabled.
+2011-04-30 23:39:37 [INFO] [MultiInv] Plugin disabled.
+2011-04-30 23:39:37 [INFO] [MultiVerse] - Disabled
+2011-04-30 23:39:37 [INFO] [Permissions] (Phoenix) saved all data.
+2011-04-30 23:39:37 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-04-30 23:39:37 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 23:39:37 [INFO] [iChat] Permissions plugin lost.
+2011-04-30 23:39:37 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-04-30 23:39:37 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-04-30 23:39:37 [INFO] WeatherGod disabled!
+2011-04-30 23:39:37 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-04-30 23:39:37 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-04-30 23:39:37 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-04-30 23:39:37 [INFO] Saving chunks

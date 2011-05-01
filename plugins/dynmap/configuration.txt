@@ -92,6 +92,7 @@ web:
       #- type: digitalclock
       - type: timeofdayclock
         showdigitalclock: true
+      - type: landmarks
     
     defaultworld: world
     worlds:
@@ -110,6 +111,7 @@ web:
             title: Cave
             name: cave
             prefix: ct
+
       - title: Nether
         name: nether
         maps:
@@ -121,7 +123,6 @@ web:
             title: Surface
             name: nether
             prefix: nt
-          - type: landmarks
       # Example:
       #- title: Other World           # With what name the world is displayed.
       #  name: world_other            # The actual name of the world (equal to your directory-name).
