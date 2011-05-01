@@ -2,9 +2,9 @@ Interface Statistics
 
                            Received            Sent
 
-Bytes                    1239432449      2562693092
-Unicast packets            17790575        16790244
-Non-unicast packets          379593          279957
+Bytes                    1995090739      3388681206
+Unicast packets            19710459        18698536
+Non-unicast packets          441165          319653
 Discards                          0               0
-Errors                            0               9
+Errors                            0               0
 Unknown protocols                 0

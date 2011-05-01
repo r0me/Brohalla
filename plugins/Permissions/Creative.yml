@@ -88,6 +88,11 @@ groups:
             - 'giveto.*'
             - 'myhome.home'
             - 'spawnmob.*'
+            - 'iconomy.access'
+            - 'iconomy.rank'
+            - 'iconomy.list'
+            - 'iconomy.payment'
+            - 'iconomy.bank*'
     Moderator:
         default: false
         info:
@@ -137,6 +142,7 @@ groups:
             - 'giveto.*'
             - 'worldedit.*'
             - 'myhome.admin'
+            - 'iconomy.*'
     Banned:
         default: false
         info:
@@ -249,6 +255,6 @@ users:
     Bennythebull:
         group: User
         info:
-            prefix: 'The Word Nerd '
+            prefix: ''
             suffix: ''
         permissions:

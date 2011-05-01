@@ -85,6 +85,11 @@ groups:
             - 'ichat.color'
             - 'portalstick.*'
             - 'myhome.home'
+            - 'iconomy.access'
+            - 'iconomy.rank'
+            - 'iconomy.list'
+            - 'iconomy.payment'
+            - 'iconomy.bank*'
     Moderator:
         default: false
         info:
@@ -135,6 +140,7 @@ groups:
             - 'worldedit.*'
             - 'myhome.admin'
             - 'spawnmob.*'
+            - 'iconomy.*'
     Banned:
         default: false
         info:
@@ -247,6 +253,6 @@ users:
     Bennythebull:
         group: User
         info:
-            prefix: 'The Word Nerd '
+            prefix: ''
             suffix: ''
         permissions:

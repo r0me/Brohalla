@@ -6,7 +6,7 @@ worlds:
         blockBlacklist: ''
         worldBlacklist: ''
         spawn: 165:64:61:-67.49996:16.350002
-        mobs: true
+        mobs: false
         price: 0.0
         environment: NORMAL
         editWhitelist: ''
