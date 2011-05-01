@@ -19,7 +19,7 @@ webpath: web
 webserver-bindaddress: 0.0.0.0
 
 # The TCP-port the webserver will listen on.
-webserver-port: 8123
+webserver-port: 80
 
 # Disables Webserver portion of Dynmap (Advanced users only)
 disable-webserver: false
@@ -121,6 +121,7 @@ web:
             title: Surface
             name: nether
             prefix: nt
+          - type: landmarks
       # Example:
       #- title: Other World           # With what name the world is displayed.
       #  name: world_other            # The actual name of the world (equal to your directory-name).

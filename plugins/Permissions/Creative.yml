@@ -87,6 +87,7 @@ groups:
             - 'worldedit.*'
             - 'giveto.*'
             - 'myhome.home'
+            - 'spawnmob.*'
     Moderator:
         default: false
         info:
@@ -224,12 +225,24 @@ users:
     willhudson:
         group: User
         info:
-            prefix: ''
-            suffix: ''
+            prefix: 'Hello, it is '
+            suffix: ', the hawk.'
         permissions:
     williamhuds:
         group: User
         info:
+            prefix: 'Hello, it is'
+            suffix: ', the hawk.'
+        permissions:
+    prplman:
+        group: User
+        info:
             prefix: ''
+            suffix: ''
+        permissions:
+    POTATOjim:
+        group: User
+        info:
+            prefix: 'The Brotato himself, '
             suffix: ''
         permissions:

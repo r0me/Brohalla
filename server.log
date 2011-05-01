@@ -187,3 +187,1007 @@
 2011-04-30 19:10:59 [INFO] Saving chunks
 2011-04-30 19:10:59 [INFO] Stopping server
 2011-04-30 19:10:59 [INFO] Saving chunks
+2011-04-30 19:23:21 [INFO] Starting minecraft server version Beta 1.5_02
+2011-04-30 19:23:21 [INFO] Loading properties
+2011-04-30 19:23:21 [INFO] Starting Minecraft server on *:25565
+2011-04-30 19:23:21 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-04-30 19:23:21 [INFO] Preparing level "world"
+2011-04-30 19:23:21 [INFO] Preparing start region
+2011-04-30 19:23:22 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-04-30 19:23:23 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-04-30 19:23:24 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-04-30 19:23:24 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-04-30 19:23:24 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-04-30 19:23:24 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-04-30 19:23:24 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 19:23:24 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 19:23:24 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 19:23:24 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-04-30 19:23:24 [INFO] Activated world 'world' in Dynmap.
+2011-04-30 19:23:24 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 19:23:24 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 19:23:24 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 19:23:25 [INFO] Dynmap WebServer started on null:8123
+2011-04-30 19:23:25 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-04-30 19:23:25 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-04-30 19:23:25 [INFO] iChat (v2.2.3) enabled
+2011-04-30 19:23:25 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 19:23:25 [INFO] [Landmarks] Successfully loaded 0 markers.
+2011-04-30 19:23:25 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-04-30 19:23:25 [INFO] LoginMessage 0.6_3 enabled
+2011-04-30 19:23:25 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-04-30 19:23:25 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-04-30 19:23:25 [INFO] [MultiVerse] Permissions Found
+2011-04-30 19:23:25 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-04-30 19:23:25 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-04-30 19:23:25 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-04-30 19:23:25 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-04-30 19:23:25 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-04-30 19:23:25 [INFO] [MultiVerse] Loading Portals
+2011-04-30 19:23:25 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-04-30 19:23:25 [INFO] [MYHOME]: 2 homes loaded
+2011-04-30 19:23:25 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-04-30 19:23:25 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-04-30 19:23:25 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-04-30 19:23:25 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-04-30 19:23:26 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-04-30 19:23:26 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-04-30 19:23:26 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-04-30 19:23:26 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-04-30 19:23:26 [INFO] [WeatherGod] Permission system detected.
+2011-04-30 19:23:26 [INFO] WeatherGod version 0.22 is enabled!
+2011-04-30 19:23:26 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-04-30 19:23:26 [INFO] WorldEdit 4.4 enabled.
+2011-04-30 19:23:26 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 19:23:26 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-04-30 19:23:26 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-04-30 19:23:26 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-04-30 19:23:26 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-04-30 19:23:26 [INFO] [WormholeXTreme]iConomy Plugin not yet available - there will be no iConomy integration until loaded.
+2011-04-30 19:23:26 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-04-30 19:23:26 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-04-30 19:23:26 [INFO] Done (0.473s)! For help, type "help" or "?"
+2011-04-30 19:27:03 [INFO] CAPSLOCKNINJA [/127.0.0.1:55156] logged in with entity id 320
+2011-04-30 19:28:04 [INFO] Connection reset
+2011-04-30 19:28:04 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-04-30 19:28:04 [INFO] Connected players: 
+2011-04-30 19:30:59 [INFO] CAPSLOCKNINJA [/127.0.0.1:55221] logged in with entity id 1486
+2011-04-30 19:31:29 [SEVERE] java.net.SocketException: Connection reset by peer: socket write error
+2011-04-30 19:31:29 [INFO] Connection reset
+2011-04-30 19:31:29 [SEVERE] 	at java.net.SocketOutputStream.socketWrite0(Native Method)
+2011-04-30 19:31:29 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+2011-04-30 19:31:29 [SEVERE] 	at java.net.SocketOutputStream.write(Unknown Source)
+2011-04-30 19:31:29 [SEVERE] 	at java.io.DataOutputStream.write(Unknown Source)
+2011-04-30 19:31:29 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:120)
+2011-04-30 19:31:29 [SEVERE] 	at net.minecraft.server.NetworkManager.e(NetworkManager.java:96)
+2011-04-30 19:31:29 [SEVERE] 	at net.minecraft.server.NetworkManager.d(NetworkManager.java:230)
+2011-04-30 19:31:29 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:90)
+2011-04-30 19:31:29 [INFO] CAPSLOCKNINJA lost connection: disconnect.endOfStream
+2011-04-30 19:31:29 [INFO] Connected players: 
+2011-04-30 19:31:29 [INFO] Connected players: 
+2011-04-30 19:31:48 [INFO] /127.0.0.1:55234 lost connection
+2011-04-30 19:31:51 [INFO] /127.0.0.1:55237 lost connection
+2011-04-30 19:32:21 [INFO] CAPSLOCKNINJA [/127.0.0.1:55246] logged in with entity id 1713
+2011-04-30 19:33:45 [INFO] CraftPlayer: Set time to 0
+2011-04-30 19:34:11 [INFO] Connection reset
+2011-04-30 19:34:11 [INFO] CAPSLOCKNINJA lost connection: disconnect.endOfStream
+2011-04-30 19:34:11 [INFO] Connected players: 
+2011-04-30 19:36:58 [INFO] CAPSLOCKNINJA [/127.0.0.1:55326] logged in with entity id 3185
+2011-04-30 19:38:04 [INFO] Connection reset
+2011-04-30 19:38:04 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-04-30 19:38:04 [INFO] Connected players: 
+2011-04-30 19:38:52 [INFO] CAPSLOCKNINJA [/127.0.0.1:55342] logged in with entity id 5570
+2011-04-30 19:39:17 [INFO] Connection reset
+2011-04-30 19:39:17 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-04-30 19:39:17 [INFO] Connected players: 
+2011-04-30 19:39:51 [INFO] RampantConstruct [/98.65.254.176:50281] logged in with entity id 5929
+2011-04-30 19:40:00 [INFO] CAPSLOCKNINJA [/127.0.0.1:55357] logged in with entity id 7002
+2011-04-30 19:40:01 [INFO] [world]§f[07:40]§aProject RampantConstruct:§e Ello 
+2011-04-30 19:40:11 [INFO] [world]§f[07:40]§a§2I, CAPSLOCKNINJA, decree:§e sup 
+2011-04-30 19:40:18 [INFO] RampantConstruct lost connection: disconnect.quitting
+2011-04-30 19:40:18 [INFO] Connection reset
+2011-04-30 19:40:20 [INFO] RampantConstruct [/98.65.254.176:50286] logged in with entity id 8353
+2011-04-30 19:40:36 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-04-30 19:40:36 [SEVERE] java.io.IOException: Bad packet id 71
+2011-04-30 19:40:36 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:78)
+2011-04-30 19:40:36 [SEVERE] 	at net.minecraft.server.NetworkManager.f(NetworkManager.java:127)
+2011-04-30 19:40:36 [SEVERE] 	at net.minecraft.server.NetworkManager.c(NetworkManager.java:226)
+2011-04-30 19:40:36 [SEVERE] 	at net.minecraft.server.NetworkReaderThread.run(SourceFile:69)
+2011-04-30 19:40:36 [SEVERE] java.io.IOException: Bad packet id 71
+2011-04-30 19:40:36 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:78)
+2011-04-30 19:40:36 [SEVERE] 	at net.minecraft.server.NetworkManager.f(NetworkManager.java:127)
+2011-04-30 19:40:36 [SEVERE] 	at net.minecraft.server.NetworkManager.c(NetworkManager.java:226)
+2011-04-30 19:40:36 [SEVERE] 	at net.minecraft.server.NetworkReaderThread.run(SourceFile:69)
+2011-04-30 19:40:36 [INFO] /69.171.224.246:40517 lost connection
+2011-04-30 19:40:36 [INFO] /98.250.9.78:50943 lost connection
+2011-04-30 19:40:40 [INFO] [world]§f[07:40]§aProject RampantConstruct:§e How many wolves have you tamed? 
+2011-04-30 19:40:54 [INFO] Ti22_simos [/98.250.9.78:58973] logged in with entity id 10567
+2011-04-30 19:41:12 [INFO] CAPSLOCKNINJA [/127.0.0.1:55373] logged in with entity id 13079
+2011-04-30 19:41:24 [SEVERE] java.io.IOException: Bad packet id 71
+2011-04-30 19:41:24 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:78)
+2011-04-30 19:41:24 [SEVERE] 	at net.minecraft.server.NetworkManager.f(NetworkManager.java:127)
+2011-04-30 19:41:24 [SEVERE] 	at net.minecraft.server.NetworkManager.c(NetworkManager.java:226)
+2011-04-30 19:41:24 [SEVERE] 	at net.minecraft.server.NetworkReaderThread.run(SourceFile:69)
+2011-04-30 19:41:24 [INFO] /98.250.9.78:50950 lost connection
+2011-04-30 19:41:28 [INFO] [world]§f[07:41]§a§2I, CAPSLOCKNINJA, decree:§e sups 
+2011-04-30 19:41:34 [INFO] [world]§f[07:41]§a§2I, CAPSLOCKNINJA, decree:§e gonna be on and off while I fix something 
+2011-04-30 19:41:37 [INFO] [world]§f[07:41]§aTi22_simos:§e yo 
+2011-04-30 19:41:42 [INFO] [world]§f[07:41]§aTi22_simos:§e k 
+2011-04-30 19:41:44 [INFO] [world]§f[07:41]§a§2I, CAPSLOCKNINJA, decree:§e the erver won't be. just me 
+2011-04-30 19:41:47 [SEVERE] java.io.IOException: Bad packet id 71
+2011-04-30 19:41:47 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:78)
+2011-04-30 19:41:47 [SEVERE] 	at net.minecraft.server.NetworkManager.f(NetworkManager.java:127)
+2011-04-30 19:41:47 [SEVERE] 	at net.minecraft.server.NetworkManager.c(NetworkManager.java:226)
+2011-04-30 19:41:47 [SEVERE] 	at net.minecraft.server.NetworkReaderThread.run(SourceFile:69)
+2011-04-30 19:41:47 [INFO] /98.250.9.78:50951 lost connection
+2011-04-30 19:41:47 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-04-30 19:41:47 [INFO] Connection reset
+2011-04-30 19:42:16 [INFO] prplman [/98.250.9.78:50952] logged in with entity id 20897
+2011-04-30 19:42:29 [INFO] CAPSLOCKNINJA [/127.0.0.1:55387] logged in with entity id 22419
+2011-04-30 19:43:06 [INFO] [world]§f[07:43]§aprplman:§e herro 
+2011-04-30 19:43:10 [INFO] [world]§f[07:43]§a§2I, CAPSLOCKNINJA, decree:§e sup 
+2011-04-30 19:43:25 [INFO] [world]§f[07:43]§aprplman:§e how'd u do dat 
+2011-04-30 19:43:29 [INFO] [world]§f[07:43]§a§2I, CAPSLOCKNINJA, decree:§e do what 
+2011-04-30 19:43:41 [INFO] [world]§f[07:43]§a§2I, CAPSLOCKNINJA, decree:§e brb 
+2011-04-30 19:43:42 [INFO] [world]§f[07:43]§aprplman:§e the I, CAPSLOCKNINJA, decree 
+2011-04-30 19:44:07 [INFO] [world]§f[07:44]§aProject RampantConstruct:§e He added it before his username, he can do that for all of you. 
+2011-04-30 19:44:29 [INFO] [world]§f[07:44]§aprplman:§e can i be opped first 
+2011-04-30 19:45:48 [INFO] Connection reset
+2011-04-30 19:45:48 [INFO] prplman lost connection: disconnect.quitting
+2011-04-30 19:45:48 [INFO] Connected players: RampantConstruct, Ti22_simos, CAPSLOCKNINJA
+2011-04-30 19:46:03 [INFO] Connection reset
+2011-04-30 19:46:03 [INFO] Ti22_simos lost connection: disconnect.quitting
+2011-04-30 19:46:04 [INFO] Connected players: RampantConstruct, CAPSLOCKNINJA
+2011-04-30 19:47:26 [INFO] [world]§f[07:47]§a§2I, CAPSLOCKNINJA, decree:§e ok gonna get off 
+2011-04-30 19:47:29 [INFO] [world]§f[07:47]§aProject RampantConstruct:§e Cya 
+2011-04-30 19:47:31 [INFO] [world]§f[07:47]§a§2I, CAPSLOCKNINJA, decree:§e cya later 
+2011-04-30 19:47:32 [INFO] Connection reset
+2011-04-30 19:47:32 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-04-30 19:47:32 [INFO] Connected players: RampantConstruct
+2011-04-30 19:50:19 [SEVERE] java.io.IOException: Bad packet id 71
+2011-04-30 19:50:19 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:78)
+2011-04-30 19:50:19 [SEVERE] 	at net.minecraft.server.NetworkManager.f(NetworkManager.java:127)
+2011-04-30 19:50:19 [SEVERE] 	at net.minecraft.server.NetworkManager.c(NetworkManager.java:226)
+2011-04-30 19:50:19 [SEVERE] 	at net.minecraft.server.NetworkReaderThread.run(SourceFile:69)
+2011-04-30 19:50:19 [INFO] /98.250.9.78:51093 lost connection
+2011-04-30 19:50:38 [INFO] prplman [/98.250.9.78:51106] logged in with entity id 70940
+2011-04-30 19:51:21 [INFO] Connection reset
+2011-04-30 19:51:21 [INFO] RampantConstruct lost connection: disconnect.quitting
+2011-04-30 19:51:22 [INFO] Connected players: prplman
+2011-04-30 19:51:23 [INFO] RampantConstruct [/98.65.254.176:50300] logged in with entity id 80370
+2011-04-30 19:52:01 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+	at nl.robinvandervliet.DeathMessagePlugin.DeathMessagePluginEntityListener.onEntityDeath(DeathMessagePluginEntityListener.java:427)
+	at org.bukkit.plugin.java.JavaPluginLoader$45.execute(JavaPluginLoader.java:480)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityPlayer.a(EntityPlayer.java:121)
+	at net.minecraft.server.EntityLiving.damageEntity(EntityLiving.java:393)
+	at net.minecraft.server.EntityHuman.damageEntity(EntityHuman.java:423)
+	at net.minecraft.server.EntityPlayer.damageEntity(EntityPlayer.java:149)
+	at net.minecraft.server.Explosion.a(Explosion.java:152)
+	at net.minecraft.server.World.createExplosion(World.java:1275)
+	at net.minecraft.server.WorldServer.createExplosion(WorldServer.java:130)
+	at net.minecraft.server.EntityCreeper.a(EntityCreeper.java:99)
+	at net.minecraft.server.EntityCreature.c_(EntityCreature.java:67)
+	at net.minecraft.server.EntityLiving.u(EntityLiving.java:657)
+	at net.minecraft.server.EntityMonster.u(EntityMonster.java:30)
+	at net.minecraft.server.EntityLiving.p_(EntityLiving.java:231)
+	at net.minecraft.server.EntityMonster.p_(EntityMonster.java:34)
+	at net.minecraft.server.EntityCreeper.p_(EntityCreeper.java:57)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-04-30 19:52:17 [INFO] [world]§f[07:52]§aprplman:§e SOMEONE OP ME] 
+2011-04-30 19:52:41 [INFO] [world]§f[07:52]§aprplman:§e PLEASE 
+2011-04-30 19:52:50 [INFO] [world]§f[07:52]§aprplman:§e I CANT BREAK BLOCKS 
+2011-04-30 19:54:21 [INFO] [world]§f[07:54]§aprplman:§e SOMEONE HELP 
+2011-04-30 19:54:26 [INFO] prplman tried command: online
+2011-04-30 19:54:40 [INFO] Connection reset
+2011-04-30 19:54:40 [INFO] prplman lost connection: disconnect.quitting
+2011-04-30 19:54:40 [INFO] Connected players: RampantConstruct
+2011-04-30 19:55:32 [INFO] [CONSOLE] gonna restart
+2011-04-30 19:55:37 [INFO] Stopping the server..
+2011-04-30 19:55:37 [INFO] CONSOLE: Stopping the server..
+2011-04-30 19:55:37 [INFO] Stopping server
+2011-04-30 19:55:37 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-04-30 19:55:37 [INFO] Stopping map renderer...
+2011-04-30 19:55:38 [INFO] Shutting down webserver...
+2011-04-30 19:55:38 [INFO] map WebServer.run() stops with IOException
+2011-04-30 19:55:38 [INFO] Webserver shut down.
+2011-04-30 19:55:38 [INFO] [iChat] iChat Disabled
+2011-04-30 19:55:38 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 19:55:38 [INFO] [Landmarks] Landmarks disabled.
+2011-04-30 19:55:38 [INFO] [MultiInv] Plugin disabled.
+2011-04-30 19:55:38 [INFO] [MultiVerse] - Disabled
+2011-04-30 19:55:38 [INFO] [Permissions] (Phoenix) saved all data.
+2011-04-30 19:55:38 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-04-30 19:55:38 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 19:55:38 [INFO] [iChat] Permissions plugin lost.
+2011-04-30 19:55:38 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-04-30 19:55:38 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-04-30 19:55:38 [INFO] WeatherGod disabled!
+2011-04-30 19:55:38 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-04-30 19:55:38 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-04-30 19:55:38 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-04-30 19:55:38 [INFO] Saving chunks
+2011-04-30 19:58:00 [INFO] Starting minecraft server version Beta 1.5_02
+2011-04-30 19:58:00 [INFO] Loading properties
+2011-04-30 19:58:00 [INFO] Starting Minecraft server on *:25565
+2011-04-30 19:58:00 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-04-30 19:58:00 [INFO] Preparing level "world"
+2011-04-30 19:58:00 [INFO] Preparing start region
+2011-04-30 19:58:01 [SEVERE] Could not load 'plugins\Permissions.jar' in folder 'plugins': 
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:138)
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:160)
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:108)
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:85)
+	at net.minecraft.server.MinecraftServer.e(MinecraftServer.java:217)
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:204)
+	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:144)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:259)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+Caused by: while scanning for the next token
+found character 	'\t' that cannot start any token
+ in "<reader>", line 235, column 1:
+    	prplman:
+    ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:360)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:183)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:592)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:163)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:132)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:124)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:264)
+	at com.nijiko.configuration.NotNullConfiguration.load(NotNullConfiguration.java:58)
+	at com.nijikokun.bukkit.Permissions.Permissions.<init>(Permissions.java:132)
+	... 13 more
+2011-04-30 19:58:01 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-04-30 19:58:03 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-04-30 19:58:03 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-04-30 19:58:03 [INFO] DeathMessagePlugin version 1.9 is enabled without permissions!
+2011-04-30 19:58:03 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 19:58:03 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 19:58:03 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 19:58:03 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-04-30 19:58:03 [INFO] Activated world 'world' in Dynmap.
+2011-04-30 19:58:03 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 19:58:03 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 19:58:03 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 19:58:03 [INFO] Dynmap WebServer started on null:8123
+2011-04-30 19:58:03 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-04-30 19:58:03 [INFO] iChat (v2.2.3) enabled
+2011-04-30 19:58:03 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 19:58:03 [INFO] [Landmarks] Successfully loaded 0 markers.
+2011-04-30 19:58:03 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-04-30 19:58:03 [INFO] LoginMessage 0.6_3 enabled
+2011-04-30 19:58:03 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-04-30 19:58:03 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-04-30 19:58:03 [INFO] [MultiInv] Permission system not enabled. Using ops.txt
+2011-04-30 19:58:03 [INFO] [MultiVerse] Commands are disabled unless Permissions is found.
+2011-04-30 19:58:03 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-04-30 19:58:03 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-04-30 19:58:03 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-04-30 19:58:03 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-04-30 19:58:03 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-04-30 19:58:03 [INFO] [MultiVerse] Loading Portals
+2011-04-30 19:58:03 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-04-30 19:58:04 [INFO] [MYHOME]: 2 homes loaded
+2011-04-30 19:58:04 [WARNING] [MYHOME] A permission plugin isn't loaded.
+2011-04-30 19:58:04 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-04-30 19:58:04 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-04-30 19:58:04 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-04-30 19:58:04 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-04-30 19:58:04 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-04-30 19:58:04 [INFO] [SpawnMob] Permission system not detected! Please go into the SpawnMob.properties and set use-permissions to false.
+2011-04-30 19:58:04 [INFO] [SpawnMob] Please go into the SpawnMob.properties and set use-permissions to false.
+2011-04-30 19:58:04 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-04-30 19:58:04 [INFO] [WeatherGod] Permission system not detected. Defaulting to Op.
+2011-04-30 19:58:04 [INFO] WeatherGod version 0.22 is enabled!
+2011-04-30 19:58:04 [INFO] [WolfSpawn] Permission system not detected
+2011-04-30 19:58:04 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-04-30 19:58:04 [INFO] WorldEdit 4.4 enabled.
+2011-04-30 19:58:04 [INFO] WorldEdit: No known permissions plugin detected. Using configuration file for permissions.
+2011-04-30 19:58:04 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-04-30 19:58:04 [INFO] [WormholeXTreme]Permission Plugin not yet available. Defaulting to built-in permissions until Permissions is loaded.
+2011-04-30 19:58:04 [INFO] [WormholeXTreme]iConomy Plugin not yet available - there will be no iConomy integration until loaded.
+2011-04-30 19:58:04 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-04-30 19:58:04 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-04-30 19:58:04 [INFO] Done (0.341s)! For help, type "help" or "?"
+2011-04-30 19:59:15 [INFO] Stopping the server..
+2011-04-30 19:59:15 [INFO] CONSOLE: Stopping the server..
+2011-04-30 19:59:15 [INFO] Stopping server
+2011-04-30 19:59:15 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-04-30 19:59:15 [INFO] Stopping map renderer...
+2011-04-30 19:59:15 [INFO] Shutting down webserver...
+2011-04-30 19:59:15 [INFO] [iChat] iChat Disabled
+2011-04-30 19:59:15 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 19:59:15 [INFO] [Landmarks] Landmarks disabled.
+2011-04-30 19:59:15 [INFO] [MultiInv] Plugin disabled.
+2011-04-30 19:59:15 [INFO] [MultiVerse] - Disabled
+2011-04-30 19:59:15 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-04-30 19:59:15 [INFO] WeatherGod disabled!
+2011-04-30 19:59:15 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-04-30 19:59:15 [INFO] map WebServer.run() stops with IOException
+2011-04-30 19:59:15 [INFO] Webserver shut down.
+2011-04-30 19:59:15 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-04-30 19:59:15 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-04-30 19:59:15 [INFO] Saving chunks
+2011-04-30 19:59:16 [INFO] Stopping server
+2011-04-30 19:59:38 [INFO] Starting minecraft server version Beta 1.5_02
+2011-04-30 19:59:38 [INFO] Loading properties
+2011-04-30 19:59:38 [INFO] Starting Minecraft server on *:25565
+2011-04-30 19:59:38 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-04-30 19:59:38 [INFO] Preparing level "world"
+2011-04-30 19:59:38 [INFO] Preparing start region
+2011-04-30 19:59:39 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-04-30 19:59:39 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-04-30 19:59:41 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-04-30 19:59:41 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-04-30 19:59:41 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-04-30 19:59:41 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-04-30 19:59:41 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 19:59:41 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 19:59:41 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 19:59:41 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-04-30 19:59:41 [INFO] Activated world 'world' in Dynmap.
+2011-04-30 19:59:41 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 19:59:41 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 19:59:41 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 19:59:41 [INFO] Dynmap WebServer started on null:8123
+2011-04-30 19:59:41 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-04-30 19:59:41 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-04-30 19:59:41 [INFO] iChat (v2.2.3) enabled
+2011-04-30 19:59:41 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 19:59:41 [INFO] [Landmarks] Successfully loaded 0 markers.
+2011-04-30 19:59:41 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-04-30 19:59:41 [INFO] LoginMessage 0.6_3 enabled
+2011-04-30 19:59:41 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-04-30 19:59:41 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-04-30 19:59:41 [INFO] [MultiVerse] Permissions Found
+2011-04-30 19:59:41 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-04-30 19:59:41 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-04-30 19:59:41 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-04-30 19:59:41 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-04-30 19:59:41 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-04-30 19:59:41 [INFO] [MultiVerse] Loading Portals
+2011-04-30 19:59:41 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-04-30 19:59:41 [INFO] [MYHOME]: 2 homes loaded
+2011-04-30 19:59:41 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-04-30 19:59:41 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-04-30 19:59:41 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-04-30 19:59:41 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-04-30 19:59:41 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-04-30 19:59:41 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-04-30 19:59:41 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-04-30 19:59:41 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-04-30 19:59:41 [INFO] [WeatherGod] Permission system detected.
+2011-04-30 19:59:41 [INFO] WeatherGod version 0.22 is enabled!
+2011-04-30 19:59:41 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-04-30 19:59:41 [INFO] WorldEdit 4.4 enabled.
+2011-04-30 19:59:41 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 19:59:41 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-04-30 19:59:41 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-04-30 19:59:41 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-04-30 19:59:41 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-04-30 19:59:41 [INFO] [WormholeXTreme]iConomy Plugin not yet available - there will be no iConomy integration until loaded.
+2011-04-30 19:59:41 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-04-30 19:59:42 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-04-30 19:59:42 [INFO] Done (0.324s)! For help, type "help" or "?"
+2011-04-30 19:59:42 [INFO] Stopping the server..
+2011-04-30 19:59:42 [INFO] CONSOLE: Stopping the server..
+2011-04-30 19:59:42 [INFO] Stopping server
+2011-04-30 19:59:42 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-04-30 19:59:42 [INFO] Stopping map renderer...
+2011-04-30 19:59:42 [INFO] Shutting down webserver...
+2011-04-30 19:59:42 [INFO] [iChat] iChat Disabled
+2011-04-30 19:59:42 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 19:59:42 [INFO] [Landmarks] Landmarks disabled.
+2011-04-30 19:59:42 [INFO] [MultiInv] Plugin disabled.
+2011-04-30 19:59:42 [INFO] [MultiVerse] - Disabled
+2011-04-30 19:59:42 [INFO] [Permissions] (Phoenix) saved all data.
+2011-04-30 19:59:42 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-04-30 19:59:42 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 19:59:42 [INFO] [iChat] Permissions plugin lost.
+2011-04-30 19:59:42 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-04-30 19:59:42 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-04-30 19:59:42 [INFO] WeatherGod disabled!
+2011-04-30 19:59:42 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-04-30 19:59:42 [INFO] map WebServer.run() stops with IOException
+2011-04-30 19:59:42 [INFO] Webserver shut down.
+2011-04-30 19:59:42 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-04-30 19:59:42 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-04-30 19:59:42 [INFO] Saving chunks
+2011-04-30 19:59:44 [INFO] Starting minecraft server version Beta 1.5_02
+2011-04-30 19:59:44 [INFO] Loading properties
+2011-04-30 19:59:44 [INFO] Starting Minecraft server on *:25565
+2011-04-30 19:59:44 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-04-30 19:59:44 [INFO] Preparing level "world"
+2011-04-30 19:59:44 [INFO] Preparing start region
+2011-04-30 19:59:45 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-04-30 19:59:45 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-04-30 19:59:46 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-04-30 19:59:46 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-04-30 19:59:46 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-04-30 19:59:46 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-04-30 19:59:46 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 19:59:46 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 19:59:46 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 19:59:46 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-04-30 19:59:46 [INFO] Activated world 'world' in Dynmap.
+2011-04-30 19:59:46 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 19:59:46 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 19:59:46 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 19:59:47 [INFO] Dynmap WebServer started on null:8123
+2011-04-30 19:59:47 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-04-30 19:59:47 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-04-30 19:59:47 [INFO] iChat (v2.2.3) enabled
+2011-04-30 19:59:47 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 19:59:47 [INFO] [Landmarks] Successfully loaded 0 markers.
+2011-04-30 19:59:47 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-04-30 19:59:47 [INFO] LoginMessage 0.6_3 enabled
+2011-04-30 19:59:47 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-04-30 19:59:47 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-04-30 19:59:47 [INFO] [MultiVerse] Permissions Found
+2011-04-30 19:59:47 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-04-30 19:59:47 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-04-30 19:59:47 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-04-30 19:59:47 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-04-30 19:59:47 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-04-30 19:59:47 [INFO] [MultiVerse] Loading Portals
+2011-04-30 19:59:47 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-04-30 19:59:47 [INFO] [MYHOME]: 2 homes loaded
+2011-04-30 19:59:47 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-04-30 19:59:47 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-04-30 19:59:47 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-04-30 19:59:47 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-04-30 19:59:47 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-04-30 19:59:47 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-04-30 19:59:47 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-04-30 19:59:47 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-04-30 19:59:47 [INFO] [WeatherGod] Permission system detected.
+2011-04-30 19:59:47 [INFO] WeatherGod version 0.22 is enabled!
+2011-04-30 19:59:47 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-04-30 19:59:47 [INFO] WorldEdit 4.4 enabled.
+2011-04-30 19:59:47 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 19:59:47 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-04-30 19:59:47 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-04-30 19:59:47 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-04-30 19:59:47 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-04-30 19:59:47 [INFO] [WormholeXTreme]iConomy Plugin not yet available - there will be no iConomy integration until loaded.
+2011-04-30 19:59:47 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-04-30 19:59:47 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-04-30 19:59:47 [INFO] Done (0.320s)! For help, type "help" or "?"
+2011-04-30 20:01:35 [INFO] Stopping the server..
+2011-04-30 20:01:35 [INFO] CONSOLE: Stopping the server..
+2011-04-30 20:01:35 [INFO] Stopping server
+2011-04-30 20:01:35 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-04-30 20:01:35 [INFO] Stopping map renderer...
+2011-04-30 20:01:35 [INFO] Shutting down webserver...
+2011-04-30 20:01:35 [INFO] [iChat] iChat Disabled
+2011-04-30 20:01:35 [INFO] map WebServer.run() stops with IOException
+2011-04-30 20:01:35 [INFO] Webserver shut down.
+2011-04-30 20:01:35 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 20:01:35 [INFO] [Landmarks] Landmarks disabled.
+2011-04-30 20:01:35 [INFO] [MultiInv] Plugin disabled.
+2011-04-30 20:01:35 [INFO] [MultiVerse] - Disabled
+2011-04-30 20:01:35 [INFO] [Permissions] (Phoenix) saved all data.
+2011-04-30 20:01:35 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-04-30 20:01:35 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 20:01:35 [INFO] [iChat] Permissions plugin lost.
+2011-04-30 20:01:35 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-04-30 20:01:35 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-04-30 20:01:35 [INFO] WeatherGod disabled!
+2011-04-30 20:01:35 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-04-30 20:01:35 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-04-30 20:01:35 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-04-30 20:01:35 [INFO] Saving chunks
+2011-04-30 20:01:36 [INFO] Stopping server
+2011-04-30 20:02:18 [INFO] Starting minecraft server version Beta 1.5_02
+2011-04-30 20:02:18 [INFO] Loading properties
+2011-04-30 20:02:18 [INFO] Starting Minecraft server on *:25565
+2011-04-30 20:02:18 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-04-30 20:02:18 [INFO] Preparing level "world"
+2011-04-30 20:02:18 [INFO] Preparing start region
+2011-04-30 20:02:19 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-04-30 20:02:19 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-04-30 20:02:21 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-04-30 20:02:21 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-04-30 20:02:21 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-04-30 20:02:21 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-04-30 20:02:21 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 20:02:21 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 20:02:21 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 20:02:21 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-04-30 20:02:21 [INFO] Activated world 'world' in Dynmap.
+2011-04-30 20:02:21 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 20:02:21 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 20:02:21 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 20:02:21 [INFO] Dynmap WebServer started on null:8123
+2011-04-30 20:02:21 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-04-30 20:02:21 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-04-30 20:02:21 [INFO] iChat (v2.2.3) enabled
+2011-04-30 20:02:21 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 20:02:21 [INFO] [Landmarks] Successfully loaded 0 markers.
+2011-04-30 20:02:21 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-04-30 20:02:21 [INFO] LoginMessage 0.6_3 enabled
+2011-04-30 20:02:21 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-04-30 20:02:21 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-04-30 20:02:21 [INFO] [MultiVerse] Permissions Found
+2011-04-30 20:02:21 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-04-30 20:02:21 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-04-30 20:02:21 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-04-30 20:02:21 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-04-30 20:02:21 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-04-30 20:02:21 [INFO] [MultiVerse] Loading Portals
+2011-04-30 20:02:21 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-04-30 20:02:21 [INFO] [MYHOME]: 2 homes loaded
+2011-04-30 20:02:21 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-04-30 20:02:21 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-04-30 20:02:21 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-04-30 20:02:21 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-04-30 20:02:21 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-04-30 20:02:21 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-04-30 20:02:22 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-04-30 20:02:22 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-04-30 20:02:22 [INFO] [WeatherGod] Permission system detected.
+2011-04-30 20:02:22 [INFO] WeatherGod version 0.22 is enabled!
+2011-04-30 20:02:22 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-04-30 20:02:22 [INFO] WorldEdit 4.4 enabled.
+2011-04-30 20:02:22 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 20:02:22 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-04-30 20:02:22 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-04-30 20:02:22 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-04-30 20:02:22 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-04-30 20:02:22 [INFO] [WormholeXTreme]iConomy Plugin not yet available - there will be no iConomy integration until loaded.
+2011-04-30 20:02:22 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-04-30 20:02:22 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-04-30 20:02:22 [INFO] Done (0.356s)! For help, type "help" or "?"
+2011-04-30 20:16:29 [INFO] POTATOjim [/71.205.168.140:61750] logged in with entity id 249
+2011-04-30 20:17:44 [INFO] [CONSOLE] need to add you to perms
+2011-04-30 20:17:56 [INFO] [CONSOLE] gonna restart so I can do that
+2011-04-30 20:18:00 [INFO] Stopping the server..
+2011-04-30 20:18:00 [INFO] CONSOLE: Stopping the server..
+2011-04-30 20:18:00 [INFO] Stopping server
+2011-04-30 20:18:00 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-04-30 20:18:00 [INFO] Stopping map renderer...
+2011-04-30 20:18:00 [INFO] Shutting down webserver...
+2011-04-30 20:18:00 [INFO] [iChat] iChat Disabled
+2011-04-30 20:18:00 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 20:18:00 [INFO] [Landmarks] Landmarks disabled.
+2011-04-30 20:18:00 [INFO] [MultiInv] Plugin disabled.
+2011-04-30 20:18:00 [INFO] [MultiVerse] - Disabled
+2011-04-30 20:18:00 [INFO] [Permissions] (Phoenix) saved all data.
+2011-04-30 20:18:00 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-04-30 20:18:00 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 20:18:00 [INFO] map WebServer.run() stops with IOException
+2011-04-30 20:18:00 [INFO] [iChat] Permissions plugin lost.
+2011-04-30 20:18:00 [INFO] Webserver shut down.
+2011-04-30 20:18:00 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-04-30 20:18:00 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-04-30 20:18:00 [INFO] WeatherGod disabled!
+2011-04-30 20:18:00 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-04-30 20:18:00 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-04-30 20:18:00 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-04-30 20:18:00 [INFO] Saving chunks
+2011-04-30 20:18:01 [INFO] Stopping server
+2011-04-30 20:18:01 [INFO] Saving chunks
+2011-04-30 20:19:11 [INFO] Starting minecraft server version Beta 1.5_02
+2011-04-30 20:19:11 [INFO] Loading properties
+2011-04-30 20:19:11 [INFO] Starting Minecraft server on *:25565
+2011-04-30 20:19:11 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-04-30 20:19:11 [INFO] Preparing level "world"
+2011-04-30 20:19:11 [INFO] Preparing start region
+2011-04-30 20:19:12 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-04-30 20:19:12 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-04-30 20:19:14 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-04-30 20:19:14 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-04-30 20:19:14 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-04-30 20:19:14 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-04-30 20:19:14 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 20:19:14 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 20:19:14 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 20:19:14 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-04-30 20:19:14 [INFO] Activated world 'world' in Dynmap.
+2011-04-30 20:19:14 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 20:19:14 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 20:19:14 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 20:19:14 [INFO] Dynmap WebServer started on null:8123
+2011-04-30 20:19:14 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-04-30 20:19:14 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-04-30 20:19:14 [INFO] iChat (v2.2.3) enabled
+2011-04-30 20:19:14 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 20:19:14 [INFO] [Landmarks] Successfully loaded 0 markers.
+2011-04-30 20:19:14 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-04-30 20:19:14 [INFO] LoginMessage 0.6_3 enabled
+2011-04-30 20:19:14 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-04-30 20:19:14 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-04-30 20:19:14 [INFO] [MultiVerse] Permissions Found
+2011-04-30 20:19:14 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-04-30 20:19:14 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-04-30 20:19:14 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-04-30 20:19:14 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-04-30 20:19:14 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-04-30 20:19:14 [INFO] [MultiVerse] Loading Portals
+2011-04-30 20:19:14 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-04-30 20:19:14 [INFO] [MYHOME]: 2 homes loaded
+2011-04-30 20:19:14 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-04-30 20:19:14 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-04-30 20:19:14 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-04-30 20:19:14 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-04-30 20:19:14 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-04-30 20:19:14 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-04-30 20:19:14 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-04-30 20:19:14 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-04-30 20:19:14 [INFO] [WeatherGod] Permission system detected.
+2011-04-30 20:19:14 [INFO] WeatherGod version 0.22 is enabled!
+2011-04-30 20:19:14 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-04-30 20:19:14 [INFO] WorldEdit 4.4 enabled.
+2011-04-30 20:19:14 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 20:19:15 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-04-30 20:19:15 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-04-30 20:19:15 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-04-30 20:19:15 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-04-30 20:19:15 [INFO] [WormholeXTreme]iConomy Plugin not yet available - there will be no iConomy integration until loaded.
+2011-04-30 20:19:15 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-04-30 20:19:15 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-04-30 20:19:15 [INFO] Done (0.326s)! For help, type "help" or "?"
+2011-04-30 20:19:18 [INFO] Ti22_simos [/98.250.9.78:59665] logged in with entity id 277
+2011-04-30 20:24:35 [INFO] Ti22_simos lost connection: disconnect.quitting
+2011-04-30 20:24:35 [INFO] Connection reset
+2011-04-30 20:26:40 [INFO] CAPSLOCKNINJA [/127.0.0.1:56160] logged in with entity id 7538
+2011-04-30 20:28:48 [INFO] Connection reset
+2011-04-30 20:28:48 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-04-30 20:28:49 [INFO] Connected players: 
+2011-04-30 20:43:18 [INFO] Ti22_simos [/98.250.9.78:59791] logged in with entity id 12003
+2011-04-30 20:45:01 [INFO] [CONSOLE] simon
+2011-04-30 20:45:15 [INFO] [CONSOLE] what do you want your title to be
+2011-04-30 20:45:25 [INFO] [CONSOLE] like when I talk it says "I, CAPSLOCKNINJA, decree..."
+2011-04-30 20:45:50 [INFO] [CONSOLE] or with Mike it says "Fuck you, GTManiac is a real G!"
+2011-04-30 20:46:58 [INFO] Connection reset
+2011-04-30 20:46:58 [INFO] Ti22_simos lost connection: disconnect.quitting
+2011-04-30 20:46:59 [INFO] Connected players: 
+2011-04-30 20:48:04 [INFO] Ti22_simos [/98.250.9.78:59837] logged in with entity id 14109
+2011-04-30 20:48:15 [INFO] [CONSOLE] um ok
+2011-04-30 20:48:19 [INFO] [CONSOLE] gonna restart
+2011-04-30 20:48:20 [INFO] Stopping the server..
+2011-04-30 20:48:20 [INFO] CONSOLE: Stopping the server..
+2011-04-30 20:48:20 [INFO] Stopping server
+2011-04-30 20:48:20 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-04-30 20:48:20 [INFO] Stopping map renderer...
+2011-04-30 20:48:20 [INFO] Shutting down webserver...
+2011-04-30 20:48:20 [INFO] [iChat] iChat Disabled
+2011-04-30 20:48:20 [INFO] map WebServer.run() stops with IOException
+2011-04-30 20:48:20 [INFO] Webserver shut down.
+2011-04-30 20:48:20 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 20:48:20 [INFO] [Landmarks] Landmarks disabled.
+2011-04-30 20:48:20 [INFO] [MultiInv] Plugin disabled.
+2011-04-30 20:48:20 [INFO] [MultiVerse] - Disabled
+2011-04-30 20:48:20 [INFO] [Permissions] (Phoenix) saved all data.
+2011-04-30 20:48:20 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-04-30 20:48:20 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 20:48:20 [INFO] [iChat] Permissions plugin lost.
+2011-04-30 20:48:20 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-04-30 20:48:20 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-04-30 20:48:20 [INFO] WeatherGod disabled!
+2011-04-30 20:48:20 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-04-30 20:48:21 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-04-30 20:48:21 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-04-30 20:48:21 [INFO] Saving chunks
+2011-04-30 20:48:21 [INFO] Stopping server
+2011-04-30 20:49:01 [INFO] Starting minecraft server version Beta 1.5_02
+2011-04-30 20:49:01 [INFO] Loading properties
+2011-04-30 20:49:01 [INFO] Starting Minecraft server on *:25565
+2011-04-30 20:49:01 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-04-30 20:49:01 [INFO] Preparing level "world"
+2011-04-30 20:49:01 [INFO] Preparing start region
+2011-04-30 20:49:02 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-04-30 20:49:02 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-04-30 20:49:04 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-04-30 20:49:04 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-04-30 20:49:04 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-04-30 20:49:04 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-04-30 20:49:04 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 20:49:04 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 20:49:04 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 20:49:04 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-04-30 20:49:04 [INFO] Activated world 'world' in Dynmap.
+2011-04-30 20:49:04 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 20:49:04 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 20:49:04 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 20:49:04 [INFO] Dynmap WebServer started on null:8123
+2011-04-30 20:49:04 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-04-30 20:49:04 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-04-30 20:49:04 [INFO] iChat (v2.2.3) enabled
+2011-04-30 20:49:04 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 20:49:04 [INFO] [Landmarks] Successfully loaded 0 markers.
+2011-04-30 20:49:04 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-04-30 20:49:04 [INFO] LoginMessage 0.6_3 enabled
+2011-04-30 20:49:04 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-04-30 20:49:04 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-04-30 20:49:04 [INFO] [MultiVerse] Permissions Found
+2011-04-30 20:49:04 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-04-30 20:49:04 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-04-30 20:49:04 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-04-30 20:49:04 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-04-30 20:49:04 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-04-30 20:49:04 [INFO] [MultiVerse] Loading Portals
+2011-04-30 20:49:04 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-04-30 20:49:05 [INFO] [MYHOME]: 2 homes loaded
+2011-04-30 20:49:05 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-04-30 20:49:05 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-04-30 20:49:05 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-04-30 20:49:05 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-04-30 20:49:05 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-04-30 20:49:05 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-04-30 20:49:05 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-04-30 20:49:05 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-04-30 20:49:05 [INFO] [WeatherGod] Permission system detected.
+2011-04-30 20:49:05 [INFO] WeatherGod version 0.22 is enabled!
+2011-04-30 20:49:05 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-04-30 20:49:05 [INFO] WorldEdit 4.4 enabled.
+2011-04-30 20:49:05 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 20:49:05 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-04-30 20:49:05 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-04-30 20:49:05 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-04-30 20:49:05 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-04-30 20:49:05 [INFO] [WormholeXTreme]iConomy Plugin not yet available - there will be no iConomy integration until loaded.
+2011-04-30 20:49:05 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-04-30 20:49:05 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-04-30 20:49:05 [INFO] Done (0.363s)! For help, type "help" or "?"
+2011-04-30 20:49:06 [INFO] Ti22_simos [/98.250.9.78:59878] logged in with entity id 236
+2011-04-30 20:51:17 [INFO] [CONSOLE] simon?
+2011-04-30 20:53:19 [INFO] [CONSOLE] dammit gotta restart again
+2011-04-30 20:53:20 [INFO] Stopping the server..
+2011-04-30 20:53:20 [INFO] CONSOLE: Stopping the server..
+2011-04-30 20:53:20 [INFO] Stopping server
+2011-04-30 20:53:20 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-04-30 20:53:20 [INFO] Stopping map renderer...
+2011-04-30 20:53:20 [INFO] Shutting down webserver...
+2011-04-30 20:53:20 [INFO] [iChat] iChat Disabled
+2011-04-30 20:53:20 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 20:53:20 [INFO] [Landmarks] Landmarks disabled.
+2011-04-30 20:53:20 [INFO] [MultiInv] Plugin disabled.
+2011-04-30 20:53:20 [INFO] [MultiVerse] - Disabled
+2011-04-30 20:53:20 [INFO] [Permissions] (Phoenix) saved all data.
+2011-04-30 20:53:20 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-04-30 20:53:20 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 20:53:20 [INFO] [iChat] Permissions plugin lost.
+2011-04-30 20:53:20 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-04-30 20:53:20 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-04-30 20:53:20 [INFO] map WebServer.run() stops with IOException
+2011-04-30 20:53:20 [INFO] Webserver shut down.
+2011-04-30 20:53:20 [INFO] WeatherGod disabled!
+2011-04-30 20:53:20 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-04-30 20:53:20 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-04-30 20:53:20 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-04-30 20:53:20 [INFO] Saving chunks
+2011-04-30 20:54:10 [INFO] Starting minecraft server version Beta 1.5_02
+2011-04-30 20:54:10 [INFO] Loading properties
+2011-04-30 20:54:10 [INFO] Starting Minecraft server on *:25565
+2011-04-30 20:54:10 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-04-30 20:54:10 [INFO] Preparing level "world"
+2011-04-30 20:54:10 [INFO] Preparing start region
+2011-04-30 20:54:11 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-04-30 20:54:11 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-04-30 20:54:12 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-04-30 20:54:12 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-04-30 20:54:12 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-04-30 20:54:12 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-04-30 20:54:12 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 20:54:12 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 20:54:12 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 20:54:12 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-04-30 20:54:12 [INFO] Activated world 'world' in Dynmap.
+2011-04-30 20:54:12 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 20:54:12 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 20:54:12 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 20:54:13 [INFO] Dynmap WebServer started on null:80
+2011-04-30 20:54:14 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-04-30 20:54:14 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-04-30 20:54:14 [INFO] iChat (v2.2.3) enabled
+2011-04-30 20:54:14 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 20:54:14 [INFO] [Landmarks] Successfully loaded 0 markers.
+2011-04-30 20:54:14 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-04-30 20:54:14 [INFO] LoginMessage 0.6_3 enabled
+2011-04-30 20:54:14 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-04-30 20:54:14 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-04-30 20:54:14 [INFO] [MultiVerse] Permissions Found
+2011-04-30 20:54:14 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-04-30 20:54:14 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-04-30 20:54:14 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-04-30 20:54:14 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-04-30 20:54:14 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-04-30 20:54:14 [INFO] [MultiVerse] Loading Portals
+2011-04-30 20:54:14 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-04-30 20:54:14 [INFO] [MYHOME]: 2 homes loaded
+2011-04-30 20:54:14 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-04-30 20:54:14 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-04-30 20:54:14 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-04-30 20:54:14 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-04-30 20:54:14 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-04-30 20:54:14 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-04-30 20:54:14 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-04-30 20:54:14 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-04-30 20:54:14 [INFO] [WeatherGod] Permission system detected.
+2011-04-30 20:54:14 [INFO] WeatherGod version 0.22 is enabled!
+2011-04-30 20:54:14 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-04-30 20:54:14 [INFO] WorldEdit 4.4 enabled.
+2011-04-30 20:54:14 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 20:54:14 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-04-30 20:54:14 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-04-30 20:54:14 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-04-30 20:54:14 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-04-30 20:54:14 [INFO] [WormholeXTreme]iConomy Plugin not yet available - there will be no iConomy integration until loaded.
+2011-04-30 20:54:14 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-04-30 20:54:14 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-04-30 20:54:14 [INFO] Done (0.435s)! For help, type "help" or "?"
+2011-04-30 20:54:14 [INFO] Stopping the server..
+2011-04-30 20:54:14 [INFO] CONSOLE: Stopping the server..
+2011-04-30 20:54:14 [INFO] Stopping server
+2011-04-30 20:54:14 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-04-30 20:54:14 [INFO] Stopping map renderer...
+2011-04-30 20:54:14 [INFO] Shutting down webserver...
+2011-04-30 20:54:14 [INFO] [iChat] iChat Disabled
+2011-04-30 20:54:14 [INFO] map WebServer.run() stops with IOException
+2011-04-30 20:54:14 [INFO] Webserver shut down.
+2011-04-30 20:54:14 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 20:54:14 [INFO] [Landmarks] Landmarks disabled.
+2011-04-30 20:54:14 [INFO] [MultiInv] Plugin disabled.
+2011-04-30 20:54:14 [INFO] [MultiVerse] - Disabled
+2011-04-30 20:54:14 [INFO] [Permissions] (Phoenix) saved all data.
+2011-04-30 20:54:14 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-04-30 20:54:14 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 20:54:14 [INFO] [iChat] Permissions plugin lost.
+2011-04-30 20:54:14 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-04-30 20:54:14 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-04-30 20:54:14 [INFO] WeatherGod disabled!
+2011-04-30 20:54:14 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-04-30 20:54:14 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-04-30 20:54:14 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-04-30 20:54:14 [INFO] Saving chunks
+2011-04-30 20:54:15 [INFO] Stopping server
+2011-04-30 20:54:15 [INFO] Saving chunks
+2011-04-30 20:54:17 [INFO] Starting minecraft server version Beta 1.5_02
+2011-04-30 20:54:17 [INFO] Loading properties
+2011-04-30 20:54:17 [INFO] Starting Minecraft server on *:25565
+2011-04-30 20:54:17 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-04-30 20:54:17 [INFO] Preparing level "world"
+2011-04-30 20:54:17 [INFO] Preparing start region
+2011-04-30 20:54:18 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-04-30 20:54:18 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-04-30 20:54:20 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-04-30 20:54:20 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-04-30 20:54:20 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-04-30 20:54:20 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-04-30 20:54:20 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 20:54:20 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 20:54:20 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 20:54:20 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-04-30 20:54:20 [INFO] Activated world 'world' in Dynmap.
+2011-04-30 20:54:20 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-04-30 20:54:20 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-04-30 20:54:20 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-04-30 20:54:20 [INFO] Dynmap WebServer started on null:80
+2011-04-30 20:54:20 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-04-30 20:54:20 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-04-30 20:54:20 [INFO] iChat (v2.2.3) enabled
+2011-04-30 20:54:20 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 20:54:20 [INFO] [Landmarks] Successfully loaded 0 markers.
+2011-04-30 20:54:20 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-04-30 20:54:20 [INFO] LoginMessage 0.6_3 enabled
+2011-04-30 20:54:20 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-04-30 20:54:20 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-04-30 20:54:20 [INFO] [MultiVerse] Permissions Found
+2011-04-30 20:54:20 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-04-30 20:54:20 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-04-30 20:54:20 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-04-30 20:54:20 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-04-30 20:54:20 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-04-30 20:54:20 [INFO] [MultiVerse] Loading Portals
+2011-04-30 20:54:20 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-04-30 20:54:21 [INFO] [MYHOME]: 2 homes loaded
+2011-04-30 20:54:21 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-04-30 20:54:21 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-04-30 20:54:21 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-04-30 20:54:21 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-04-30 20:54:21 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-04-30 20:54:21 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-04-30 20:54:21 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-04-30 20:54:21 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-04-30 20:54:21 [INFO] [WeatherGod] Permission system detected.
+2011-04-30 20:54:21 [INFO] WeatherGod version 0.22 is enabled!
+2011-04-30 20:54:21 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-04-30 20:54:21 [INFO] WorldEdit 4.4 enabled.
+2011-04-30 20:54:21 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 20:54:21 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-04-30 20:54:21 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-04-30 20:54:21 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-04-30 20:54:21 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-04-30 20:54:21 [INFO] [WormholeXTreme]iConomy Plugin not yet available - there will be no iConomy integration until loaded.
+2011-04-30 20:54:21 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-04-30 20:54:21 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-04-30 20:54:21 [INFO] Done (0.432s)! For help, type "help" or "?"
+2011-04-30 20:54:32 [INFO] Ti22_simos [/98.250.9.78:59938] logged in with entity id 201
+2011-04-30 20:55:36 [INFO] Ti22_simos lost connection: disconnect.quitting
+2011-04-30 20:55:36 [INFO] Connection reset
+2011-04-30 20:55:38 [INFO] Ti22_simos [/98.250.9.78:59970] logged in with entity id 358
+2011-04-30 20:57:31 [INFO] CAPSLOCKNINJA [/127.0.0.1:56897] logged in with entity id 1331
+2011-04-30 20:58:16 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+	at org.bukkit.craftbukkit.TextWrapper.wrapText(TextWrapper.java:38)
+	at net.minecraft.server.NetServerHandler.sendPacket(NetServerHandler.java:596)
+	at org.bukkit.craftbukkit.entity.CraftPlayer.sendRawMessage(CraftPlayer.java:81)
+	at org.bukkit.craftbukkit.entity.CraftPlayer.sendMessage(CraftPlayer.java:85)
+	at nl.robinvandervliet.DeathMessagePlugin.DeathMessagePluginEntityListener.onEntityDeath(DeathMessagePluginEntityListener.java:424)
+	at org.bukkit.plugin.java.JavaPluginLoader$45.execute(JavaPluginLoader.java:480)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityPlayer.a(EntityPlayer.java:121)
+	at net.minecraft.server.EntityLiving.damageEntity(EntityLiving.java:393)
+	at net.minecraft.server.EntityHuman.damageEntity(EntityHuman.java:423)
+	at net.minecraft.server.EntityPlayer.damageEntity(EntityPlayer.java:149)
+	at net.minecraft.server.Explosion.a(Explosion.java:152)
+	at net.minecraft.server.World.createExplosion(World.java:1275)
+	at net.minecraft.server.WorldServer.createExplosion(WorldServer.java:130)
+	at net.minecraft.server.EntityCreeper.a(EntityCreeper.java:99)
+	at net.minecraft.server.EntityCreature.c_(EntityCreature.java:67)
+	at net.minecraft.server.EntityLiving.u(EntityLiving.java:657)
+	at net.minecraft.server.EntityMonster.u(EntityMonster.java:30)
+	at net.minecraft.server.EntityLiving.p_(EntityLiving.java:231)
+	at net.minecraft.server.EntityMonster.p_(EntityMonster.java:34)
+	at net.minecraft.server.EntityCreeper.p_(EntityCreeper.java:57)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-04-30 20:58:59 [INFO] [world]§f[08:58]§a§2I, CAPSLOCKNINJA, decree:§e sup 
+2011-04-30 20:59:18 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 20:59:29 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 20:59:37 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 21:01:03 [INFO] [world]§f[09:01]§a§2I, CAPSLOCKNINJA, decree:§e ok simon, ONE LAST restart 
+2011-04-30 21:01:09 [INFO] CraftPlayer: Stopping the server..
+2011-04-30 21:01:09 [INFO] Stopping server
+2011-04-30 21:01:09 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-04-30 21:01:09 [INFO] Stopping map renderer...
+2011-04-30 21:01:10 [INFO] Shutting down webserver...
+2011-04-30 21:01:10 [INFO] [iChat] iChat Disabled
+2011-04-30 21:01:10 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-04-30 21:01:10 [INFO] [Landmarks] Landmarks disabled.
+2011-04-30 21:01:10 [INFO] map WebServer.run() stops with IOException
+2011-04-30 21:01:10 [INFO] Webserver shut down.
+2011-04-30 21:01:10 [INFO] [MultiInv] Plugin disabled.
+2011-04-30 21:01:10 [INFO] [MultiVerse] - Disabled
+2011-04-30 21:01:10 [INFO] [Permissions] (Phoenix) saved all data.
+2011-04-30 21:01:10 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-04-30 21:01:10 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-04-30 21:01:10 [INFO] [iChat] Permissions plugin lost.
+2011-04-30 21:01:10 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-04-30 21:01:10 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-04-30 21:01:10 [INFO] WeatherGod disabled!
+2011-04-30 21:01:10 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-04-30 21:01:10 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-04-30 21:01:10 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-04-30 21:01:10 [INFO] Saving chunks

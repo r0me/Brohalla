@@ -1,0 +1,7 @@
+1. Rescan by pressing F5
+2. Stage Changed Files For Commit by pressing Ctrl+I
+3. Write a commit message in the box.
+4. Push By pressing ctrl+p / then ok
+5. Enter password: brohalla
+6. ???
+7. PROFIT!!!
