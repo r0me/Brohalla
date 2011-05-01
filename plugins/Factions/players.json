@@ -1,0 +1,11 @@
+{
+  "CAPSLOCKNINJA": {
+    "factionId": 2,
+    "role": "ADMIN",
+    "title": "Bowss",
+    "power": 10.0,
+    "lastPowerUpdateTime": 1304283715985,
+    "lastLoginTime": 1304292110140,
+    "factionChatting": false
+  }
+}

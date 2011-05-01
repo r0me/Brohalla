@@ -19,7 +19,7 @@ worlds:
         alias: ''
         blockBlacklist: ''
         worldBlacklist: ''
-        spawn: -590:72:83:0.0:0.0
+        spawn: -517:71:100:313.2475:11.849975
         mobs: true
         price: 0.0
         environment: NORMAL

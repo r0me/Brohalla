@@ -3502,3 +3502,1876 @@ java.lang.NullPointerException
 2011-05-01 13:18:42 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
 2011-05-01 13:18:42 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
 2011-05-01 13:18:42 [INFO] Saving chunks
+2011-05-01 13:27:34 [INFO] Starting minecraft server version Beta 1.5_02
+2011-05-01 13:27:34 [INFO] Loading properties
+2011-05-01 13:27:34 [INFO] Starting Minecraft server on *:25565
+2011-05-01 13:27:34 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-05-01 13:27:34 [INFO] Preparing level "world"
+2011-05-01 13:27:34 [INFO] Preparing start region
+2011-05-01 13:27:35 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-05-01 13:27:35 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-05-01 13:27:37 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-05-01 13:27:37 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-05-01 13:27:37 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-05-01 13:27:37 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-05-01 13:27:37 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-05-01 13:27:37 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-05-01 13:27:37 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-05-01 13:27:37 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-05-01 13:27:37 [INFO] Activated world 'world' in Dynmap.
+2011-05-01 13:27:37 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-05-01 13:27:37 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-05-01 13:27:37 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-05-01 13:27:37 [INFO] Dynmap WebServer started on null:80
+2011-05-01 13:27:37 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-05-01 13:27:37 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-05-01 13:27:37 [INFO] iChat (v2.2.3) enabled
+2011-05-01 13:27:37 [INFO] [iConomy] Logging is currently disabled.
+2011-05-01 13:27:38 [INFO] [iConomy] v4.65 (Kenzi) loaded.
+2011-05-01 13:27:38 [INFO] [iConomy] Developed by: [Nijikokun, Coelho]
+2011-05-01 13:27:38 [INFO] [iConomy] hooked into Permissions.
+2011-05-01 13:27:38 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-05-01 13:27:38 [INFO] [Landmarks] Successfully loaded 1 markers.
+2011-05-01 13:27:38 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-05-01 13:27:38 [INFO] LoginMessage 0.6_3 enabled
+2011-05-01 13:27:38 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-05-01 13:27:38 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-05-01 13:27:38 [INFO] [MultiVerse] Permissions Found
+2011-05-01 13:27:38 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-05-01 13:27:38 [INFO] [MultiVerse] Found iConomy, enabling payments.
+2011-05-01 13:27:38 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-05-01 13:27:38 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-05-01 13:27:38 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-05-01 13:27:38 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-05-01 13:27:38 [INFO] [MultiVerse] Loading Portals
+2011-05-01 13:27:38 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-05-01 13:27:38 [INFO] [MYHOME]: 2 homes loaded
+2011-05-01 13:27:38 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-05-01 13:27:38 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-05-01 13:27:38 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-05-01 13:27:38 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-05-01 13:27:38 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-05-01 13:27:38 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-05-01 13:27:38 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-05-01 13:27:38 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-05-01 13:27:38 [INFO] [WeatherGod] Permission system detected.
+2011-05-01 13:27:38 [INFO] WeatherGod version 0.22 is enabled!
+2011-05-01 13:27:38 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-05-01 13:27:38 [INFO] WorldEdit 4.4 enabled.
+2011-05-01 13:27:38 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-05-01 13:27:38 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-05-01 13:27:38 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-05-01 13:27:38 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-05-01 13:27:38 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-05-01 13:27:38 [INFO] [WormholeXTreme]Attached to iConomy version 4.65
+2011-05-01 13:27:38 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-05-01 13:27:38 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-05-01 13:27:38 [INFO] Done (0.431s)! For help, type "help" or "?"
+2011-05-01 13:32:00 [INFO] asneakyfatcat [/71.205.168.236:4515] logged in with entity id 270
+2011-05-01 13:32:13 [INFO] [world]§f[01:32]§aThe Winrar asneakyfatcat demands:§f its always night -_- 
+2011-05-01 13:42:08 [INFO] Set time to 0
+2011-05-01 13:42:08 [INFO] CONSOLE: Set time to 0
+2011-05-01 13:42:15 [INFO] [CONSOLE] that better?
+2011-05-01 13:42:19 [INFO] prplman [/98.250.9.78:59941] logged in with entity id 26086
+2011-05-01 13:42:19 [SEVERE] Could not pass event PLAYER_JOIN to LoginMessage
+java.lang.NullPointerException
+	at com.tahkeh.loginmessage.LoginMessage.process(LoginMessage.java:191)
+	at com.tahkeh.loginmessage.LoginMessage.sendMultiMessage(LoginMessage.java:279)
+	at com.tahkeh.loginmessage.LoginMessagePlayerListener.onPlayerJoin(LoginMessagePlayerListener.java:71)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:206)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.ServerConfigurationManager.a(ServerConfigurationManager.java:94)
+	at net.minecraft.server.NetLoginHandler.b(NetLoginHandler.java:95)
+	at net.minecraft.server.NetLoginHandler.a(NetLoginHandler.java:33)
+	at net.minecraft.server.NetworkListenThread.a(SourceFile:87)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:370)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 13:42:21 [INFO] [world]§f[01:42]§aThe Winrar asneakyfatcat demands:§f what better 
+2011-05-01 13:42:34 [INFO] [world]§f[01:42]§aThe Winrar asneakyfatcat demands:§f i like how it dosent rain on sand 
+2011-05-01 13:42:49 [INFO] [CONSOLE] that's cuz it's a deser
+2011-05-01 13:43:11 [INFO] [world]§f[01:43]§aThe Winrar asneakyfatcat demands:§f u fijnd outthe currenct system? 
+2011-05-01 13:43:58 [INFO] [CONSOLE] I did
+2011-05-01 13:44:04 [INFO] [CONSOLE] I just don't have any plugins that use it
+2011-05-01 13:44:14 [INFO] [world]§f[01:44]§aThe Winrar asneakyfatcat demands:§f can u get some 
+2011-05-01 13:44:34 [INFO] [CONSOLE] yes
+2011-05-01 13:44:51 [INFO] [CONSOLE] i was gonna get a chest shop plugin as well as one that makes certain commans cost money
+2011-05-01 13:44:56 [INFO] [CONSOLE] i might make stargates cost money
+2011-05-01 13:45:07 [INFO] [CONSOLE] but then I'll make it so anyone can build one
+2011-05-01 13:45:19 [INFO] [world]§f[01:45]§aThe Winrar asneakyfatcat demands:§f i want it so people can run shops that would be sweet 
+2011-05-01 13:45:25 [INFO] [world]§f[01:45]§aThe Winrar asneakyfatcat demands:§f get that shelf mod 
+2011-05-01 13:45:29 [INFO] [CONSOLE] I'll probably make the /home command cost money so you havesome sort of penalty for teleporting home
+2011-05-01 13:45:31 [INFO] [world]§f[01:45]§aThe Winrar asneakyfatcat demands:§f so u can see all the items 
+2011-05-01 13:45:37 [INFO] [CONSOLE] the shelf mod is only for SP
+2011-05-01 13:45:39 [INFO] [world]§f[01:45]§aThe Winrar asneakyfatcat demands:§f aww 
+2011-05-01 13:45:43 [INFO] [CONSOLE] mod=/=plugins
+2011-05-01 13:45:56 [INFO] [world]§f[01:45]§aThe Winrar asneakyfatcat demands:§f i still want stores 
+2011-05-01 13:48:11 [INFO] [world]§f[01:48]§aprplman:§f does anyone know where simons home is? 
+2011-05-01 13:49:28 [SEVERE] java.io.IOException: Bad packet id 71
+2011-05-01 13:49:28 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:78)
+2011-05-01 13:49:28 [SEVERE] 	at net.minecraft.server.NetworkManager.f(NetworkManager.java:127)
+2011-05-01 13:49:28 [SEVERE] 	at net.minecraft.server.NetworkManager.c(NetworkManager.java:226)
+2011-05-01 13:49:28 [SEVERE] 	at net.minecraft.server.NetworkReaderThread.run(SourceFile:69)
+2011-05-01 13:49:28 [INFO] /98.250.9.78:59962 lost connection
+2011-05-01 13:49:49 [SEVERE] java.io.IOException: Bad packet id 71
+2011-05-01 13:49:49 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:78)
+2011-05-01 13:49:49 [SEVERE] 	at net.minecraft.server.NetworkManager.f(NetworkManager.java:127)
+2011-05-01 13:49:49 [SEVERE] 	at net.minecraft.server.NetworkManager.c(NetworkManager.java:226)
+2011-05-01 13:49:49 [SEVERE] 	at net.minecraft.server.NetworkReaderThread.run(SourceFile:69)
+2011-05-01 13:49:49 [INFO] /98.250.9.78:59977 lost connection
+2011-05-01 13:49:59 [INFO] [CONSOLE] I have no clue
+2011-05-01 13:50:11 [SEVERE] java.io.IOException: Bad packet id 71
+2011-05-01 13:50:11 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:78)
+2011-05-01 13:50:11 [SEVERE] 	at net.minecraft.server.NetworkManager.f(NetworkManager.java:127)
+2011-05-01 13:50:11 [SEVERE] 	at net.minecraft.server.NetworkManager.c(NetworkManager.java:226)
+2011-05-01 13:50:11 [SEVERE] 	at net.minecraft.server.NetworkReaderThread.run(SourceFile:69)
+2011-05-01 13:50:11 [INFO] /98.250.9.78:60067 lost connection
+2011-05-01 13:50:18 [INFO] [CONSOLE] and someone's trying to connect but can' t and I have no clue who it is
+2011-05-01 13:50:46 [INFO] CAPSLOCKNINJA [/127.0.0.1:54479] logged in with entity id 44009
+2011-05-01 13:50:53 [INFO] [world]§f[01:50]§a§2I, CAPSLOCKNINJA, decree:§f lol YES 
+2011-05-01 13:51:00 [INFO] [world]§f[01:51]§a§2I, CAPSLOCKNINJA, decree:§f the 3 hour rainstorm is still going strong 
+2011-05-01 13:51:00 [INFO] [world]§f[01:51]§aThe Winrar asneakyfatcat demands:§f prolly mike or kurt 
+2011-05-01 13:51:24 [INFO] [world]§f[01:51]§a§2I, CAPSLOCKNINJA, decree:§f *song of storms* 
+2011-05-01 13:51:38 [INFO] [world]§f[01:51]§a§2I, CAPSLOCKNINJA, decree:§f fuck rain 
+2011-05-01 13:51:46 [INFO] [world]§f[01:51]§a§2I, CAPSLOCKNINJA, decree:§f it's time for a two and a half hour tstorm 
+2011-05-01 13:51:52 [INFO] [world]§f[01:51]§aThe Winrar asneakyfatcat demands:§f WTF A CREEPER?????????????????? 
+2011-05-01 13:51:56 [INFO] [world]§f[01:51]§aThe Winrar asneakyfatcat demands:§f O SHIT O SHIT O SHIT 
+2011-05-01 13:51:59 [INFO] [world]§f[01:51]§a§2I, CAPSLOCKNINJA, decree:§f lolwut 
+2011-05-01 13:52:04 [INFO] [world]§f[01:52]§a§2I, CAPSLOCKNINJA, decree:§f thunderstorm whered you go 
+2011-05-01 13:52:07 [INFO] [world]§f[01:52]§aThe Winrar asneakyfatcat demands:§f theres a creeper 
+2011-05-01 13:52:16 [INFO] [world]§f[01:52]§aprplman:§f played chicken with 2 creepers 
+2011-05-01 13:52:27 [INFO] [world]§f[01:52]§a§2I, CAPSLOCKNINJA, decree:§f brb 
+2011-05-01 13:52:32 [INFO] [world]§f[01:52]§aprplman:§f one blew up and the other dropped 2 gunpowder 
+2011-05-01 13:52:34 [INFO] Connection reset
+2011-05-01 13:52:34 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-05-01 13:52:34 [INFO] Connected players: asneakyfatcat, prplman
+2011-05-01 13:52:36 [INFO] CAPSLOCKNINJA [/127.0.0.1:54490] logged in with entity id 47690
+2011-05-01 13:52:37 [INFO] [world]§f[01:52]§aThe Winrar asneakyfatcat demands:§f i have a metal pick i dont feel safe 
+2011-05-01 13:52:40 [INFO] [world]§f[01:52]§a§2I, CAPSLOCKNINJA, decree:§f btw 
+2011-05-01 13:52:53 [INFO] [world]§f[01:52]§a§2I, CAPSLOCKNINJA, decree:§f anyone think Minecraft neds LAN capability? 
+2011-05-01 13:52:56 [INFO] [world]§f[01:52]§a§2I, CAPSLOCKNINJA, decree:§f hay chaz 
+2011-05-01 13:53:01 [INFO] [world]§f[01:53]§aThe Winrar asneakyfatcat demands:§f stop with the lightning 
+2011-05-01 13:53:09 [INFO] [world]§f[01:53]§a§2I, CAPSLOCKNINJA, decree:§f I have 3 hearts, an iron sword, an iron pick, and two iron shovels. I unsafe 
+2011-05-01 13:53:11 [INFO] [world]§f[01:53]§aThe Winrar asneakyfatcat demands:§f and ya it s=houlkd 
+2011-05-01 13:53:14 [INFO] [world]§f[01:53]§a§2I, CAPSLOCKNINJA, decree:§f I'm not making it 
+2011-05-01 13:53:19 [INFO] [world]§f[01:53]§aThe Winrar asneakyfatcat demands:§f lool 
+2011-05-01 13:53:20 [INFO] [world]§f[01:53]§a§2I, CAPSLOCKNINJA, decree:§f it's an actual storm 
+2011-05-01 13:53:40 [INFO] [world]§f[01:53]§aThe Winrar asneakyfatcat demands:§f its hitting that mountain and its not raining i think its u 
+2011-05-01 13:53:46 [INFO] [world]§f[01:53]§a§2I, CAPSLOCKNINJA, decree:§f relog 
+2011-05-01 13:53:52 [INFO] asneakyfatcat lost connection: disconnect.quitting
+2011-05-01 13:53:52 [INFO] Connection reset
+2011-05-01 13:53:55 [INFO] asneakyfatcat [/71.205.168.236:4537] logged in with entity id 60182
+2011-05-01 13:54:00 [INFO] [world]§f[01:54]§aThe Winrar asneakyfatcat demands:§f o 
+2011-05-01 13:54:22 [INFO] [world]§f[01:54]§a§2I, CAPSLOCKNINJA, decree:§f ok the login notification works like half the time 
+2011-05-01 13:54:24 [INFO] [world]§f[01:54]§a§2I, CAPSLOCKNINJA, decree:§f wtf 
+2011-05-01 13:54:35 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+	at org.bukkit.craftbukkit.TextWrapper.wrapText(TextWrapper.java:38)
+	at net.minecraft.server.NetServerHandler.sendPacket(NetServerHandler.java:596)
+	at org.bukkit.craftbukkit.entity.CraftPlayer.sendRawMessage(CraftPlayer.java:81)
+	at org.bukkit.craftbukkit.entity.CraftPlayer.sendMessage(CraftPlayer.java:85)
+	at nl.robinvandervliet.DeathMessagePlugin.DeathMessagePluginEntityListener.onEntityDeath(DeathMessagePluginEntityListener.java:424)
+	at org.bukkit.plugin.java.JavaPluginLoader$45.execute(JavaPluginLoader.java:480)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityPlayer.a(EntityPlayer.java:121)
+	at net.minecraft.server.EntityLiving.damageEntity(EntityLiving.java:393)
+	at net.minecraft.server.EntityHuman.damageEntity(EntityHuman.java:423)
+	at net.minecraft.server.EntityPlayer.damageEntity(EntityPlayer.java:149)
+	at net.minecraft.server.EntityMonster.a(EntityMonster.java:101)
+	at net.minecraft.server.EntitySpider.a(EntitySpider.java:81)
+	at net.minecraft.server.EntityCreature.c_(EntityCreature.java:67)
+	at net.minecraft.server.EntityLiving.u(EntityLiving.java:657)
+	at net.minecraft.server.EntityMonster.u(EntityMonster.java:30)
+	at net.minecraft.server.EntityLiving.p_(EntityLiving.java:231)
+	at net.minecraft.server.EntityMonster.p_(EntityMonster.java:34)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 13:54:41 [INFO] [world]§f[01:54]§aThe Winrar asneakyfatcat demands:§f damn skeletons 
+2011-05-01 13:54:46 [INFO] [world]§f[01:54]§aprplman:§f OH FUCK NO 
+2011-05-01 13:54:48 [INFO] [world]§f[01:54]§aThe Winrar asneakyfatcat demands:§f im in bed 
+2011-05-01 13:54:53 [INFO] prplman tried command: back
+2011-05-01 13:54:56 [INFO] [world]§f[01:54]§a§2I, CAPSLOCKNINJA, decree:§f me too 
+2011-05-01 13:54:59 [INFO] Connection reset
+2011-05-01 13:54:59 [INFO] prplman lost connection: disconnect.quitting
+2011-05-01 13:54:59 [INFO] Connected players: CAPSLOCKNINJA, asneakyfatcat
+2011-05-01 13:55:07 [INFO] prplman [/98.250.9.78:60129] logged in with entity id 65411
+2011-05-01 13:55:09 [INFO] [world]§f[01:55]§a§2I, CAPSLOCKNINJA, decree:§f reloggin time 
+2011-05-01 13:55:11 [INFO] Connection reset
+2011-05-01 13:55:11 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-05-01 13:55:11 [INFO] Connected players: asneakyfatcat, prplman
+2011-05-01 13:55:13 [INFO] CAPSLOCKNINJA [/127.0.0.1:54511] logged in with entity id 65593
+2011-05-01 13:55:18 [INFO] [world]§f[01:55]§a§2I, CAPSLOCKNINJA, decree:§f wow really 
+2011-05-01 13:55:21 [INFO] [world]§f[01:55]§a§2I, CAPSLOCKNINJA, decree:§f that ended the storm 
+2011-05-01 13:55:38 [INFO] [world]§f[01:55]§a§2I, CAPSLOCKNINJA, decree:§f rain :D 
+2011-05-01 13:55:41 [INFO] [world]§f[01:55]§a§2I, CAPSLOCKNINJA, decree:§f no thunder though 
+2011-05-01 13:56:39 [INFO] CAPSLOCKNINJA just got some explosive dickings!
+2011-05-01 13:56:48 [INFO] [world]§f[01:56]§a§2I, CAPSLOCKNINJA, decree:§f I jut got some explosive dickings 
+2011-05-01 13:56:54 [INFO] [world]§f[01:56]§aThe Winrar asneakyfatcat demands:§f sux 
+2011-05-01 13:57:36 [INFO] [world]§f[01:57]§a§2I, CAPSLOCKNINJA, decree:§f chaz 
+2011-05-01 13:57:44 [INFO] [world]§f[01:57]§a§2I, CAPSLOCKNINJA, decree:§f do you want me to bedrock your house? 
+2011-05-01 13:57:52 [INFO] [world]§f[01:57]§a§2I, CAPSLOCKNINJA, decree:§f oh fuck you 
+2011-05-01 13:58:03 [INFO] [world]§f[01:58]§a§2I, CAPSLOCKNINJA, decree:§f get a damn house lol 
+2011-05-01 13:58:06 [INFO] [world]§f[01:58]§aThe Winrar asneakyfatcat demands:§f what 
+2011-05-01 13:58:08 [INFO] [world]§f[01:58]§aThe Winrar asneakyfatcat demands:§f lol 
+2011-05-01 13:58:15 [INFO] [world]§f[01:58]§aThe Winrar asneakyfatcat demands:§f ill build one eventually 
+2011-05-01 13:59:14 [INFO] [world]§f[01:59]§a§2I, CAPSLOCKNINJA, decree:§f chaz wanna go splunkin? 
+2011-05-01 14:00:15 [INFO] [world]§f[02:00]§a§2I, CAPSLOCKNINJA, decree:§f fuond he 
+2011-05-01 14:00:18 [INFO] [world]§f[02:00]§a§2I, CAPSLOCKNINJA, decree:§f *ye 
+2011-05-01 14:00:39 [INFO] [world]§f[02:00]§a§2I, CAPSLOCKNINJA, decree:§f this quarry has a very zelda feel to it 
+2011-05-01 14:00:45 [INFO] [world]§f[02:00]§a§2I, CAPSLOCKNINJA, decree:§f can I flood it eventually? 
+2011-05-01 14:01:00 [INFO] [world]§f[02:01]§aThe Winrar asneakyfatcat demands:§f nope 
+2011-05-01 14:01:04 [INFO] [world]§f[02:01]§a§2I, CAPSLOCKNINJA, decree:§f ok 
+2011-05-01 14:01:15 [INFO] [world]§f[02:01]§a§2I, CAPSLOCKNINJA, decree:§f but if it were flooded it would be very zelday 
+2011-05-01 14:01:23 [INFO] [world]§f[02:01]§aThe Winrar asneakyfatcat demands:§f i lust looked down and relised the corn chips i was eating were soggy and moldy 
+2011-05-01 14:01:26 [INFO] [world]§f[02:01]§aThe Winrar asneakyfatcat demands:§f nasty 
+2011-05-01 14:01:33 [INFO] [world]§f[02:01]§a§2I, CAPSLOCKNINJA, decree:§f nice going 
+2011-05-01 14:01:43 [INFO] [world]§f[02:01]§aThe Winrar asneakyfatcat demands:§f rofl they look horrible, the moldy ones 
+2011-05-01 14:01:50 [INFO] [world]§f[02:01]§aThe Winrar asneakyfatcat demands:§f i hope i dint get sick now -_- 
+2011-05-01 14:02:04 [INFO] [world]§f[02:02]§a§2I, CAPSLOCKNINJA, decree:§f this server won't be up during school lol 
+2011-05-01 14:02:12 [INFO] [world]§f[02:02]§a§2I, CAPSLOCKNINJA, decree:§f dirt 
+2011-05-01 14:02:20 [INFO] [world]§f[02:02]§a§2I, CAPSLOCKNINJA, decree:§f I can haz cobble? 
+2011-05-01 14:02:31 [INFO] [world]§f[02:02]§a§2I, CAPSLOCKNINJA, decree:§f chaz? 
+2011-05-01 14:02:42 [INFO] [world]§f[02:02]§aThe Winrar asneakyfatcat demands:§f dont have much cobble yet 
+2011-05-01 14:02:48 [INFO] [world]§f[02:02]§a§2I, CAPSLOCKNINJA, decree:§f right here 
+2011-05-01 14:02:54 [INFO] [world]§f[02:02]§aThe Winrar asneakyfatcat demands:§f were r u 
+2011-05-01 14:02:54 [INFO] [world]§f[02:02]§a§2I, CAPSLOCKNINJA, decree:§f the chest almost full of cobble 
+2011-05-01 14:02:57 [INFO] asneakyfatcat lost connection: disconnect.quitting
+2011-05-01 14:02:57 [INFO] Connection reset
+2011-05-01 14:02:59 [INFO] asneakyfatcat [/71.205.168.236:4552] logged in with entity id 81427
+2011-05-01 14:03:08 [INFO] [world]§f[02:03]§aThe Winrar asneakyfatcat demands:§f hey thats my cobble 
+2011-05-01 14:03:10 [INFO] [world]§f[02:03]§aThe Winrar asneakyfatcat demands:§f shoo 
+2011-05-01 14:03:12 [INFO] [world]§f[02:03]§a§2I, CAPSLOCKNINJA, decree:§f can I have some? 
+2011-05-01 14:03:16 [INFO] [world]§f[02:03]§aThe Winrar asneakyfatcat demands:§f ya lol 
+2011-05-01 14:03:19 [INFO] [world]§f[02:03]§aThe Winrar asneakyfatcat demands:§f nice skin 
+2011-05-01 14:03:25 [INFO] [world]§f[02:03]§a§2I, CAPSLOCKNINJA, decree:§f :D 
+2011-05-01 14:03:27 [INFO] [world]§f[02:03]§aThe Winrar asneakyfatcat demands:§f im putting the roof on 
+2011-05-01 14:03:35 [INFO] [world]§f[02:03]§a§2I, CAPSLOCKNINJA, decree:§f I only got it to go with my texture pack an the sounds I installed 
+2011-05-01 14:03:46 [INFO] [world]§f[02:03]§a§2I, CAPSLOCKNINJA, decree:§f if I were you I'd light the whole palce up before you add a roof 
+2011-05-01 14:03:59 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Wooden Pickaxe' in your inventory.
+2011-05-01 14:04:07 [INFO] [world]§f[02:04]§aThe Winrar asneakyfatcat demands:§f dont have much coal wanna light it for me =P 
+2011-05-01 14:04:14 [INFO] [world]§f[02:04]§a§2I, CAPSLOCKNINJA, decree:§f I have no coal at all 
+2011-05-01 14:04:28 [INFO] [world]§f[02:04]§a§2I, CAPSLOCKNINJA, decree:§f you live in a fucking quarry lol 
+2011-05-01 14:04:32 [INFO] [world]§f[02:04]§a§2I, CAPSLOCKNINJA, decree:§f and you can't find coal? 
+2011-05-01 14:04:51 [INFO] [world]§f[02:04]§aThe Winrar asneakyfatcat demands:§f mike sole it all same with the ore, he mined in eratic patches 
+2011-05-01 14:04:55 [INFO] [world]§f[02:04]§aThe Winrar asneakyfatcat demands:§f and i think its on him 
+2011-05-01 14:05:03 [INFO] [world]§f[02:05]§a§2I, CAPSLOCKNINJA, decree:§f should I get the chest locking plugin? 
+2011-05-01 14:05:06 [INFO] [world]§f[02:05]§aThe Winrar asneakyfatcat demands:§f ya 
+2011-05-01 14:05:13 [INFO] [world]§f[02:05]§a§2I, CAPSLOCKNINJA, decree:§f ok 
+2011-05-01 14:05:14 [INFO] [world]§f[02:05]§aThe Winrar asneakyfatcat demands:§f wait can multiple people open 1 chest 
+2011-05-01 14:05:28 [INFO] [world]§f[02:05]§a§2I, CAPSLOCKNINJA, decree:§f if you lock it, only you can if it's a private lock 
+2011-05-01 14:05:36 [INFO] [world]§f[02:05]§a§2I, CAPSLOCKNINJA, decree:§f if it's a public lock they just can't destroy it 
+2011-05-01 14:05:45 [INFO] [world]§f[02:05]§a§2I, CAPSLOCKNINJA, decree:§f if it's a password lock, anyone with the pw can open it 
+2011-05-01 14:05:47 [INFO] [world]§f[02:05]§aThe Winrar asneakyfatcat demands:§f o i need it so aghton and me can use it 
+2011-05-01 14:05:50 [INFO] [world]§f[02:05]§a§2I, CAPSLOCKNINJA, decree:§f oh and I can open it no matter what 
+2011-05-01 14:05:50 [INFO] [world]§f[02:05]§aThe Winrar asneakyfatcat demands:§f o cool 
+2011-05-01 14:06:23 [INFO] [world]§f[02:06]§aprplman:§f bed 
+2011-05-01 14:06:28 [INFO] [world]§f[02:06]§a§2I, CAPSLOCKNINJA, decree:§f no 
+2011-05-01 14:06:32 [INFO] [world]§f[02:06]§a§2I, CAPSLOCKNINJA, decree:§f thatwill end the storm 
+2011-05-01 14:06:33 [INFO] CraftPlayer: Set time to 0
+2011-05-01 14:06:34 [WARNING] prplman moved wrongly!
+2011-05-01 14:06:34 [INFO] Got position -969.5, 102.0999984741211, 466.5
+2011-05-01 14:06:34 [INFO] Expected -968.6999999880791, 102.5625, 466.5
+2011-05-01 14:07:24 [INFO] [world]§f[02:07]§a§2I, CAPSLOCKNINJA, decree:§f actually no 
+2011-05-01 14:07:29 [INFO] [world]§f[02:07]§a§2I, CAPSLOCKNINJA, decree:§f lol I need coal before I can do this 
+2011-05-01 14:08:30 [INFO] [world]§f[02:08]§aThe Winrar asneakyfatcat demands:§f im hopping in bed theres shit all over 
+2011-05-01 14:08:40 [INFO] [world]§f[02:08]§a§2I, CAPSLOCKNINJA, decree:§f wut 
+2011-05-01 14:09:10 [INFO] [world]§f[02:09]§aThe Winrar asneakyfatcat demands:§f its day wtf 
+2011-05-01 14:12:14 [INFO] prplman lost connection: disconnect.quitting
+2011-05-01 14:12:14 [INFO] Connection reset
+2011-05-01 14:15:04 [INFO] [world]§f[02:15]§aThe Winrar asneakyfatcat demands:§f who is in the vace below me 
+2011-05-01 14:15:09 [INFO] [world]§f[02:15]§a§2I, CAPSLOCKNINJA, decree:§f me 
+2011-05-01 14:15:26 [INFO] [world]§f[02:15]§a§2I, CAPSLOCKNINJA, decree:§f why? 
+2011-05-01 14:15:28 [INFO] [world]§f[02:15]§aThe Winrar asneakyfatcat demands:§f see if there is a herobrine plugin 
+2011-05-01 14:15:41 [INFO] [world]§f[02:15]§a§2I, CAPSLOCKNINJA, decree:§f why 
+2011-05-01 14:15:51 [INFO] [world]§f[02:15]§aThe Winrar asneakyfatcat demands:§f so we could have him wandering around and apeering 
+2011-05-01 14:16:04 [INFO] [world]§f[02:16]§a§2I, CAPSLOCKNINJA, decree:§f remember the slenderman mod? 
+2011-05-01 14:16:21 [INFO] [world]§f[02:16]§aThe Winrar asneakyfatcat demands:§f ya but that was for sp 
+2011-05-01 14:16:36 [INFO] [world]§f[02:16]§a§2I, CAPSLOCKNINJA, decree:§f there actually might be a herobrine plugin 
+2011-05-01 14:16:44 [INFO] [world]§f[02:16]§aThe Winrar asneakyfatcat demands:§f i want it 
+2011-05-01 14:17:29 [INFO] [world]§f[02:17]§a§2I, CAPSLOCKNINJA, decree:§f ok that was lucky of me 
+2011-05-01 14:17:39 [INFO] [world]§f[02:17]§a§2I, CAPSLOCKNINJA, decree:§f I survived in that cave with 1 heart for the entire time I was there 
+2011-05-01 14:17:46 [INFO] [world]§f[02:17]§a§2I, CAPSLOCKNINJA, decree:§f I kill 3 zombies with my bare hands 
+2011-05-01 14:17:46 [INFO] [world]§f[02:17]§aThe Winrar asneakyfatcat demands:§f wow 
+2011-05-01 14:17:50 [INFO] [world]§f[02:17]§a§2I, CAPSLOCKNINJA, decree:§f and then almost fell on a creeper 
+2011-05-01 14:17:57 [INFO] [world]§f[02:17]§a§2I, CAPSLOCKNINJA, decree:§f but then I /home'd out 
+2011-05-01 14:18:17 [INFO] [world]§f[02:18]§aThe Winrar asneakyfatcat demands:§f hero brine plugin 
+2011-05-01 14:18:19 [INFO] [world]§f[02:18]§aThe Winrar asneakyfatcat demands:§f look for! 
+2011-05-01 14:18:22 [INFO] CAPSLOCKNINJA hated the world!
+2011-05-01 14:18:46 [INFO] [CONSOLE] nope
+2011-05-01 14:18:47 [INFO] [CONSOLE] not one
+2011-05-01 14:18:52 [INFO] [world]§f[02:18]§aThe Winrar asneakyfatcat demands:§f slenderman? 
+2011-05-01 14:19:12 [INFO] [CONSOLE] maybe
+2011-05-01 14:19:30 [INFO] [world]§f[02:19]§a§2I, CAPSLOCKNINJA, decree:§f nope 
+2011-05-01 14:19:51 [INFO] CraftPlayer: Set time to 0
+2011-05-01 14:19:55 [INFO] [world]§f[02:19]§aThe Winrar asneakyfatcat demands:§f bbl 
+2011-05-01 14:19:58 [INFO] Connection reset
+2011-05-01 14:19:58 [SEVERE] java.net.SocketException: Software caused connection abort: socket write error
+2011-05-01 14:19:58 [SEVERE] 	at java.net.SocketOutputStream.socketWrite0(Native Method)
+2011-05-01 14:19:58 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+2011-05-01 14:19:58 [SEVERE] 	at java.net.SocketOutputStream.write(Unknown Source)
+2011-05-01 14:19:58 [SEVERE] 	at java.io.DataOutputStream.write(Unknown Source)
+2011-05-01 14:19:58 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:120)
+2011-05-01 14:19:58 [SEVERE] 	at net.minecraft.server.NetworkManager.e(NetworkManager.java:96)
+2011-05-01 14:19:58 [SEVERE] 	at net.minecraft.server.NetworkManager.d(NetworkManager.java:230)
+2011-05-01 14:19:58 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:90)
+2011-05-01 14:19:58 [INFO] asneakyfatcat lost connection: disconnect.endOfStream
+2011-05-01 14:19:58 [INFO] Connected players: CAPSLOCKNINJA
+2011-05-01 14:19:59 [INFO] [world]§f[02:19]§a§2I, CAPSLOCKNINJA, decree:§f bbl 
+2011-05-01 14:20:45 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-05-01 14:20:45 [INFO] Connection reset
+2011-05-01 14:20:47 [INFO] CAPSLOCKNINJA [/127.0.0.1:54622] logged in with entity id 111174
+2011-05-01 14:22:40 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-05-01 14:22:40 [INFO] Connection reset
+2011-05-01 14:27:46 [INFO] [CONSOLE] installing some plugins
+2011-05-01 14:27:48 [INFO] Stopping the server..
+2011-05-01 14:27:48 [INFO] CONSOLE: Stopping the server..
+2011-05-01 14:27:48 [INFO] Stopping server
+2011-05-01 14:27:48 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-05-01 14:27:48 [INFO] Stopping map renderer...
+2011-05-01 14:27:48 [INFO] Shutting down webserver...
+2011-05-01 14:27:48 [INFO] [iChat] iChat Disabled
+2011-05-01 14:27:48 [INFO] map WebServer.run() stops with IOException
+2011-05-01 14:27:48 [INFO] Webserver shut down.
+2011-05-01 14:27:49 [INFO] [iConomy] Plugin disabled.
+2011-05-01 14:27:49 [INFO] [WormholeXTreme]Detached from iConomy plugin.
+2011-05-01 14:27:49 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-05-01 14:27:49 [INFO] [Landmarks] Landmarks disabled.
+2011-05-01 14:27:49 [INFO] [MultiInv] Plugin disabled.
+2011-05-01 14:27:49 [INFO] [MultiVerse] - Disabled
+2011-05-01 14:27:49 [INFO] [Permissions] (Phoenix) saved all data.
+2011-05-01 14:27:49 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-05-01 14:27:49 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-05-01 14:27:49 [INFO] [iChat] Permissions plugin lost.
+2011-05-01 14:27:49 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-05-01 14:27:49 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-05-01 14:27:49 [INFO] WeatherGod disabled!
+2011-05-01 14:27:49 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-05-01 14:27:49 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-05-01 14:27:49 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-05-01 14:27:49 [INFO] Saving chunks
+2011-05-01 14:31:36 [INFO] Starting minecraft server version Beta 1.5_02
+2011-05-01 14:31:36 [INFO] Loading properties
+2011-05-01 14:31:36 [INFO] Starting Minecraft server on *:25565
+2011-05-01 14:31:36 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-05-01 14:31:36 [INFO] Preparing level "world"
+2011-05-01 14:31:36 [INFO] Preparing start region
+2011-05-01 14:31:37 [INFO] LWC	Loading shared objects
+2011-05-01 14:31:37 [INFO] LWC	Native library: plugins/LWC/lib/native/Windows/amd64/sqlitejdbc.dll
+2011-05-01 14:31:37 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-05-01 14:31:37 [INFO] [Command iConomy] Populating initial prices file
+2011-05-01 14:31:37 [INFO] [Command iConomy] Populating initial config file
+2011-05-01 14:31:37 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-05-01 14:31:39 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-05-01 14:31:39 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-05-01 14:31:39 [INFO] [Archers : 1.0] Made by [TechGuard, x1337x] Enabled!
+2011-05-01 14:31:39 [INFO] [Command iConomy] Loaded.
+2011-05-01 14:31:39 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-05-01 14:31:39 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-05-01 14:31:39 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-05-01 14:31:39 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-05-01 14:31:39 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-05-01 14:31:39 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-05-01 14:31:39 [INFO] Activated world 'world' in Dynmap.
+2011-05-01 14:31:39 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-05-01 14:31:39 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-05-01 14:31:39 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-05-01 14:31:39 [INFO] Dynmap WebServer started on null:80
+2011-05-01 14:31:39 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-05-01 14:31:39 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-05-01 14:31:39 [INFO] iChat (v2.2.3) enabled
+2011-05-01 14:31:39 [INFO] [iConomy] Logging is currently disabled.
+2011-05-01 14:31:39 [INFO] [iConomy] v4.65 (Kenzi) loaded.
+2011-05-01 14:31:39 [INFO] [iConomy] Developed by: [Nijikokun, Coelho]
+2011-05-01 14:31:39 [INFO] [iConomy] hooked into Permissions.
+2011-05-01 14:31:39 [INFO] [iConomyChestShop] version 2.54 initialized!
+2011-05-01 14:31:39 [INFO] [iConomyChestShop] iConomy version 4.65 loaded.
+2011-05-01 14:31:39 [INFO] [iConomyChestShop] Permissions version 2.7.2 loaded.
+2011-05-01 14:31:39 [INFO] [iConomyChestShop] LWC version 2.31 loaded.
+2011-05-01 14:31:39 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-05-01 14:31:39 [INFO] [Landmarks] Successfully loaded 1 markers.
+2011-05-01 14:31:39 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-05-01 14:31:39 [INFO] LoginMessage 0.6_3 enabled
+2011-05-01 14:31:39 [INFO] LWC	Loaded 116 locale strings (0 overrides)
+2011-05-01 14:31:39 [INFO] Updater	Need to download 2 file(s)
+2011-05-01 14:31:39 [INFO] Updater	 - Downloading file: sqlite.jar
+2011-05-01 14:31:43 [INFO] Updater	  + Download complete
+2011-05-01 14:31:43 [INFO] Updater	 - Downloading file: sqlitejdbc.dll
+2011-05-01 14:31:45 [INFO] Updater	  + Download complete
+2011-05-01 14:31:45 [INFO] LWC	Using Nijikokun's permissions plugin for permissions
+2011-05-01 14:31:45 [INFO] LWC	Loading SQLite
+2011-05-01 14:31:45 [INFO] SQLite	Using: Native
+2011-05-01 14:31:45 [INFO] LWC	At version: v2.31
+2011-05-01 14:31:45 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-05-01 14:31:45 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-05-01 14:31:45 [INFO] [MultiVerse] Permissions Found
+2011-05-01 14:31:45 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-05-01 14:31:45 [INFO] [MultiVerse] Found iConomy, enabling payments.
+2011-05-01 14:31:45 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-05-01 14:31:45 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-05-01 14:31:45 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-05-01 14:31:45 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-05-01 14:31:45 [INFO] [MultiVerse] Loading Portals
+2011-05-01 14:31:45 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-05-01 14:31:45 [INFO] [MYHOME]: 3 homes loaded
+2011-05-01 14:31:45 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-05-01 14:31:45 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-05-01 14:31:45 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-05-01 14:31:45 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-05-01 14:31:45 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-05-01 14:31:45 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-05-01 14:31:45 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-05-01 14:31:45 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-05-01 14:31:45 [INFO] [WeatherGod] Permission system detected.
+2011-05-01 14:31:45 [INFO] WeatherGod version 0.22 is enabled!
+2011-05-01 14:31:45 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-05-01 14:31:45 [INFO] WorldEdit 4.4 enabled.
+2011-05-01 14:31:45 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-05-01 14:31:45 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-05-01 14:31:45 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-05-01 14:31:45 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-05-01 14:31:45 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-05-01 14:31:45 [INFO] [WormholeXTreme]Attached to iConomy version 4.65
+2011-05-01 14:31:45 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-05-01 14:31:45 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-05-01 14:31:45 [INFO] Done (0.967s)! For help, type "help" or "?"
+2011-05-01 14:31:47 [INFO] Stopping the server..
+2011-05-01 14:31:47 [INFO] CONSOLE: Stopping the server..
+2011-05-01 14:31:47 [INFO] Stopping server
+2011-05-01 14:31:47 [INFO] [Archers : 1.0] Disabled!
+2011-05-01 14:31:47 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-05-01 14:31:47 [INFO] Stopping map renderer...
+2011-05-01 14:31:47 [INFO] Shutting down webserver...
+2011-05-01 14:31:47 [INFO] [iChat] iChat Disabled
+2011-05-01 14:31:47 [INFO] map WebServer.run() stops with IOException
+2011-05-01 14:31:47 [INFO] Webserver shut down.
+2011-05-01 14:31:47 [INFO] [iConomy] Plugin disabled.
+2011-05-01 14:31:47 [INFO] [WormholeXTreme]Detached from iConomy plugin.
+2011-05-01 14:31:47 [INFO] [iConomyChestShop] version 2.54 distabled!
+2011-05-01 14:31:47 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-05-01 14:31:47 [INFO] [Landmarks] Landmarks disabled.
+2011-05-01 14:31:47 [INFO] LWC	Freeing SQLite
+2011-05-01 14:31:47 [INFO] [MultiInv] Plugin disabled.
+2011-05-01 14:31:47 [INFO] [MultiVerse] - Disabled
+2011-05-01 14:31:47 [INFO] [Permissions] (Phoenix) saved all data.
+2011-05-01 14:31:47 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-05-01 14:31:47 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-05-01 14:31:47 [INFO] [iChat] Permissions plugin lost.
+2011-05-01 14:31:47 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-05-01 14:31:47 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-05-01 14:31:47 [INFO] WeatherGod disabled!
+2011-05-01 14:31:47 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-05-01 14:31:47 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-05-01 14:31:47 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-05-01 14:31:47 [INFO] Saving chunks
+2011-05-01 14:44:46 [INFO] Starting minecraft server version Beta 1.5_02
+2011-05-01 14:44:46 [INFO] Loading properties
+2011-05-01 14:44:46 [INFO] Starting Minecraft server on *:25565
+2011-05-01 14:44:46 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-05-01 14:44:46 [INFO] Preparing level "world"
+2011-05-01 14:44:46 [INFO] Preparing start region
+2011-05-01 14:44:47 [INFO] LWC	Loading shared objects
+2011-05-01 14:44:47 [INFO] LWC	Native library: plugins/LWC/lib/native/Windows/amd64/sqlitejdbc.dll
+2011-05-01 14:44:47 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-05-01 14:44:47 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-05-01 14:44:49 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-05-01 14:44:49 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-05-01 14:44:49 [INFO] [Archers : 1.0] Made by [TechGuard, x1337x] Enabled!
+2011-05-01 14:44:49 [INFO] [Command iConomy] Loaded.
+2011-05-01 14:44:49 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-05-01 14:44:49 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-05-01 14:44:49 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-05-01 14:44:49 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-05-01 14:44:49 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-05-01 14:44:49 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-05-01 14:44:49 [INFO] Activated world 'world' in Dynmap.
+2011-05-01 14:44:49 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-05-01 14:44:49 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-05-01 14:44:49 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-05-01 14:44:49 [INFO] Dynmap WebServer started on null:80
+2011-05-01 14:44:50 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-05-01 14:44:50 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-05-01 14:44:50 [INFO] iChat (v2.2.3) enabled
+2011-05-01 14:44:50 [INFO] [iConomy] Logging is currently disabled.
+2011-05-01 14:44:50 [INFO] [iConomy] v4.65 (Kenzi) loaded.
+2011-05-01 14:44:50 [INFO] [iConomy] Developed by: [Nijikokun, Coelho]
+2011-05-01 14:44:50 [INFO] [iConomy] hooked into Permissions.
+2011-05-01 14:44:50 [INFO] [iConomyChestShop] version 2.54 initialized!
+2011-05-01 14:44:50 [INFO] [iConomyChestShop] iConomy version 4.65 loaded.
+2011-05-01 14:44:50 [INFO] [iConomyChestShop] Permissions version 2.7.2 loaded.
+2011-05-01 14:44:50 [INFO] [iConomyChestShop] LWC version 2.31 loaded.
+2011-05-01 14:44:50 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-05-01 14:44:50 [INFO] [Landmarks] Successfully loaded 1 markers.
+2011-05-01 14:44:50 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-05-01 14:44:50 [INFO] LoginMessage 0.6_3 enabled
+2011-05-01 14:44:50 [INFO] LWC	Loaded 116 locale strings (0 overrides)
+2011-05-01 14:44:50 [INFO] LWC	Using Nijikokun's permissions plugin for permissions
+2011-05-01 14:44:50 [INFO] LWC	Loading SQLite
+2011-05-01 14:44:50 [INFO] SQLite	Using: Native
+2011-05-01 14:44:50 [INFO] LWC	At version: v2.31
+2011-05-01 14:44:50 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-05-01 14:44:50 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-05-01 14:44:50 [INFO] [MultiVerse] Permissions Found
+2011-05-01 14:44:50 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-05-01 14:44:50 [INFO] [MultiVerse] Found iConomy, enabling payments.
+2011-05-01 14:44:50 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-05-01 14:44:50 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-05-01 14:44:50 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-05-01 14:44:50 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-05-01 14:44:50 [INFO] [MultiVerse] Loading Portals
+2011-05-01 14:44:50 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-05-01 14:44:50 [INFO] [MYHOME]: 3 homes loaded
+2011-05-01 14:44:50 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-05-01 14:44:50 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-05-01 14:44:50 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-05-01 14:44:50 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-05-01 14:44:50 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-05-01 14:44:50 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-05-01 14:44:51 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-05-01 14:44:51 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-05-01 14:44:51 [INFO] [WeatherGod] Permission system detected.
+2011-05-01 14:44:51 [INFO] WeatherGod version 0.22 is enabled!
+2011-05-01 14:44:51 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-05-01 14:44:51 [INFO] WorldEdit 4.4 enabled.
+2011-05-01 14:44:51 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-05-01 14:44:51 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-05-01 14:44:51 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-05-01 14:44:51 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-05-01 14:44:51 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-05-01 14:44:51 [INFO] [WormholeXTreme]Attached to iConomy version 4.65
+2011-05-01 14:44:51 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-05-01 14:44:51 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-05-01 14:44:51 [INFO] Done (0.476s)! For help, type "help" or "?"
+2011-05-01 14:45:54 [INFO] CAPSLOCKNINJA [/127.0.0.1:55227] logged in with entity id 322
+2011-05-01 14:47:53 [INFO] Stopping the server..
+2011-05-01 14:47:53 [INFO] CONSOLE: Stopping the server..
+2011-05-01 14:47:53 [INFO] Stopping server
+2011-05-01 14:47:53 [INFO] [Archers : 1.0] Disabled!
+2011-05-01 14:47:53 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-05-01 14:47:53 [INFO] Stopping map renderer...
+2011-05-01 14:47:53 [INFO] Shutting down webserver...
+2011-05-01 14:47:53 [INFO] [iChat] iChat Disabled
+2011-05-01 14:47:53 [INFO] map WebServer.run() stops with IOException
+2011-05-01 14:47:53 [INFO] Webserver shut down.
+2011-05-01 14:47:53 [INFO] [iConomy] Plugin disabled.
+2011-05-01 14:47:53 [INFO] [WormholeXTreme]Detached from iConomy plugin.
+2011-05-01 14:47:53 [INFO] [iConomyChestShop] version 2.54 distabled!
+2011-05-01 14:47:53 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-05-01 14:47:53 [INFO] [Landmarks] Landmarks disabled.
+2011-05-01 14:47:53 [INFO] LWC	Freeing SQLite
+2011-05-01 14:47:53 [INFO] [MultiInv] Plugin disabled.
+2011-05-01 14:47:53 [INFO] [MultiVerse] - Disabled
+2011-05-01 14:47:53 [INFO] [Permissions] (Phoenix) saved all data.
+2011-05-01 14:47:53 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-05-01 14:47:53 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-05-01 14:47:53 [INFO] [iChat] Permissions plugin lost.
+2011-05-01 14:47:53 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-05-01 14:47:53 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-05-01 14:47:53 [INFO] WeatherGod disabled!
+2011-05-01 14:47:53 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-05-01 14:47:53 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-05-01 14:47:53 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-05-01 14:47:53 [INFO] Saving chunks
+2011-05-01 14:48:31 [INFO] Starting minecraft server version Beta 1.5_02
+2011-05-01 14:48:31 [INFO] Loading properties
+2011-05-01 14:48:31 [INFO] Starting Minecraft server on *:25565
+2011-05-01 14:48:31 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-05-01 14:48:31 [INFO] Preparing level "world"
+2011-05-01 14:48:31 [INFO] Preparing start region
+2011-05-01 14:48:32 [INFO] LWC	Loading shared objects
+2011-05-01 14:48:32 [INFO] LWC	Native library: plugins/LWC/lib/native/Windows/amd64/sqlitejdbc.dll
+2011-05-01 14:48:32 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-05-01 14:48:33 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-05-01 14:48:34 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-05-01 14:48:34 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-05-01 14:48:34 [INFO] [Archers : 1.0] Made by [TechGuard, x1337x] Enabled!
+2011-05-01 14:48:34 [INFO] [Command iConomy] Loaded.
+2011-05-01 14:48:34 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-05-01 14:48:34 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-05-01 14:48:34 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-05-01 14:48:35 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-05-01 14:48:35 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-05-01 14:48:35 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-05-01 14:48:35 [INFO] Activated world 'world' in Dynmap.
+2011-05-01 14:48:35 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-05-01 14:48:35 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-05-01 14:48:35 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-05-01 14:48:35 [INFO] Dynmap WebServer started on null:80
+2011-05-01 14:48:35 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-05-01 14:48:35 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-05-01 14:48:35 [INFO] iChat (v2.2.3) enabled
+2011-05-01 14:48:35 [INFO] [iConomy] Logging is currently disabled.
+2011-05-01 14:48:35 [INFO] [iConomy] v4.65 (Kenzi) loaded.
+2011-05-01 14:48:35 [INFO] [iConomy] Developed by: [Nijikokun, Coelho]
+2011-05-01 14:48:35 [INFO] [iConomy] hooked into Permissions.
+2011-05-01 14:48:35 [INFO] [iConomyChestShop] version 2.54 initialized!
+2011-05-01 14:48:35 [INFO] [iConomyChestShop] iConomy version 4.65 loaded.
+2011-05-01 14:48:35 [INFO] [iConomyChestShop] Permissions version 2.7.2 loaded.
+2011-05-01 14:48:35 [INFO] [iConomyChestShop] LWC version 2.31 loaded.
+2011-05-01 14:48:35 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-05-01 14:48:35 [INFO] [Landmarks] Successfully loaded 1 markers.
+2011-05-01 14:48:35 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-05-01 14:48:35 [INFO] LoginMessage 0.6_3 enabled
+2011-05-01 14:48:35 [INFO] LWC	Loaded 116 locale strings (0 overrides)
+2011-05-01 14:48:35 [INFO] LWC	Using Nijikokun's permissions plugin for permissions
+2011-05-01 14:48:35 [INFO] LWC	Loading SQLite
+2011-05-01 14:48:35 [INFO] SQLite	Using: Native
+2011-05-01 14:48:35 [INFO] LWC	At version: v2.31
+2011-05-01 14:48:35 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-05-01 14:48:35 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-05-01 14:48:35 [INFO] [MultiVerse] Permissions Found
+2011-05-01 14:48:35 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-05-01 14:48:36 [INFO] [MultiVerse] Found iConomy, enabling payments.
+2011-05-01 14:48:36 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-05-01 14:48:36 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-05-01 14:48:36 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-05-01 14:48:36 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-05-01 14:48:36 [INFO] [MultiVerse] Loading Portals
+2011-05-01 14:48:36 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-05-01 14:48:36 [INFO] [MYHOME]: 3 homes loaded
+2011-05-01 14:48:36 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-05-01 14:48:36 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-05-01 14:48:36 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-05-01 14:48:36 [INFO] [NeoMeteorites] version 0.1 is enabled
+2011-05-01 14:48:36 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-05-01 14:48:36 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-05-01 14:48:36 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-05-01 14:48:36 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-05-01 14:48:36 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-05-01 14:48:36 [INFO] [WeatherGod] Permission system detected.
+2011-05-01 14:48:36 [INFO] WeatherGod version 0.22 is enabled!
+2011-05-01 14:48:36 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-05-01 14:48:36 [INFO] WorldEdit 4.4 enabled.
+2011-05-01 14:48:36 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-05-01 14:48:36 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-05-01 14:48:36 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-05-01 14:48:36 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-05-01 14:48:36 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-05-01 14:48:36 [INFO] [WormholeXTreme]Attached to iConomy version 4.65
+2011-05-01 14:48:36 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-05-01 14:48:36 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-05-01 14:48:36 [INFO] Done (0.441s)! For help, type "help" or "?"
+2011-05-01 14:49:27 [INFO] CAPSLOCKNINJA [/127.0.0.1:55297] logged in with entity id 287
+2011-05-01 14:52:53 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Diamond Block' in your inventory.
+2011-05-01 14:53:47 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Diamond' in your inventory.
+2011-05-01 14:54:41 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Slimeball' in your inventory.
+2011-05-01 15:03:18 [INFO] CAPSLOCKNINJA issued server command: waether set storm
+2011-05-01 15:10:13 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Wooden Door' in your inventory.
+2011-05-01 15:12:24 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Dirt' in your inventory.
+2011-05-01 15:13:19 [INFO] CraftPlayer: Set time to 0
+2011-05-01 15:18:00 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Sign' in your inventory.
+2011-05-01 15:19:08 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Diamond Axe' in your inventory.
+2011-05-01 15:25:11 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Stick' in your inventory.
+2011-05-01 15:25:19 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Stick' in your inventory.
+2011-05-01 15:28:08 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Wooden Pressure Plate' in your inventory.
+2011-05-01 15:30:50 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Diamond Block' in your inventory.
+2011-05-01 15:31:59 [INFO] CAPSLOCKNINJA issued server command: top
+2011-05-01 15:32:01 [INFO] CraftPlayer: Stopping the server..
+2011-05-01 15:32:01 [INFO] Stopping server
+2011-05-01 15:32:01 [INFO] [Archers : 1.0] Disabled!
+2011-05-01 15:32:01 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-05-01 15:32:01 [INFO] Stopping map renderer...
+2011-05-01 15:32:01 [INFO] Shutting down webserver...
+2011-05-01 15:32:01 [INFO] [iChat] iChat Disabled
+2011-05-01 15:32:01 [INFO] map WebServer.run() stops with IOException
+2011-05-01 15:32:01 [INFO] Webserver shut down.
+2011-05-01 15:32:02 [INFO] [iConomy] Plugin disabled.
+2011-05-01 15:32:02 [INFO] [WormholeXTreme]Detached from iConomy plugin.
+2011-05-01 15:32:02 [INFO] [iConomyChestShop] version 2.54 distabled!
+2011-05-01 15:32:02 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-05-01 15:32:02 [INFO] [Landmarks] Landmarks disabled.
+2011-05-01 15:32:02 [INFO] LWC	Freeing SQLite
+2011-05-01 15:32:02 [INFO] [MultiInv] Plugin disabled.
+2011-05-01 15:32:02 [INFO] [MultiVerse] - Disabled
+2011-05-01 15:32:02 [INFO] [Permissions] (Phoenix) saved all data.
+2011-05-01 15:32:02 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-05-01 15:32:02 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-05-01 15:32:02 [INFO] [iChat] Permissions plugin lost.
+2011-05-01 15:32:02 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-05-01 15:32:02 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-05-01 15:32:02 [INFO] WeatherGod disabled!
+2011-05-01 15:32:02 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-05-01 15:32:02 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-05-01 15:32:02 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-05-01 15:32:02 [INFO] Saving chunks
+2011-05-01 15:32:04 [INFO] Stopping server
+2011-05-01 15:32:04 [INFO] Saving chunks
+2011-05-01 15:32:08 [INFO] Starting minecraft server version Beta 1.5_02
+2011-05-01 15:32:08 [INFO] Loading properties
+2011-05-01 15:32:08 [INFO] Starting Minecraft server on *:25565
+2011-05-01 15:32:08 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-05-01 15:32:08 [INFO] Preparing level "world"
+2011-05-01 15:32:08 [INFO] Preparing start region
+2011-05-01 15:32:09 [INFO] LWC	Loading shared objects
+2011-05-01 15:32:09 [INFO] LWC	Native library: plugins/LWC/lib/native/Windows/amd64/sqlitejdbc.dll
+2011-05-01 15:32:09 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-05-01 15:32:09 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-05-01 15:32:11 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-05-01 15:32:11 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-05-01 15:32:11 [INFO] [Archers : 1.0] Made by [TechGuard, x1337x] Enabled!
+2011-05-01 15:32:11 [INFO] [Command iConomy] Loaded.
+2011-05-01 15:32:11 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-05-01 15:32:11 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-05-01 15:32:11 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-05-01 15:32:11 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-05-01 15:32:11 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-05-01 15:32:11 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-05-01 15:32:11 [INFO] Activated world 'world' in Dynmap.
+2011-05-01 15:32:11 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-05-01 15:32:11 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-05-01 15:32:11 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-05-01 15:32:11 [INFO] Dynmap WebServer started on null:80
+2011-05-01 15:32:11 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-05-01 15:32:11 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-05-01 15:32:11 [INFO] iChat (v2.2.3) enabled
+2011-05-01 15:32:11 [INFO] [iConomy] Logging is currently disabled.
+2011-05-01 15:32:12 [INFO] [iConomy] v4.65 (Kenzi) loaded.
+2011-05-01 15:32:12 [INFO] [iConomy] Developed by: [Nijikokun, Coelho]
+2011-05-01 15:32:12 [INFO] [iConomy] hooked into Permissions.
+2011-05-01 15:32:12 [INFO] [iConomyChestShop] version 2.54 initialized!
+2011-05-01 15:32:12 [INFO] [iConomyChestShop] iConomy version 4.65 loaded.
+2011-05-01 15:32:12 [INFO] [iConomyChestShop] Permissions version 2.7.2 loaded.
+2011-05-01 15:32:12 [INFO] [iConomyChestShop] LWC version 2.31 loaded.
+2011-05-01 15:32:12 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-05-01 15:32:12 [INFO] [Landmarks] Successfully loaded 1 markers.
+2011-05-01 15:32:12 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-05-01 15:32:12 [INFO] LoginMessage 0.6_3 enabled
+2011-05-01 15:32:12 [INFO] LWC	Loaded 116 locale strings (0 overrides)
+2011-05-01 15:32:12 [INFO] LWC	Using Nijikokun's permissions plugin for permissions
+2011-05-01 15:32:12 [INFO] LWC	Loading SQLite
+2011-05-01 15:32:12 [INFO] SQLite	Using: Native
+2011-05-01 15:32:12 [INFO] LWC	At version: v2.31
+2011-05-01 15:32:12 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-05-01 15:32:12 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-05-01 15:32:12 [INFO] [MultiVerse] Permissions Found
+2011-05-01 15:32:12 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-05-01 15:32:12 [INFO] [MultiVerse] Found iConomy, enabling payments.
+2011-05-01 15:32:12 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-05-01 15:32:12 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-05-01 15:32:12 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-05-01 15:32:12 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-05-01 15:32:12 [INFO] [MultiVerse] Loading Portals
+2011-05-01 15:32:12 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-05-01 15:32:12 [INFO] [MYHOME]: 3 homes loaded
+2011-05-01 15:32:12 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-05-01 15:32:12 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-05-01 15:32:12 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-05-01 15:32:12 [INFO] [NeoMeteorites] version 0.1 is enabled
+2011-05-01 15:32:12 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-05-01 15:32:12 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-05-01 15:32:12 [INFO] [PreciousStones] loaded 0 forcefield blocks
+2011-05-01 15:32:12 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-05-01 15:32:12 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-05-01 15:32:12 [INFO] [WeatherGod] Permission system detected.
+2011-05-01 15:32:12 [INFO] WeatherGod version 0.22 is enabled!
+2011-05-01 15:32:12 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-05-01 15:32:12 [INFO] WorldEdit 4.4 enabled.
+2011-05-01 15:32:12 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-05-01 15:32:12 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-05-01 15:32:12 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-05-01 15:32:12 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-05-01 15:32:12 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-05-01 15:32:12 [INFO] [WormholeXTreme]Attached to iConomy version 4.65
+2011-05-01 15:32:12 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-05-01 15:32:12 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-05-01 15:32:12 [INFO] Done (0.415s)! For help, type "help" or "?"
+2011-05-01 15:32:15 [INFO] CAPSLOCKNINJA [/127.0.0.1:55547] logged in with entity id 272
+2011-05-01 15:37:12 [INFO] [PreciousStones] saving forcefields.txt
+2011-05-01 15:37:44 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Flint and Steel' in your inventory.
+2011-05-01 15:38:06 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Red Wool' in your inventory.
+2011-05-01 15:38:52 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Sign' in your inventory.
+2011-05-01 15:39:23 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Sign' in your inventory.
+2011-05-01 15:39:53 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-05-01 15:39:53 [INFO] Connection reset
+2011-05-01 15:39:54 [INFO] dankleton [/69.14.216.140:60764] logged in with entity id 9438
+2011-05-01 15:39:54 [SEVERE] Could not pass event PLAYER_JOIN to LoginMessage
+java.lang.NullPointerException
+	at com.tahkeh.loginmessage.LoginMessage.process(LoginMessage.java:191)
+	at com.tahkeh.loginmessage.LoginMessage.sendMultiMessage(LoginMessage.java:279)
+	at com.tahkeh.loginmessage.LoginMessagePlayerListener.onPlayerJoin(LoginMessagePlayerListener.java:71)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:206)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.ServerConfigurationManager.a(ServerConfigurationManager.java:94)
+	at net.minecraft.server.NetLoginHandler.b(NetLoginHandler.java:95)
+	at net.minecraft.server.NetLoginHandler.a(NetLoginHandler.java:33)
+	at net.minecraft.server.NetworkListenThread.a(SourceFile:87)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:370)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 15:40:06 [INFO] [world]§f[03:40]§adankleton, the redstoner:§f hello? 
+2011-05-01 15:49:41 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+	at nl.robinvandervliet.DeathMessagePlugin.DeathMessagePluginEntityListener.onEntityDeath(DeathMessagePluginEntityListener.java:427)
+	at org.bukkit.plugin.java.JavaPluginLoader$45.execute(JavaPluginLoader.java:480)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityPlayer.a(EntityPlayer.java:121)
+	at net.minecraft.server.EntityLiving.damageEntity(EntityLiving.java:393)
+	at net.minecraft.server.EntityHuman.damageEntity(EntityHuman.java:423)
+	at net.minecraft.server.EntityPlayer.damageEntity(EntityPlayer.java:149)
+	at net.minecraft.server.EntityLiving.a(EntityLiving.java:495)
+	at net.minecraft.server.EntityHuman.a(EntityHuman.java:824)
+	at net.minecraft.server.Entity.a(Entity.java:621)
+	at net.minecraft.server.EntityPlayer.b(EntityPlayer.java:271)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:336)
+	at net.minecraft.server.Packet10Flying.a(SourceFile:126)
+	at net.minecraft.server.NetworkManager.a(NetworkManager.java:195)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:74)
+	at net.minecraft.server.NetworkListenThread.a(SourceFile:100)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:370)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 15:57:48 [INFO] williamhuds [/174.252.230.139:4898] logged in with entity id 19310
+2011-05-01 15:57:48 [SEVERE] Could not pass event PLAYER_JOIN to LoginMessage
+java.lang.NullPointerException
+	at com.tahkeh.loginmessage.LoginMessage.process(LoginMessage.java:191)
+	at com.tahkeh.loginmessage.LoginMessage.sendMultiMessage(LoginMessage.java:279)
+	at com.tahkeh.loginmessage.LoginMessagePlayerListener.onPlayerJoin(LoginMessagePlayerListener.java:71)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:206)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.ServerConfigurationManager.a(ServerConfigurationManager.java:94)
+	at net.minecraft.server.NetLoginHandler.b(NetLoginHandler.java:95)
+	at net.minecraft.server.NetLoginHandler.a(NetLoginHandler.java:33)
+	at net.minecraft.server.NetworkListenThread.a(SourceFile:87)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:370)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 15:58:18 [SEVERE] java.io.IOException: Bad packet id 71
+2011-05-01 15:58:18 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:78)
+2011-05-01 15:58:18 [SEVERE] 	at net.minecraft.server.NetworkManager.f(NetworkManager.java:127)
+2011-05-01 15:58:18 [SEVERE] 	at net.minecraft.server.NetworkManager.c(NetworkManager.java:226)
+2011-05-01 15:58:18 [SEVERE] 	at net.minecraft.server.NetworkReaderThread.run(SourceFile:69)
+2011-05-01 15:58:18 [INFO] /174.252.230.139:4896 lost connection
+2011-05-01 15:58:25 [SEVERE] java.io.IOException: Bad packet id 71
+2011-05-01 15:58:25 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:78)
+2011-05-01 15:58:25 [SEVERE] 	at net.minecraft.server.NetworkManager.f(NetworkManager.java:127)
+2011-05-01 15:58:25 [SEVERE] 	at net.minecraft.server.NetworkManager.c(NetworkManager.java:226)
+2011-05-01 15:58:25 [SEVERE] 	at net.minecraft.server.NetworkReaderThread.run(SourceFile:69)
+2011-05-01 15:58:25 [INFO] /174.252.230.139:21935 lost connection
+2011-05-01 15:58:37 [INFO] williamhuds tried command: players
+2011-05-01 15:58:42 [INFO] williamhuds tried command: player
+2011-05-01 15:58:44 [INFO] [world]§f[03:58]§aHello, it iswilliamhuds, the hawk.:§f hello? 
+2011-05-01 15:58:50 [INFO] [world]§f[03:58]§adankleton, the redstoner:§f hey 
+2011-05-01 15:59:23 [INFO] Connection reset
+2011-05-01 15:59:23 [SEVERE] java.net.SocketException: Connection reset by peer: socket write error
+2011-05-01 15:59:23 [SEVERE] 	at java.net.SocketOutputStream.socketWrite0(Native Method)
+2011-05-01 15:59:23 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+2011-05-01 15:59:23 [SEVERE] 	at java.net.SocketOutputStream.write(Unknown Source)
+2011-05-01 15:59:23 [SEVERE] 	at java.io.DataOutputStream.writeByte(Unknown Source)
+2011-05-01 15:59:23 [SEVERE] 	at net.minecraft.server.Packet31RelEntityMove.a(SourceFile:64)
+2011-05-01 15:59:23 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:121)
+2011-05-01 15:59:23 [SEVERE] 	at net.minecraft.server.NetworkManager.e(NetworkManager.java:96)
+2011-05-01 15:59:23 [SEVERE] 	at net.minecraft.server.NetworkManager.d(NetworkManager.java:230)
+2011-05-01 15:59:23 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:90)
+2011-05-01 15:59:23 [INFO] williamhuds lost connection: disconnect.endOfStream
+2011-05-01 15:59:23 [INFO] Connected players: dankleton
+2011-05-01 15:59:23 [INFO] Connected players: dankleton
+2011-05-01 16:01:31 [INFO] Bennythebull [/99.39.138.15:1846] logged in with entity id 22703
+2011-05-01 16:01:31 [SEVERE] Could not pass event PLAYER_JOIN to LoginMessage
+java.lang.NullPointerException
+	at com.tahkeh.loginmessage.LoginMessage.process(LoginMessage.java:191)
+	at com.tahkeh.loginmessage.LoginMessage.sendMultiMessage(LoginMessage.java:279)
+	at com.tahkeh.loginmessage.LoginMessagePlayerListener.onPlayerJoin(LoginMessagePlayerListener.java:71)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:206)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.ServerConfigurationManager.a(ServerConfigurationManager.java:94)
+	at net.minecraft.server.NetLoginHandler.b(NetLoginHandler.java:95)
+	at net.minecraft.server.NetLoginHandler.a(NetLoginHandler.java:33)
+	at net.minecraft.server.NetworkListenThread.a(SourceFile:87)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:370)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 16:01:43 [INFO] [world]§f[04:01]§adankleton, the redstoner:§f hello 
+2011-05-01 16:01:48 [INFO] [world]§f[04:01]§aBennythebull:§f Hey what's up 
+2011-05-01 16:01:52 [INFO] [world]§f[04:01]§adankleton, the redstoner:§f who is this 
+2011-05-01 16:01:57 [INFO] [world]§f[04:01]§aBennythebull:§f Ben 
+2011-05-01 16:02:01 [INFO] [world]§f[04:02]§aBennythebull:§f Ervin 
+2011-05-01 16:02:08 [INFO] [world]§f[04:02]§adankleton, the redstoner:§f ok 
+2011-05-01 16:02:53 [INFO] Bennythebull lost connection: disconnect.quitting
+2011-05-01 16:02:53 [INFO] Connection reset
+2011-05-01 16:11:25 [INFO] Connection reset
+2011-05-01 16:11:25 [INFO] dankleton lost connection: disconnect.quitting
+2011-05-01 16:11:25 [INFO] Connected players: 
+2011-05-01 16:12:26 [INFO] Ti22_simos [/66.51.146.3:10865] logged in with entity id 29478
+2011-05-01 16:12:26 [SEVERE] Could not pass event PLAYER_JOIN to LoginMessage
+java.lang.NullPointerException
+	at com.tahkeh.loginmessage.LoginMessage.process(LoginMessage.java:191)
+	at com.tahkeh.loginmessage.LoginMessage.sendMultiMessage(LoginMessage.java:279)
+	at com.tahkeh.loginmessage.LoginMessagePlayerListener.onPlayerJoin(LoginMessagePlayerListener.java:71)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:206)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.ServerConfigurationManager.a(ServerConfigurationManager.java:94)
+	at net.minecraft.server.NetLoginHandler.b(NetLoginHandler.java:95)
+	at net.minecraft.server.NetLoginHandler.a(NetLoginHandler.java:33)
+	at net.minecraft.server.NetworkListenThread.a(SourceFile:87)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:370)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 16:13:53 [INFO] [world]§f[04:13]§aTi22_simos:§f ROB!! 
+2011-05-01 16:21:05 [SEVERE] Could not pass event PLAYER_COMMAND_PREPROCESS to Command iConomy
+java.lang.StringIndexOutOfBoundsException: String index out of range: 10
+	at java.lang.String.charAt(Unknown Source)
+	at java.util.regex.Matcher.appendReplacement(Unknown Source)
+	at java.util.regex.Matcher.replaceAll(Unknown Source)
+	at java.lang.String.replaceAll(Unknown Source)
+	at com.ryanmichela.cmdiconomy.CIListener.chargePlayerForCommand(CIListener.java:114)
+	at com.ryanmichela.cmdiconomy.CIListener.onPlayerCommandPreprocess(CIListener.java:46)
+	at org.bukkit.plugin.java.JavaPluginLoader$5.execute(JavaPluginLoader.java:230)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.NetServerHandler.handleCommand(NetServerHandler.java:669)
+	at net.minecraft.server.NetServerHandler.chat(NetServerHandler.java:640)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:634)
+	at net.minecraft.server.Packet3Chat.a(Packet3Chat.java:32)
+	at net.minecraft.server.NetworkManager.a(NetworkManager.java:195)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:74)
+	at net.minecraft.server.NetworkListenThread.a(SourceFile:100)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:370)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 16:21:07 [INFO] Connection reset
+2011-05-01 16:21:07 [INFO] Ti22_simos lost connection: disconnect.quitting
+2011-05-01 16:21:08 [INFO] Connected players: 
+2011-05-01 16:25:31 [INFO] Forcing save..
+2011-05-01 16:25:31 [INFO] CONSOLE: Forcing save..
+2011-05-01 16:25:31 [INFO] Saving chunks
+2011-05-01 16:25:31 [INFO] Save complete.
+2011-05-01 16:25:31 [INFO] CONSOLE: Save complete.
+2011-05-01 16:25:31 [INFO] Stopping the server..
+2011-05-01 16:25:31 [INFO] CONSOLE: Stopping the server..
+2011-05-01 16:25:31 [INFO] Stopping server
+2011-05-01 16:25:31 [INFO] [Archers : 1.0] Disabled!
+2011-05-01 16:25:31 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-05-01 16:25:31 [INFO] Stopping map renderer...
+2011-05-01 16:25:31 [INFO] Shutting down webserver...
+2011-05-01 16:25:31 [INFO] [iChat] iChat Disabled
+2011-05-01 16:25:31 [INFO] map WebServer.run() stops with IOException
+2011-05-01 16:25:31 [INFO] Webserver shut down.
+2011-05-01 16:25:31 [INFO] [iConomy] Plugin disabled.
+2011-05-01 16:25:31 [INFO] [WormholeXTreme]Detached from iConomy plugin.
+2011-05-01 16:25:31 [INFO] [iConomyChestShop] version 2.54 distabled!
+2011-05-01 16:25:31 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-05-01 16:25:31 [INFO] [Landmarks] Landmarks disabled.
+2011-05-01 16:25:31 [INFO] LWC	Freeing SQLite
+2011-05-01 16:25:31 [INFO] [MultiInv] Plugin disabled.
+2011-05-01 16:25:31 [INFO] [MultiVerse] - Disabled
+2011-05-01 16:25:31 [INFO] [Permissions] (Phoenix) saved all data.
+2011-05-01 16:25:31 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-05-01 16:25:31 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-05-01 16:25:31 [INFO] [iChat] Permissions plugin lost.
+2011-05-01 16:25:31 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-05-01 16:25:31 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-05-01 16:25:31 [INFO] WeatherGod disabled!
+2011-05-01 16:25:31 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-05-01 16:25:32 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-05-01 16:25:32 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-05-01 16:25:32 [INFO] Saving chunks
+2011-05-01 16:25:32 [INFO] Stopping server
+2011-05-01 16:25:32 [INFO] Saving chunks
+2011-05-01 16:25:34 [INFO] Starting minecraft server version Beta 1.5_02
+2011-05-01 16:25:34 [INFO] Loading properties
+2011-05-01 16:25:34 [INFO] Starting Minecraft server on *:25565
+2011-05-01 16:25:34 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-05-01 16:25:34 [INFO] Preparing level "world"
+2011-05-01 16:25:34 [INFO] Preparing start region
+2011-05-01 16:25:35 [INFO] LWC	Loading shared objects
+2011-05-01 16:25:35 [INFO] LWC	Native library: plugins/LWC/lib/native/Windows/amd64/sqlitejdbc.dll
+2011-05-01 16:25:35 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-05-01 16:25:35 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-05-01 16:25:37 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-05-01 16:25:37 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-05-01 16:25:37 [INFO] [Archers : 1.0] Made by [TechGuard, x1337x] Enabled!
+2011-05-01 16:25:37 [INFO] [Command iConomy] Loaded.
+2011-05-01 16:25:37 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-05-01 16:25:37 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-05-01 16:25:37 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-05-01 16:25:37 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-05-01 16:25:37 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-05-01 16:25:37 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-05-01 16:25:37 [INFO] Activated world 'world' in Dynmap.
+2011-05-01 16:25:37 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-05-01 16:25:37 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-05-01 16:25:37 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-05-01 16:25:37 [INFO] Dynmap WebServer started on null:80
+2011-05-01 16:25:37 [INFO] [Factions v1.1.7] === INIT START ===
+2011-05-01 16:25:37 [INFO] [Factions v1.1.7] Loading conf from disk
+2011-05-01 16:25:37 [INFO] [Factions v1.1.7] No conf to load from disk. Creating new file.
+2011-05-01 16:25:37 [INFO] [Factions v1.1.7] Loading players from disk
+2011-05-01 16:25:37 [INFO] [Factions v1.1.7] No players to load from disk. Creating new file.
+2011-05-01 16:25:37 [INFO] [Factions v1.1.7] Loading factions from disk
+2011-05-01 16:25:37 [INFO] [Factions v1.1.7] No factions to load from disk. Creating new file.
+2011-05-01 16:25:37 [INFO] [Factions v1.1.7] Loading board from disk
+2011-05-01 16:25:37 [INFO] [Factions v1.1.7] No board to load from disk. Creating new file.
+2011-05-01 16:25:37 [INFO] [Factions v1.1.7] Found and will use plugin Permissions v2.7.2
+2011-05-01 16:25:37 [INFO] [Factions v1.1.7] === INIT DONE (Took 75ms) ===
+2011-05-01 16:25:37 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-05-01 16:25:37 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-05-01 16:25:37 [INFO] iChat (v2.2.3) enabled
+2011-05-01 16:25:37 [INFO] [iConomy] Logging is currently disabled.
+2011-05-01 16:25:37 [INFO] [iConomy] v4.65 (Kenzi) loaded.
+2011-05-01 16:25:37 [INFO] [iConomy] Developed by: [Nijikokun, Coelho]
+2011-05-01 16:25:37 [INFO] [iConomy] hooked into Permissions.
+2011-05-01 16:25:37 [INFO] [iConomyChestShop] version 2.54 initialized!
+2011-05-01 16:25:37 [INFO] [iConomyChestShop] iConomy version 4.65 loaded.
+2011-05-01 16:25:37 [INFO] [iConomyChestShop] Permissions version 2.7.2 loaded.
+2011-05-01 16:25:37 [INFO] [iConomyChestShop] LWC version 2.31 loaded.
+2011-05-01 16:25:37 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-05-01 16:25:37 [INFO] [Landmarks] Successfully loaded 1 markers.
+2011-05-01 16:25:37 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-05-01 16:25:37 [INFO] LoginMessage 0.6_3 enabled
+2011-05-01 16:25:38 [INFO] LWC	Loaded 116 locale strings (0 overrides)
+2011-05-01 16:25:38 [INFO] LWC	Using Nijikokun's permissions plugin for permissions
+2011-05-01 16:25:38 [INFO] LWC	Loading SQLite
+2011-05-01 16:25:38 [INFO] SQLite	Using: Native
+2011-05-01 16:25:38 [INFO] LWC	At version: v2.31
+2011-05-01 16:25:38 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-05-01 16:25:38 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-05-01 16:25:38 [INFO] [MultiVerse] Permissions Found
+2011-05-01 16:25:38 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-05-01 16:25:38 [INFO] [MultiVerse] Found iConomy, enabling payments.
+2011-05-01 16:25:38 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-05-01 16:25:38 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-05-01 16:25:38 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-05-01 16:25:38 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-05-01 16:25:38 [INFO] [MultiVerse] Loading Portals
+2011-05-01 16:25:38 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-05-01 16:25:38 [INFO] [MYHOME]: 3 homes loaded
+2011-05-01 16:25:38 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-05-01 16:25:38 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-05-01 16:25:38 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-05-01 16:25:38 [INFO] [NeoMeteorites] version 0.1 is enabled
+2011-05-01 16:25:38 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-05-01 16:25:38 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-05-01 16:25:38 [INFO] [PreciousStones] loaded 1 forcefield blocks
+2011-05-01 16:25:38 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-05-01 16:25:38 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-05-01 16:25:38 [INFO] [WeatherGod] Permission system detected.
+2011-05-01 16:25:38 [INFO] WeatherGod version 0.22 is enabled!
+2011-05-01 16:25:38 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-05-01 16:25:38 [INFO] WorldEdit 4.4 enabled.
+2011-05-01 16:25:38 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-05-01 16:25:38 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-05-01 16:25:38 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-05-01 16:25:38 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-05-01 16:25:38 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-05-01 16:25:38 [INFO] [WormholeXTreme]Attached to iConomy version 4.65
+2011-05-01 16:25:38 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-05-01 16:25:38 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-05-01 16:25:38 [INFO] Done (0.432s)! For help, type "help" or "?"
+2011-05-01 16:26:02 [INFO] Stopping the server..
+2011-05-01 16:26:02 [INFO] CONSOLE: Stopping the server..
+2011-05-01 16:26:02 [INFO] Stopping server
+2011-05-01 16:26:02 [INFO] [Archers : 1.0] Disabled!
+2011-05-01 16:26:02 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-05-01 16:26:02 [INFO] Stopping map renderer...
+2011-05-01 16:26:02 [INFO] Shutting down webserver...
+2011-05-01 16:26:02 [INFO] map WebServer.run() stops with IOException
+2011-05-01 16:26:02 [INFO] Webserver shut down.
+2011-05-01 16:26:02 [INFO] [Factions v1.1.7] Disabled
+2011-05-01 16:26:02 [INFO] [iChat] iChat Disabled
+2011-05-01 16:26:02 [INFO] [iConomy] Plugin disabled.
+2011-05-01 16:26:02 [INFO] [WormholeXTreme]Detached from iConomy plugin.
+2011-05-01 16:26:02 [INFO] [iConomyChestShop] version 2.54 distabled!
+2011-05-01 16:26:02 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-05-01 16:26:02 [INFO] [Landmarks] Landmarks disabled.
+2011-05-01 16:26:02 [INFO] LWC	Freeing SQLite
+2011-05-01 16:26:02 [INFO] [MultiInv] Plugin disabled.
+2011-05-01 16:26:02 [INFO] [MultiVerse] - Disabled
+2011-05-01 16:26:02 [INFO] [Permissions] (Phoenix) saved all data.
+2011-05-01 16:26:02 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-05-01 16:26:02 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-05-01 16:26:02 [INFO] [iChat] Permissions plugin lost.
+2011-05-01 16:26:02 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-05-01 16:26:02 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-05-01 16:26:02 [INFO] WeatherGod disabled!
+2011-05-01 16:26:02 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-05-01 16:26:02 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-05-01 16:26:02 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-05-01 16:26:02 [INFO] Saving chunks
+2011-05-01 16:26:03 [INFO] Stopping server
+2011-05-01 16:26:06 [INFO] Starting minecraft server version Beta 1.5_02
+2011-05-01 16:26:06 [INFO] Loading properties
+2011-05-01 16:26:06 [INFO] Starting Minecraft server on *:25565
+2011-05-01 16:26:06 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-706-gf53e007-b740jnks (MC: 1.5_02)
+2011-05-01 16:26:06 [INFO] Preparing level "world"
+2011-05-01 16:26:06 [INFO] Preparing start region
+2011-05-01 16:26:07 [INFO] LWC	Loading shared objects
+2011-05-01 16:26:07 [INFO] LWC	Native library: plugins/LWC/lib/native/Windows/amd64/sqlitejdbc.dll
+2011-05-01 16:26:07 [INFO] [Permissions] (Phoenix) was Initialized.
+2011-05-01 16:26:08 [INFO] [WormholeXTreme][v0.833][By Lologarithm & alron]Load Beginning.
+2011-05-01 16:26:09 [INFO] [WormholeXTreme]3 Wormholes loaded from WormholeDB.
+2011-05-01 16:26:09 [INFO] [WormholeXTreme][v0.833]Load Completed.
+2011-05-01 16:26:09 [INFO] [Archers : 1.0] Made by [TechGuard, x1337x] Enabled!
+2011-05-01 16:26:09 [INFO] [Command iConomy] Loaded.
+2011-05-01 16:26:09 [INFO] DeathMessagePlugin version 1.9 is enabled with permissions!
+2011-05-01 16:26:09 [INFO] [Permissions] version [2.7.2] (Phoenix)  loaded
+2011-05-01 16:26:09 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-05-01 16:26:09 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-05-01 16:26:09 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-05-01 16:26:09 [INFO] Loading renderer 'org.dynmap.kzedmap.CaveTileRenderer'...
+2011-05-01 16:26:09 [INFO] Activated world 'world' in Dynmap.
+2011-05-01 16:26:09 [INFO] Loading map 'org.dynmap.flat.FlatMap'...
+2011-05-01 16:26:09 [INFO] Loading map 'org.dynmap.kzedmap.KzedMap'...
+2011-05-01 16:26:09 [INFO] Loading renderer 'org.dynmap.kzedmap.DefaultTileRenderer'...
+2011-05-01 16:26:09 [INFO] Dynmap WebServer started on null:80
+2011-05-01 16:26:09 [INFO] [Factions v1.1.7] === INIT START ===
+2011-05-01 16:26:09 [INFO] [Factions v1.1.7] Loading conf from disk
+2011-05-01 16:26:09 [INFO] [Factions v1.1.7] Loading players from disk
+2011-05-01 16:26:09 [INFO] [Factions v1.1.7] Loading factions from disk
+2011-05-01 16:26:09 [INFO] [Factions v1.1.7] Loading board from disk
+2011-05-01 16:26:09 [INFO] [Factions v1.1.7] Found and will use plugin Permissions v2.7.2
+2011-05-01 16:26:09 [INFO] [Factions v1.1.7] === INIT DONE (Took 61ms) ===
+2011-05-01 16:26:09 [INFO] [GiveTo] v0.4 enabled (loaded items: 225)
+2011-05-01 16:26:09 [INFO] [iChat] Found Permissions (v2.7.2)
+2011-05-01 16:26:09 [INFO] iChat (v2.2.3) enabled
+2011-05-01 16:26:09 [INFO] [iConomy] Logging is currently disabled.
+2011-05-01 16:26:10 [INFO] [iConomy] v4.65 (Kenzi) loaded.
+2011-05-01 16:26:10 [INFO] [iConomy] Developed by: [Nijikokun, Coelho]
+2011-05-01 16:26:10 [INFO] [iConomy] hooked into Permissions.
+2011-05-01 16:26:10 [INFO] [iConomyChestShop] version 2.54 initialized!
+2011-05-01 16:26:10 [INFO] [iConomyChestShop] iConomy version 4.65 loaded.
+2011-05-01 16:26:10 [INFO] [iConomyChestShop] Permissions version 2.7.2 loaded.
+2011-05-01 16:26:10 [INFO] [iConomyChestShop] LWC version 2.31 loaded.
+2011-05-01 16:26:10 [INFO] [Landmarks] Loading C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-05-01 16:26:10 [INFO] [Landmarks] Successfully loaded 1 markers.
+2011-05-01 16:26:10 [INFO] [Landmarks] Landmarks 0.1 enabled.
+2011-05-01 16:26:10 [INFO] LoginMessage 0.6_3 enabled
+2011-05-01 16:26:10 [INFO] LWC	Loaded 116 locale strings (0 overrides)
+2011-05-01 16:26:10 [INFO] LWC	Using Nijikokun's permissions plugin for permissions
+2011-05-01 16:26:10 [INFO] LWC	Loading SQLite
+2011-05-01 16:26:10 [INFO] SQLite	Using: Native
+2011-05-01 16:26:10 [INFO] LWC	At version: v2.31
+2011-05-01 16:26:10 [INFO] [MultiInv] Shared worlds loaded succesfully
+2011-05-01 16:26:10 [INFO] [MultiInv] version 1.5.2 is enabled!
+2011-05-01 16:26:10 [INFO] [MultiVerse] Permissions Found
+2011-05-01 16:26:10 [INFO] [MultiVerse] - Version 1.6.3 Enabled
+2011-05-01 16:26:10 [INFO] [MultiVerse] Found iConomy, enabling payments.
+2011-05-01 16:26:10 [INFO] [MultiVerse] Loading World & Settings - 'Creative' - NORMAL
+2011-05-01 16:26:10 [INFO] [MultiVerse] Loading World & Settings - 'world' - NORMAL
+2011-05-01 16:26:10 [INFO] [MultiVerse] Loading World & Settings - 'Nether' - NETHER
+2011-05-01 16:26:10 [INFO] [MultiVerse] 3 - World(s) loaded.
+2011-05-01 16:26:10 [INFO] [MultiVerse] Loading Portals
+2011-05-01 16:26:10 [INFO] [MultiVerse] 0 - Portal(s) loaded.
+2011-05-01 16:26:10 [INFO] [MYHOME]: 3 homes loaded
+2011-05-01 16:26:10 [INFO] [MYHOME] Permissions enabled using: Permissions v2.7.2
+2011-05-01 16:26:10 [WARNING] [MYHOME] 'Help' isn't detected. No /help support.
+2011-05-01 16:26:10 [INFO] [MYHOME] MyHome 1.9.4b enabled
+2011-05-01 16:26:10 [INFO] [NeoMeteorites] version 0.1 is enabled
+2011-05-01 16:26:10 [INFO] [PreciousStones] version [3.4.1] loaded
+2011-05-01 16:26:10 [INFO] [PreciousStones] loaded 0 unbreakable blocks
+2011-05-01 16:26:10 [INFO] [PreciousStones] loaded 1 forcefield blocks
+2011-05-01 16:26:10 [INFO] [SpawnMob] Permission system found, plugin enabled
+2011-05-01 16:26:10 [INFO] [SpawnMob] Version 1.9 enabled.
+2011-05-01 16:26:10 [INFO] [WeatherGod] Permission system detected.
+2011-05-01 16:26:10 [INFO] WeatherGod version 0.22 is enabled!
+2011-05-01 16:26:10 [INFO] [WolfSpawn] version 0.4 is enabled!
+2011-05-01 16:26:10 [INFO] WorldEdit 4.4 enabled.
+2011-05-01 16:26:10 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-05-01 16:26:10 [INFO] [WormholeXTreme][v0.833]Enable Beginning.
+2011-05-01 16:26:10 [WARNING] [WormholeXTreme]Not a supported version of Permissions. Recommended is 2.6.x
+2011-05-01 16:26:10 [INFO] [WormholeXTreme]Attached to Permissions version 2.7.2
+2011-05-01 16:26:10 [INFO] [WormholeXTreme]Complex Permissions Enabled
+2011-05-01 16:26:10 [INFO] [WormholeXTreme]Attached to iConomy version 4.65
+2011-05-01 16:26:10 [INFO] [WormholeXTreme]Help Plugin not yet available - there will be no Help integration until loaded.
+2011-05-01 16:26:10 [INFO] [WormholeXTreme][v0.833]Enable Completed.
+2011-05-01 16:26:10 [INFO] Done (0.385s)! For help, type "help" or "?"
+2011-05-01 16:30:05 [INFO] CAPSLOCKNINJA [/127.0.0.1:56511] logged in with entity id 247
+2011-05-01 16:30:31 [INFO] Connection reset
+2011-05-01 16:30:31 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-05-01 16:30:32 [INFO] Connected players: 
+2011-05-01 16:30:36 [INFO] CAPSLOCKNINJA [/127.0.0.1:56518] logged in with entity id 3160
+2011-05-01 16:30:43 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-05-01 16:30:43 [INFO] Connection reset
+2011-05-01 16:30:55 [INFO] /127.0.0.1:56528 lost connection
+2011-05-01 16:30:57 [INFO] /127.0.0.1:56531 lost connection
+2011-05-01 16:31:10 [INFO] CAPSLOCKNINJA [/127.0.0.1:56538] logged in with entity id 3743
+2011-05-01 16:31:54 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Fence' in your inventory.
+2011-05-01 16:32:11 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Jukebox' in your inventory.
+2011-05-01 16:32:20 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Gold Music Disc' in your inventory.
+2011-05-01 16:32:28 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Green Music Disc' in your inventory.
+2011-05-01 16:32:53 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Bookshelf' in your inventory.
+2011-05-01 16:33:15 [INFO] CAPSLOCKNINJA issued server command: snitch
+2011-05-01 16:36:10 [INFO] [PreciousStones] saving forcefields.txt
+2011-05-01 16:37:14 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Chest' in your inventory.
+2011-05-01 16:37:16 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Sign' in your inventory.
+2011-05-01 16:40:21 [INFO] Connection reset
+2011-05-01 16:40:21 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-05-01 16:40:21 [INFO] Connected players: 
+2011-05-01 16:40:22 [INFO] CAPSLOCKNINJA [/127.0.0.1:56565] logged in with entity id 17342
+2011-05-01 16:41:18 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Cooked Porkchop' in your inventory.
+2011-05-01 16:44:04 [INFO] [WEB]99.39.138.15: Hey rob
+2011-05-01 16:44:10 [INFO] [world][04:44]I, CAPSLOCKNINJA, decree: sup 
+2011-05-01 16:44:11 [INFO] [world][04:44]I, CAPSLOCKNINJA, decree: who dis 
+2011-05-01 16:44:13 [INFO] [WEB]99.39.138.15: It's ben
+2011-05-01 16:44:15 [INFO] [world][04:44]I, CAPSLOCKNINJA, decree: sup 
+2011-05-01 16:44:35 [INFO] [world][04:44]I, CAPSLOCKNINJA, decree: why you talking from the map? 
+2011-05-01 16:45:56 [INFO] [world][04:45]I, CAPSLOCKNINJA, decree: why don't you just get on the server? 
+2011-05-01 16:45:58 [INFO] [world][04:45]I, CAPSLOCKNINJA, decree: lol 
+2011-05-01 16:46:53 [INFO] [Factions v1.1.7] created new faction 2
+2011-05-01 16:47:01 [INFO] RampantConstruct [/98.65.228.145:50690] logged in with entity id 27114
+2011-05-01 16:48:03 [INFO] [world][04:48]Project RampantConstruct: LOL 
+2011-05-01 16:48:07 [INFO] [world][04:48]Project RampantConstruct: Really? 
+2011-05-01 16:48:12 [INFO] [**Paradox world][04:48]I, CAPSLOCKNINJA, decree: yes 
+2011-05-01 16:49:05 [INFO] [world][04:49]Project RampantConstruct: I say the answer is No 
+2011-05-01 16:51:21 [INFO] Bennythebull [/99.39.138.15:2537] logged in with entity id 39374
+2011-05-01 16:51:32 [INFO] [world][04:51]Bennythebull: it tis dark 
+2011-05-01 16:51:42 [INFO] [**Paradox world][04:51]I, CAPSLOCKNINJA, decree: yes 
+2011-05-01 16:51:53 [INFO] [**Paradox world][04:51]I, CAPSLOCKNINJA, decree: josh, you coulda told me that you got on 
+2011-05-01 16:52:02 [INFO] [world][04:52]Project RampantConstruct: I JUST SAID SOMETHING A MINUTE AGO XD 
+2011-05-01 16:52:04 [INFO] [**Paradox world][04:52]I, CAPSLOCKNINJA, decree: you seem to have forgotten that the login notifications are broked 
+2011-05-01 16:52:08 [INFO] [**Paradox world][04:52]I, CAPSLOCKNINJA, decree: oh you did? 
+2011-05-01 16:52:13 [INFO] [world][04:52]Project RampantConstruct: *facepalm* 
+2011-05-01 16:52:15 [INFO] [world][04:52]Project RampantConstruct: xD 
+2011-05-01 16:52:17 [INFO] [world][04:52]Project RampantConstruct: Yea 
+2011-05-01 16:52:18 [INFO] [**Paradox world][04:52]I, CAPSLOCKNINJA, decree: I kept screweing around with the  /f map command 
+2011-05-01 16:52:23 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 16:52:34 [INFO] [world][04:52]Bennythebull: help! 
+2011-05-01 16:52:36 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 16:53:12 [INFO] [**Paradox world][04:53]I, CAPSLOCKNINJA, decree: ben enter 
+2011-05-01 16:53:12 [INFO] [world][04:53]Bennythebull: Thanks you link! 
+2011-05-01 16:53:23 [INFO] [**Paradox world][04:53]I, CAPSLOCKNINJA, decree: dude I have an LoZ texture pack AND LoZ sounds installed 
+2011-05-01 16:53:26 [INFO] [world][04:53]Bennythebull: damn 
+2011-05-01 16:53:32 [INFO] [world][04:53]Bennythebull: nice 
+2011-05-01 16:53:38 [INFO] [world][04:53]Bennythebull: also i can't enter 
+2011-05-01 16:53:43 [INFO] [**Paradox world][04:53]I, CAPSLOCKNINJA, decree: wut 
+2011-05-01 16:53:54 [INFO] [world][04:53]Bennythebull: hah 
+2011-05-01 16:54:01 [INFO] [**Paradox world][04:54]I, CAPSLOCKNINJA, decree: derp da derp 
+2011-05-01 16:54:01 [INFO] [**Paradox world][04:54]I, CAPSLOCKNINJA, decree: brb 
+2011-05-01 16:54:03 [INFO] [world][04:54]Project RampantConstruct: Hay 
+2011-05-01 16:54:04 [INFO] [world][04:54]Bennythebull: Puppies!!!!!!!! 
+2011-05-01 16:54:10 [INFO] [**Paradox world][04:54]I, CAPSLOCKNINJA, decree: no toque 
+2011-05-01 16:54:16 [INFO] [world][04:54]Project RampantConstruct: NOT ANOTHER CREEPER 
+2011-05-01 16:54:23 [INFO] [**Paradox world][04:54]I, CAPSLOCKNINJA, decree: bennn 
+2011-05-01 16:54:28 [INFO] [world][04:54]Bennythebull: why 
+2011-05-01 16:54:33 [INFO] [**Paradox world][04:54]I, CAPSLOCKNINJA, decree: getaway from the dowgz 
+2011-05-01 16:54:45 [INFO] [world][04:54]Project RampantConstruct: Ello Ben, this is Josh. 
+2011-05-01 16:54:55 [INFO] [**Paradox world][04:54]I, CAPSLOCKNINJA, decree: don't make me shoot you with mah hero's bow 
+2011-05-01 16:54:58 [INFO] [world][04:54]Bennythebull: ello my sister wants the computer 
+2011-05-01 16:55:02 [INFO] [**Paradox world][04:55]I, CAPSLOCKNINJA, decree: oh 
+2011-05-01 16:55:03 [INFO] [**Paradox world][04:55]I, CAPSLOCKNINJA, decree: ok 
+2011-05-01 16:55:07 [INFO] [**Paradox world][04:55]I, CAPSLOCKNINJA, decree: bai then 
+2011-05-01 16:55:07 [INFO] [world][04:55]Bennythebull: dammit 
+2011-05-01 16:55:12 [INFO] [**Paradox world][04:55]I, CAPSLOCKNINJA, decree: and get your own damn computer. 
+2011-05-01 16:55:14 [INFO] [**Paradox world][04:55]I, CAPSLOCKNINJA, decree: lol 
+2011-05-01 16:55:15 [INFO] [world][04:55]Project RampantConstruct: Holy 
+2011-05-01 16:55:17 [INFO] [world][04:55]Bennythebull: knew computer in < a week 
+2011-05-01 16:55:17 [INFO] [world][04:55]Project RampantConstruct: Shit 
+2011-05-01 16:55:26 [INFO] [**Paradox world][04:55]I, CAPSLOCKNINJA, decree: joshwa 
+2011-05-01 16:55:32 [INFO] [world][04:55]Project RampantConstruct: Yes? 
+2011-05-01 16:55:34 [INFO] [**Paradox world][04:55]I, CAPSLOCKNINJA, decree: come hurr 
+2011-05-01 16:55:36 [INFO] [world][04:55]Bennythebull: BYE 
+2011-05-01 16:55:38 [INFO] Connection reset
+2011-05-01 16:55:38 [INFO] Bennythebull lost connection: disconnect.quitting
+2011-05-01 16:55:38 [INFO] Connected players: CAPSLOCKNINJA, RampantConstruct
+2011-05-01 16:55:39 [INFO] [world][04:55]Project RampantConstruct: I can;t 
+2011-05-01 16:55:39 [INFO] [**Paradox world][04:55]I, CAPSLOCKNINJA, decree: cya ben 
+2011-05-01 16:55:43 [INFO] [**Paradox world][04:55]I, CAPSLOCKNINJA, decree: wai 
+2011-05-01 16:55:49 [INFO] [world][04:55]Project RampantConstruct: I have about 6 spiders and a creeper in the way 
+2011-05-01 16:55:57 [INFO] [**Paradox world][04:55]I, CAPSLOCKNINJA, decree: i'm gonna help 
+2011-05-01 16:56:10 [INFO] [**Paradox world][04:56]I, CAPSLOCKNINJA, decree: where are you? 
+2011-05-01 16:56:10 [INFO] [PreciousStones] saving forcefields.txt
+2011-05-01 16:56:17 [INFO] [world][04:56]Project RampantConstruct: I'm dubbing this place, creeper cove 
+2011-05-01 16:56:26 [INFO] [world][04:56]Project RampantConstruct: I'm coming, hold ya pigs 
+2011-05-01 16:56:27 [INFO] [**Paradox world][04:56]I, CAPSLOCKNINJA, decree: are you near my cove? 
+2011-05-01 16:56:54 [INFO] [world][04:56]Project RampantConstruct: WTF, LONG dirt bridge 
+2011-05-01 16:57:00 [INFO] [**Paradox world][04:57]I, CAPSLOCKNINJA, decree: charlie made that 
+2011-05-01 16:58:15 [INFO] [world][04:58]Project RampantConstruct: brb 
+2011-05-01 16:58:17 [INFO] Connection reset
+2011-05-01 16:58:17 [INFO] RampantConstruct lost connection: disconnect.quitting
+2011-05-01 16:58:17 [INFO] Connected players: CAPSLOCKNINJA
+2011-05-01 16:58:18 [INFO] [**Paradox world][04:58]I, CAPSLOCKNINJA, decree: nooo 
+2011-05-01 17:00:00 [INFO] [CONSOLE] f admin capslockninja
+2011-05-01 17:00:20 [INFO] [**Paradox world][05:00]I, CAPSLOCKNINJA, decree: ok 
+2011-05-01 17:06:55 [INFO] CraftPlayer: Set time to 0
+2011-05-01 17:07:01 [INFO] CAPSLOCKNINJA issued server command: declaim
+2011-05-01 17:10:23 [INFO] Connection reset
+2011-05-01 17:10:23 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-05-01 17:10:24 [INFO] Connected players: 
+2011-05-01 17:15:42 [INFO] CAPSLOCKNINJA [/127.0.0.1:56690] logged in with entity id 76848
+2011-05-01 17:18:53 [INFO] Connection reset
+2011-05-01 17:18:53 [INFO] CAPSLOCKNINJA lost connection: disconnect.quitting
+2011-05-01 17:18:54 [INFO] Connected players: 
+2011-05-01 17:24:54 [INFO] Ti22_simos [/98.250.9.78:53174] logged in with entity id 81027
+2011-05-01 17:25:02 [INFO] prplman [/98.250.9.78:51703] logged in with entity id 82302
+2011-05-01 17:25:37 [INFO] GTManiac [/24.11.89.204:64137] logged in with entity id 82564
+2011-05-01 17:26:10 [INFO] [PreciousStones] saving forcefields.txt
+2011-05-01 17:28:50 [INFO] RampantConstruct [/98.65.228.145:50729] logged in with entity id 95535
+2011-05-01 17:31:10 [INFO] [PreciousStones] saving forcefields.txt
+2011-05-01 17:36:07 [INFO] Connection reset
+2011-05-01 17:36:07 [INFO] prplman lost connection: disconnect.quitting
+2011-05-01 17:36:07 [INFO] Connected players: Ti22_simos, GTManiac, RampantConstruct
+2011-05-01 17:36:10 [INFO] [PreciousStones] saving forcefields.txt
+2011-05-01 17:36:23 [INFO] Connection reset
+2011-05-01 17:36:23 [INFO] Ti22_simos lost connection: disconnect.quitting
+2011-05-01 17:36:23 [INFO] Connected players: GTManiac, RampantConstruct
+2011-05-01 17:45:29 [INFO] Connection reset
+2011-05-01 17:45:29 [INFO] RampantConstruct lost connection: disconnect.quitting
+2011-05-01 17:45:29 [INFO] Connected players: GTManiac
+2011-05-01 17:46:28 [INFO] RampantConstruct [/98.65.228.145:50760] logged in with entity id 133355
+2011-05-01 17:52:34 [INFO] Connection reset
+2011-05-01 17:52:34 [INFO] GTManiac lost connection: disconnect.quitting
+2011-05-01 17:52:35 [INFO] Connected players: RampantConstruct
+2011-05-01 17:53:37 [INFO] Ti22_simos [/98.250.9.78:54049] logged in with entity id 138029
+2011-05-01 17:53:46 [INFO] prplman [/98.250.9.78:51790] logged in with entity id 138936
+2011-05-01 17:58:03 [SEVERE] java.io.IOException: Bad packet id 72
+2011-05-01 17:58:03 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:78)
+2011-05-01 17:58:03 [SEVERE] 	at net.minecraft.server.NetworkManager.f(NetworkManager.java:127)
+2011-05-01 17:58:03 [SEVERE] 	at net.minecraft.server.NetworkManager.c(NetworkManager.java:226)
+2011-05-01 17:58:03 [SEVERE] 	at net.minecraft.server.NetworkReaderThread.run(SourceFile:69)
+2011-05-01 17:58:03 [INFO] /68.30.166.23:33960 lost connection
+2011-05-01 17:59:00 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 17:59:03 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 17:59:04 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:04:45 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:04:48 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:04:49 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:04:51 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:04:52 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:04:54 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:04:57 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:04:58 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:05:53 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+	at nl.robinvandervliet.DeathMessagePlugin.DeathMessagePluginEntityListener.onEntityDeath(DeathMessagePluginEntityListener.java:427)
+	at org.bukkit.plugin.java.JavaPluginLoader$45.execute(JavaPluginLoader.java:480)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityPlayer.a(EntityPlayer.java:121)
+	at net.minecraft.server.EntityLiving.damageEntity(EntityLiving.java:393)
+	at net.minecraft.server.EntityHuman.damageEntity(EntityHuman.java:423)
+	at net.minecraft.server.EntityPlayer.damageEntity(EntityPlayer.java:149)
+	at net.minecraft.server.EntityLiving.a(EntityLiving.java:495)
+	at net.minecraft.server.EntityHuman.a(EntityHuman.java:824)
+	at net.minecraft.server.Entity.a(Entity.java:621)
+	at net.minecraft.server.EntityPlayer.b(EntityPlayer.java:271)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:336)
+	at net.minecraft.server.Packet10Flying.a(SourceFile:126)
+	at net.minecraft.server.NetworkManager.a(NetworkManager.java:195)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:74)
+	at net.minecraft.server.NetworkListenThread.a(SourceFile:100)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:370)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:07:03 [INFO] prplman lost connection: disconnect.quitting
+2011-05-01 18:07:03 [INFO] Connection reset
+2011-05-01 18:07:05 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+	at nl.robinvandervliet.DeathMessagePlugin.DeathMessagePluginEntityListener.onEntityDeath(DeathMessagePluginEntityListener.java:427)
+	at org.bukkit.plugin.java.JavaPluginLoader$45.execute(JavaPluginLoader.java:480)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityPlayer.a(EntityPlayer.java:121)
+	at net.minecraft.server.EntityLiving.damageEntity(EntityLiving.java:393)
+	at net.minecraft.server.EntityHuman.damageEntity(EntityHuman.java:423)
+	at net.minecraft.server.EntityPlayer.damageEntity(EntityPlayer.java:149)
+	at net.minecraft.server.Explosion.a(Explosion.java:152)
+	at net.minecraft.server.World.createExplosion(World.java:1275)
+	at net.minecraft.server.WorldServer.createExplosion(WorldServer.java:130)
+	at net.minecraft.server.EntityCreeper.a(EntityCreeper.java:99)
+	at net.minecraft.server.EntityCreature.c_(EntityCreature.java:67)
+	at net.minecraft.server.EntityLiving.u(EntityLiving.java:657)
+	at net.minecraft.server.EntityMonster.u(EntityMonster.java:30)
+	at net.minecraft.server.EntityLiving.p_(EntityLiving.java:231)
+	at net.minecraft.server.EntityMonster.p_(EntityMonster.java:34)
+	at net.minecraft.server.EntityCreeper.p_(EntityCreeper.java:57)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:07:19 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+	at nl.robinvandervliet.DeathMessagePlugin.DeathMessagePluginEntityListener.onEntityDeath(DeathMessagePluginEntityListener.java:427)
+	at org.bukkit.plugin.java.JavaPluginLoader$45.execute(JavaPluginLoader.java:480)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityPlayer.a(EntityPlayer.java:121)
+	at net.minecraft.server.EntityLiving.damageEntity(EntityLiving.java:393)
+	at net.minecraft.server.EntityHuman.damageEntity(EntityHuman.java:423)
+	at net.minecraft.server.EntityPlayer.damageEntity(EntityPlayer.java:149)
+	at net.minecraft.server.EntityLiving.N(EntityLiving.java:133)
+	at net.minecraft.server.Entity.p_(Entity.java:192)
+	at net.minecraft.server.EntityLiving.p_(EntityLiving.java:230)
+	at net.minecraft.server.EntityHuman.p_(EntityHuman.java:90)
+	at net.minecraft.server.EntityPlayer.a(EntityPlayer.java:162)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:272)
+	at net.minecraft.server.Packet10Flying.a(SourceFile:126)
+	at net.minecraft.server.NetworkManager.a(NetworkManager.java:195)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:74)
+	at net.minecraft.server.NetworkListenThread.a(SourceFile:100)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:370)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:08:37 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:08:44 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:09:24 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:09:30 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:11:07 [SEVERE] Could not pass event PLAYER_COMMAND_PREPROCESS to Command iConomy
+java.lang.StringIndexOutOfBoundsException: String index out of range: 10
+	at java.lang.String.charAt(Unknown Source)
+	at java.util.regex.Matcher.appendReplacement(Unknown Source)
+	at java.util.regex.Matcher.replaceAll(Unknown Source)
+	at java.lang.String.replaceAll(Unknown Source)
+	at com.ryanmichela.cmdiconomy.CIListener.chargePlayerForCommand(CIListener.java:114)
+	at com.ryanmichela.cmdiconomy.CIListener.onPlayerCommandPreprocess(CIListener.java:46)
+	at org.bukkit.plugin.java.JavaPluginLoader$5.execute(JavaPluginLoader.java:230)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.NetServerHandler.handleCommand(NetServerHandler.java:669)
+	at net.minecraft.server.NetServerHandler.chat(NetServerHandler.java:640)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:634)
+	at net.minecraft.server.Packet3Chat.a(Packet3Chat.java:32)
+	at net.minecraft.server.NetworkManager.a(NetworkManager.java:195)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:74)
+	at net.minecraft.server.NetworkListenThread.a(SourceFile:100)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:370)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:11:10 [INFO] Ti22_simos lost connection: disconnect.quitting
+2011-05-01 18:11:10 [INFO] Connection reset
+2011-05-01 18:11:20 [INFO] RampantConstruct lost connection: disconnect.quitting
+2011-05-01 18:11:20 [INFO] Connection reset
+2011-05-01 18:11:22 [INFO] RampantConstruct [/98.65.228.145:50775] logged in with entity id 219708
+2011-05-01 18:15:30 [INFO] RampantConstruct lost connection: disconnect.quitting
+2011-05-01 18:15:30 [INFO] Connection reset
+2011-05-01 18:21:09 [INFO] prplman [/98.250.9.78:51859] logged in with entity id 234946
+2011-05-01 18:22:01 [INFO] prplman tried command: power
+2011-05-01 18:22:04 [INFO] prplman tried command: help
+2011-05-01 18:22:06 [INFO] Ti22_simos [/98.250.9.78:54117] logged in with entity id 236370
+2011-05-01 18:22:15 [SEVERE] Could not pass event PLAYER_COMMAND_PREPROCESS to Command iConomy
+java.lang.StringIndexOutOfBoundsException: String index out of range: 11
+	at java.lang.String.charAt(Unknown Source)
+	at java.util.regex.Matcher.appendReplacement(Unknown Source)
+	at java.util.regex.Matcher.replaceAll(Unknown Source)
+	at java.lang.String.replaceAll(Unknown Source)
+	at com.ryanmichela.cmdiconomy.CIListener.chargePlayerForCommand(CIListener.java:114)
+	at com.ryanmichela.cmdiconomy.CIListener.onPlayerCommandPreprocess(CIListener.java:46)
+	at org.bukkit.plugin.java.JavaPluginLoader$5.execute(JavaPluginLoader.java:230)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.NetServerHandler.handleCommand(NetServerHandler.java:669)
+	at net.minecraft.server.NetServerHandler.chat(NetServerHandler.java:640)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:634)
+	at net.minecraft.server.Packet3Chat.a(Packet3Chat.java:32)
+	at net.minecraft.server.NetworkManager.a(NetworkManager.java:195)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:74)
+	at net.minecraft.server.NetworkListenThread.a(SourceFile:100)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:370)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:22:41 [SEVERE] Could not pass event ENTITY_DEATH to DeathMessagePlugin
+java.lang.NullPointerException
+	at nl.robinvandervliet.DeathMessagePlugin.DeathMessagePluginEntityListener.onEntityDeath(DeathMessagePluginEntityListener.java:427)
+	at org.bukkit.plugin.java.JavaPluginLoader$45.execute(JavaPluginLoader.java:480)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityPlayer.a(EntityPlayer.java:121)
+	at net.minecraft.server.EntityLiving.damageEntity(EntityLiving.java:393)
+	at net.minecraft.server.EntityHuman.damageEntity(EntityHuman.java:423)
+	at net.minecraft.server.EntityPlayer.damageEntity(EntityPlayer.java:149)
+	at net.minecraft.server.Explosion.a(Explosion.java:152)
+	at net.minecraft.server.World.createExplosion(World.java:1275)
+	at net.minecraft.server.WorldServer.createExplosion(WorldServer.java:130)
+	at net.minecraft.server.EntityCreeper.a(EntityCreeper.java:99)
+	at net.minecraft.server.EntityCreature.c_(EntityCreature.java:67)
+	at net.minecraft.server.EntityLiving.u(EntityLiving.java:657)
+	at net.minecraft.server.EntityMonster.u(EntityMonster.java:30)
+	at net.minecraft.server.EntityLiving.p_(EntityLiving.java:231)
+	at net.minecraft.server.EntityMonster.p_(EntityMonster.java:34)
+	at net.minecraft.server.EntityCreeper.p_(EntityCreeper.java:57)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:23:48 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:23:52 [SEVERE] Could not pass event ENTITY_DAMAGE to Archers
+java.lang.ClassCastException: net.minecraft.server.EntityArrow cannot be cast to TechGuard.x1337x.Archers.Arrow.Arrow
+	at TechGuard.x1337x.Archers.Arrow.ArrowHandler.onArrowDestroy(ArrowHandler.java:35)
+	at TechGuard.x1337x.Archers.eListener.onEntityDamage(eListener.java:18)
+	at org.bukkit.plugin.java.JavaPluginLoader$44.execute(JavaPluginLoader.java:474)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.EntityArrow.p_(EntityArrow.java:169)
+	at net.minecraft.server.World.entityJoinedWorld(World.java:1007)
+	at net.minecraft.server.WorldServer.entityJoinedWorld(WorldServer.java:52)
+	at net.minecraft.server.World.playerJoinedWorld(World.java:989)
+	at net.minecraft.server.World.cleanUp(World.java:966)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:367)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:30:55 [INFO] Connection reset
+2011-05-01 18:30:55 [INFO] Ti22_simos lost connection: disconnect.quitting
+2011-05-01 18:30:55 [INFO] Connected players: prplman
+2011-05-01 18:32:19 [INFO] Connection reset
+2011-05-01 18:32:19 [INFO] prplman lost connection: disconnect.quitting
+2011-05-01 18:32:19 [INFO] Connected players: 
+2011-05-01 18:44:03 [INFO] POTATOjim [/71.205.168.140:61627] logged in with entity id 253786
+2011-05-01 18:44:03 [SEVERE] Could not pass event PLAYER_JOIN to LoginMessage
+java.lang.NullPointerException
+	at com.tahkeh.loginmessage.LoginMessage.process(LoginMessage.java:191)
+	at com.tahkeh.loginmessage.LoginMessage.sendMultiMessage(LoginMessage.java:279)
+	at com.tahkeh.loginmessage.LoginMessagePlayerListener.onPlayerJoin(LoginMessagePlayerListener.java:71)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:206)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:59)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:257)
+	at net.minecraft.server.ServerConfigurationManager.a(ServerConfigurationManager.java:94)
+	at net.minecraft.server.NetLoginHandler.b(NetLoginHandler.java:95)
+	at net.minecraft.server.NetLoginHandler.a(NetLoginHandler.java:33)
+	at net.minecraft.server.NetworkListenThread.a(SourceFile:87)
+	at net.minecraft.server.MinecraftServer.h(MinecraftServer.java:370)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:285)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:394)
+2011-05-01 18:44:19 [INFO] [world][06:44]The Brotato himself, POTATOjim: helloooooooo? 
+2011-05-01 18:46:38 [INFO] [WEB]68.30.166.23: ,
+2011-05-01 18:47:17 [INFO] [WEB]68.30.166.23: who's on right now? my phone wont render the map
+2011-05-01 18:47:26 [INFO] [world][06:47]The Brotato himself, POTATOjim: i am 
+2011-05-01 18:48:42 [INFO] POTATOjim tried command: arrows
+2011-05-01 18:49:05 [INFO] POTATOjim tried command: arrows
+2011-05-01 18:51:10 [INFO] [PreciousStones] saving forcefields.txt
+2011-05-01 18:56:10 [INFO] [PreciousStones] saving forcefields.txt
+2011-05-01 19:04:00 [INFO] Connection reset
+2011-05-01 19:04:00 [INFO] POTATOjim lost connection: disconnect.quitting
+2011-05-01 19:04:01 [INFO] Connected players: 
+2011-05-01 19:08:15 [INFO] prplman [/98.250.9.78:52023] logged in with entity id 276501
+2011-05-01 19:13:11 [INFO] dankleton [/69.14.216.140:53683] logged in with entity id 287432
+2011-05-01 19:17:40 [INFO] [world][07:17]dankleton, the redstoner: prplman go to bed 
+2011-05-01 19:18:07 [INFO] [world][07:18]prplman: there 
+2011-05-01 19:18:21 [INFO] [world][07:18]prplman: how do i change my title like you 
+2011-05-01 19:18:28 [INFO] [world][07:18]dankleton, the redstoner: ask the admin 
+2011-05-01 19:18:37 [INFO] [world][07:18]dankleton, the redstoner: he's not on right now 
+2011-05-01 19:18:47 [INFO] [world][07:18]prplman: k 
+2011-05-01 19:19:17 [INFO] [world][07:19]prplman: ba da da bow bow 
+2011-05-01 19:19:25 [INFO] [world][07:19]prplman: ba da da bow bow 
+2011-05-01 19:19:26 [INFO] [world][07:19]dankleton, the redstoner: who is this 
+2011-05-01 19:19:35 [INFO] [world][07:19]prplman: who ya gonna call 
+2011-05-01 19:19:41 [INFO] [world][07:19]prplman: CREEPER BUSTERS 
+2011-05-01 19:19:42 [INFO] [CONSOLE] you wanna change your title? what do you want it to be?
+2011-05-01 19:19:52 [INFO] [world][07:19]prplman: uhh... 
+2011-05-01 19:19:58 [INFO] [world][07:19]prplman: the creeper buster 
+2011-05-01 19:20:04 [INFO] [world][07:20]dankleton, the redstoner: ROB YOU BE CREEEPIN 
+2011-05-01 19:20:14 [INFO] [CONSOLE] nahman
+2011-05-01 19:20:21 [INFO] [world][07:20]prplman: what? 
+2011-05-01 19:21:20 [INFO] [CONSOLE] I love how with android there's an app to admin your server while AFK
+2011-05-01 19:21:27 [INFO] [CONSOLE] although I am here right now
+2011-05-01 19:21:50 [INFO] CAPSLOCKNINJA [/127.0.0.1:56956] logged in with entity id 304649
+2011-05-01 19:22:10 [INFO] [**Paradox world][07:22]I, CAPSLOCKNINJA, decree: I hurr 
+2011-05-01 19:23:14 [INFO] [**Paradox world][07:23]I, CAPSLOCKNINJA, decree: what happened here 
+2011-05-01 19:23:20 [INFO] [world][07:23]prplman: why cant it be creeper buster 
+2011-05-01 19:23:36 [INFO] [**Paradox world][07:23]I, CAPSLOCKNINJA, decree: your title should show up when the server restarts 
+2011-05-01 19:23:44 [INFO] [world][07:23]dankleton, the redstoner: SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS 
+2011-05-01 19:23:49 [INFO] Connection reset
+2011-05-01 19:23:49 [INFO] prplman lost connection: disconnect.quitting
+2011-05-01 19:23:50 [INFO] Connected players: dankleton, CAPSLOCKNINJA
+2011-05-01 19:23:53 [INFO] [**Paradox world][07:23]I, CAPSLOCKNINJA, decree: icereal though, I wanna know what happened hurr 
+2011-05-01 19:23:53 [INFO] prplman [/98.250.9.78:52265] logged in with entity id 309937
+2011-05-01 19:24:09 [INFO] [world][07:24]prplman: herro, disconnected 4 some reason 
+2011-05-01 19:24:37 [INFO] [**Paradox world][07:24]I, CAPSLOCKNINJA, decree: I really need ti figure out why the login notification is broken 
+2011-05-01 19:24:57 [INFO] [GiveTo] ->CAPSLOCKNINJA Placing 'Sign' in your inventory.
+2011-05-01 19:25:34 [INFO] [**Paradox world][07:25]I, CAPSLOCKNINJA, decree: woo 
+2011-05-01 19:25:39 [INFO] [**Paradox world][07:25]I, CAPSLOCKNINJA, decree: 14 red ruppes 
+2011-05-01 19:25:42 [INFO] [**Paradox world][07:25]I, CAPSLOCKNINJA, decree: *rupees 
+2011-05-01 19:26:24 [INFO] [world][07:26]prplman: y no creepers 
+2011-05-01 19:27:10 [INFO] [world][07:27]dankleton, the redstoner: login notification broken 
+2011-05-01 19:27:17 [INFO] [world][07:27]dankleton, the redstoner: better drink my own piss 
+2011-05-01 19:27:18 [INFO] [**Paradox world][07:27]I, CAPSLOCKNINJA, decree: guys gonna restart, and yeah I know it is. 
+2011-05-01 19:27:25 [INFO] [**Paradox world][07:27]I, CAPSLOCKNINJA, decree: and lul you in a prize 
+2011-05-01 19:27:40 [INFO] [world][07:27]dankleton, the redstoner: shoud i disconnect 
+2011-05-01 19:27:41 [INFO] [**Paradox world][07:27]I, CAPSLOCKNINJA, decree: I need to give everyone shop permissions 
+2011-05-01 19:27:42 [INFO] [**Paradox world][07:27]I, CAPSLOCKNINJA, decree: yeah 
+2011-05-01 19:27:46 [INFO] Stopping the server..
+2011-05-01 19:27:46 [INFO] CONSOLE: Stopping the server..
+2011-05-01 19:27:46 [INFO] Stopping server
+2011-05-01 19:27:46 [INFO] [Archers : 1.0] Disabled!
+2011-05-01 19:27:46 [INFO] DeathMessagePlugin version 1.9 is disabled!
+2011-05-01 19:27:46 [INFO] Stopping map renderer...
+2011-05-01 19:27:46 [INFO] Shutting down webserver...
+2011-05-01 19:27:46 [INFO] map WebServer.run() stops with IOException
+2011-05-01 19:27:46 [INFO] Webserver shut down.
+2011-05-01 19:27:46 [INFO] [Factions v1.1.7] Disabled
+2011-05-01 19:27:46 [INFO] [iChat] iChat Disabled
+2011-05-01 19:27:46 [INFO] [iConomy] Plugin disabled.
+2011-05-01 19:27:46 [INFO] [WormholeXTreme]Detached from iConomy plugin.
+2011-05-01 19:27:46 [INFO] [iConomyChestShop] version 2.54 distabled!
+2011-05-01 19:27:46 [INFO] [Landmarks] Saved C:\Minecraft_Servers\Brohalla\plugins\Landmarks\markers.json
+2011-05-01 19:27:46 [INFO] [Landmarks] Landmarks disabled.
+2011-05-01 19:27:46 [INFO] LWC	Freeing SQLite
+2011-05-01 19:27:46 [INFO] [MultiInv] Plugin disabled.
+2011-05-01 19:27:46 [INFO] [MultiVerse] - Disabled
+2011-05-01 19:27:46 [INFO] [Permissions] (Phoenix) saved all data.
+2011-05-01 19:27:46 [INFO] [Permissions] (Phoenix) disabled successfully.
+2011-05-01 19:27:46 [INFO] WorldEdit: Permissions plugin detected! Using Permissions plugin for permissions.
+2011-05-01 19:27:46 [INFO] [iChat] Permissions plugin lost.
+2011-05-01 19:27:46 [INFO] [WormholeXTreme]Detached from Permissions plugin.
+2011-05-01 19:27:46 [INFO] [SpawnMob] Version 1.9 disabled.
+2011-05-01 19:27:46 [INFO] WeatherGod disabled!
+2011-05-01 19:27:46 [INFO] [WolfSpawn] version 0.4 disabled!
+2011-05-01 19:27:47 [INFO] [WormholeXTreme]WormholeDB shutdown successfull.
+2011-05-01 19:27:47 [INFO] [WormholeXTreme][v0.833]Successfully shutdown.
+2011-05-01 19:27:47 [INFO] Saving chunks

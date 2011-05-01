@@ -93,6 +93,16 @@ groups:
             - 'iconomy.list'
             - 'iconomy.payment'
             - 'iconomy.bank*'
+            - 'archers.bow.*'
+            - 'archers.arrow.*'
+            - 'iconomy.chest.shop.create'
+            - 'iconomy.chest.shop.exclude.7'
+            - 'iconomy.chest.shop.buy'
+            - 'iconomy.chest.shop.sell'
+            - 'iconomy.chest.command.iteminfo'
+            - 'lwc.protect.*'
+            - 'factions.participate'
+            - 'factions.create'
     Moderator:
         default: false
         info:
@@ -120,6 +130,7 @@ groups:
             - 'multiverse.portal.destination'
             - 'multiverse.portal.remove'
             - 'multiverse.portal.list'
+            - 'lwc.mod'
     Admin:
         default: false
         info:
@@ -143,6 +154,9 @@ groups:
             - 'worldedit.*'
             - 'myhome.admin'
             - 'iconomy.*'
+            - 'iconomy.chest.shop.admin'
+            - 'lwc.admin'
+            - 'factions.manageSafeZone'
     Banned:
         default: false
         info:
@@ -244,7 +258,7 @@ users:
         group: User
         info:
             prefix: ''
-            suffix: ''
+            suffix: ', the creeper buster'
         permissions:
     POTATOjim:
         group: User

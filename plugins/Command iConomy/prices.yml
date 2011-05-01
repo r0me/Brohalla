@@ -1,0 +1,8 @@
+# To charge for a command, list a matching regular expression below on its own
+# line with the price, separated by a colon. For more info on regular expressions
+# see http://www.regular-expressions.info/reference.html
+
+# ^/tp: 10
+^/home: 10
+^/home set: 5
+^/wxbuild: 10

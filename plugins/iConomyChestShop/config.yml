@@ -1,0 +1,85 @@
+sell: true
+distance: 1
+position: 'DOWN'
+protection: true 
+
+LWCprotection: true
+signLWCprotection: true
+logFilePath: "plugins/iConomyChestShop/iConomyChestShop.log"
+sneakMode: true
+allowUsedItemsToBeSold: true
+stackUnstackableItems: true
+
+
+
+separatingLineAfterTransaction: false
+
+#allowUsedItemsToBeSold - allows used items to be sold. WARNING. the tools will be "fresh" if player sells them. I don't reccomend it, really.
+#protection - do you want to use anti-stealing protection?
+#sell - do you want to activate selling?
+#distance - distance between the chest and the sign
+#position - position of the chest, goo.gl/YItRO
+#LWCprotection - do you want to protect the chests with LWC?
+#signLWCprotection - do you want to LWC-protect the sign? Warning: it will show LWC message every transaction.
+#logFilePath - where will the log be stored?
+#sneakMode - if on, left-clicking the sign automatically sells to shop, if you want to break the sign, just sneak and break it.
+#separatingLineAfterTransaction - if on, after every transaction there will be one line of "------" in the chat
+#stackUnstackableItems - if turned on, plugin uses default MinecartMania behavior - stacks food, etc. I reccoment to turn it OFF!
+
+# prefix will be dispayed at the beggining of every message.
+# you can use terms like <buyer>, <amount> or <item> in messages, however
+#	 only certain messagess offer this.
+#
+#
+# <buyer> - nick of the person who bought.
+# <owner> - nick of the person who own the shop.
+# <amount> - amount of item
+# <item> - name of item
+# <money> - amount of money with iConomy currency
+#
+# You can always use hMod colors, like
+# &1, &f etc...
+# For example: This is my&6 golden text.
+
+#MAXIMUM OF 55 CHARACTERS WITH PREFIX!
+
+#Experimental: Try changing the prefix to '                          &a[Shop] &f                                             '
+#The text will be centered!
+lang:
+    prefix: '&a[Shop] &f'
+    Somebody_sold_items_to_your_shop: '<seller> sold <amount> <item> for <cost> to your shop!'
+    Somebody_bought_items_from_your_shop: '<buyer> bought <amount> <item> for <cost>!'
+    Your_shop_is_out_of_stock: 'Your <item> shop is out of stock!'
+    You_cannot_use_your_own_shop: "You can't use your own shop!"
+    
+    You_bought_items: 'You bought <amount> <item> from <owner> for <cost>.'
+    
+    Your_inventory_is_full: 'Your inventory is full!'
+    You_have_got_not_enough_money: "You don't have enough money!"
+    Shop_is_out_of_stock: 'This shop is out of stock!'
+    
+    You_have_not_enough_items: 'You have not enough items to sell!'
+    You_sold_items: "You sold <amount> <item> for <cost> to <owner>'s shop."
+    Chest_is_full: 'This chest is full!'
+
+    Seller_has_not_enough_money: "Seller has not enough money!"
+    Seller_has_no_account: "Seller's account doesn't exist!"
+    No_selling_to_this_shop: "Shop owner doesn't want you to sell here!"
+    No_buying_from_this_shop: "Shop owner doesn't want you to buy here!"
+    
+    Your_balance: 'After transaction you have <money>.'
+    
+    Shop_is_created: 'Your shop has been successfully created!'
+    Shop_cannot_be_created: "You have no chest set up!"
+    Shop_was_LWC_protected: "Your shop was successfully protected with LWC."
+    
+    Mode_changed_to_sell: 'Mode set to selling!'
+    Mode_changed_to_buy: 'Mode set to buying!'
+    
+    You_tried_to_steal: "Don't steal!"
+
+    iteminfo: "&aItem ID and names:"
+    incorrectID: "Incorrect item ID!"
+    Couldnt_fit_on_sign: "Couldn't fit something on the sign!"
+    Negative_price: "Can't make shop with negative buy/sell price!"
+    Incorrect_item_amount: "The item amount you specified is invalid!"

@@ -1,0 +1,7 @@
+Verbose: false
+ChargeForChat: false
+#PayTo: accountName
+
+NoAccountMessage: No bank account.
+InsuficientFundsMessage: Insuficent funds. {cost} needed.
+AccountDeductedMessage: Charged {cost}

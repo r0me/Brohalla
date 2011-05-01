@@ -39,6 +39,20 @@ force-field-blocks:
       prevent-explosions: true
       prevent-unprotectable: true
       guard-dog: false
+    -          
+      title: "City Protection"
+      block: 57
+      radius: 15
+      custom-height: 10
+      prevent-fire: true
+      prevent-place: true
+      prevent-destroy: true
+      prevent-explosions: true
+      prevent-unprotectable: false
+      guard-dog: false
+      nameable: true
+      welcome-message: true
+      farewell-message: true
 log:
     entry: false
     fire: true

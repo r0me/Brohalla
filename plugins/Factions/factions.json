@@ -1,0 +1,33 @@
+{
+  "0": {
+    "relationWish": {},
+    "invites": [],
+    "open": true,
+    "tag": "§2Wilderness",
+    "description": ""
+  },
+  "2": {
+    "relationWish": {},
+    "invites": [
+      "rampantconstruct"
+    ],
+    "open": false,
+    "tag": "Paradox",
+    "description": "Is the answer to this question no? Y/N",
+    "home": {
+      "world": "world",
+      "x": -487.00931252578005,
+      "y": 64.0,
+      "z": 137.24249135240098,
+      "yaw": 135.88123,
+      "pitch": -5.715632
+    }
+  },
+  "-1": {
+    "relationWish": {},
+    "invites": [],
+    "open": true,
+    "tag": "§6Safe Zone",
+    "description": "Free from PVP and monsters"
+  }
+}
