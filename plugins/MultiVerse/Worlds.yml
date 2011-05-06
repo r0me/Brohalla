@@ -33,7 +33,7 @@ worlds:
         alias: ''
         blockBlacklist: ''
         worldBlacklist: ''
-        spawn: -42:64:-13:0.0:0.0
+        spawn: -71:55:-92:90.0:0.0
         mobs: true
         price: 0.0
         environment: NETHER

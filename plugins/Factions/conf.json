@@ -33,15 +33,15 @@
   "safeZoneDenyUseage": true,
   "safeZoneBlockTNT": true,
   "territoryProtectedMaterials": [
-    "FURNACE",
-    "WOODEN_DOOR",
     "DISPENSER",
+    "WOODEN_DOOR",
+    "FURNACE",
     "CHEST"
   ],
   "territoryDenyUseageMaterials": [
-    "LAVA_BUCKET",
-    "BUCKET",
     "FLINT_AND_STEEL",
-    "WATER_BUCKET"
+    "BUCKET",
+    "WATER_BUCKET",
+    "LAVA_BUCKET"
   ]
 }

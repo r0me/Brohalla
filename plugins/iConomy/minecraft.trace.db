@@ -25,3 +25,162 @@ CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), ba
 05-01 16:26:10 jdbc[2]: exception
 org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
 CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-01 19:32:35 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-01 19:32:58 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-01 21:43:12 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-01 21:46:58 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-01 21:53:19 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-01 21:53:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-01 22:11:44 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-02 15:35:46 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-02 15:39:06 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-02 15:40:43 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-02 15:42:05 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-02 17:08:41 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-02 18:03:43 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY,username VARCHAR(32) UNIQUE,balance DECIMAL (64, 2),hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-02 18:16:18 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY,username VARCHAR(32) UNIQUE,balance DECIMAL (64, 2),hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-02 18:17:47 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-02 18:19:14 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY,username VARCHAR(32) UNIQUE,balance DECIMAL (64, 2),hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-02 18:19:14 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY_BANKS" already exists; SQL statement:
+CREATE TABLE iConomy_Banks(id INT auto_increment PRIMARY KEY,name VARCHAR(32),major VARCHAR(255),minor VARCHAR(255),initial DECIMAL(64,2),fee DECIMAL(64,2)); [42101-153]
+05-02 18:19:14 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY_BANKRELATIONS" already exists; SQL statement:
+CREATE TABLE iConomy_BankRelations(id INT auto_increment PRIMARY KEY,account_name VARCHAR(32),bank_id INT(10),holdings DECIMAL(64,2),main BOOLEAN DEFAULT '0',hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-02 18:19:43 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-02 21:01:00 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 16:18:16 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 16:33:54 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 19:02:01 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 20:00:51 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 20:57:03 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 21:40:51 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 21:52:54 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 21:53:22 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 21:54:00 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 21:54:19 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 21:54:26 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 21:55:29 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 21:56:14 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 21:56:33 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 21:58:03 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 21:59:01 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 21:59:07 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 22:08:28 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-03 22:09:47 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-04 15:14:20 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-04 17:03:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-04 18:04:37 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-04 19:46:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-04 19:46:38 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-04 19:46:48 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-04 22:35:04 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-04 22:36:03 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-04 22:36:40 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-05 07:57:28 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-05 21:01:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-05 21:01:51 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-06 15:09:39 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]
+05-06 15:09:47 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ICONOMY" already exists; SQL statement:
+CREATE TABLE iConomy(id INT auto_increment PRIMARY KEY, username VARCHAR(32), balance DECIMAL (65, 2), hidden BOOLEAN DEFAULT '0'); [42101-153]

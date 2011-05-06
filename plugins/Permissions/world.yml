@@ -74,14 +74,14 @@ groups:
             build: true
         inheritance:
         permissions:
-            - 'lwc.protect'
+            - 'lwc.protect.*'
             - 'myhome.home.basic.set'
             - 'myhome.home.basic.delete'
             - 'preciousstones.benefit.*'
             - 'preciousstones.whitelist.*'
-            - 'wormhole.simple.use'
-            - 'wormhole.simple.build'
-            - 'wormhole.simple.remove'
+            - 'wormhole.use.*'
+            - 'wormhole.build.*'
+            - 'wormhole.remove.*'
             - 'ichat.color'
             - 'portalstick.*'
             - 'myhome.home'
@@ -89,17 +89,14 @@ groups:
             - 'iconomy.rank'
             - 'iconomy.list'
             - 'iconomy.payment'
-            - 'iconomy.bank*'
-            - 'archers.bow.*'
-            - 'archers.arrow.*'
-            - 'iconomy.chest.shop.create'
-            - 'iconomy.chest.shop.exclude.7'
-            - 'iconomy.chest.shop.buy'
-            - 'iconomy.chest.shop.sell'
-            - 'iconomy.chest.command.iteminfo'
-            - 'lwc.protect.*'
+            - 'iconomy.bank.*'
+            - 'iConomyChestShop.shop.create'
+            - 'iConomyChestShop.shop.buy'
+            - 'iConomyChestShop.shop.sell'
+            - 'iConomyChestShop.command.iteminfo'
             - 'factions.participate'
             - 'factions.create'
+            - 'MobBounty.mb'
     Moderator:
         default: false
         info:
@@ -127,7 +124,6 @@ groups:
             - 'multiverse.portal.destination'
             - 'multiverse.portal.remove'
             - 'multiverse.portal.list'
-            - 'lwc.mod'
     Admin:
         default: false
         info:
@@ -153,8 +149,8 @@ groups:
             - 'spawnmob.*'
             - 'iconomy.*'
             - 'iconomy.chest.shop.admin'
-            - 'lwc.admin'
             - 'factions.manageSafeZone'
+            - 'MobBounty.*'
     Banned:
         default: false
         info:
@@ -183,7 +179,7 @@ users:
     RampantConstruct:
         group: Moderator
         info:
-            prefix: 'Project '
+            prefix: 'Wanderer '
             suffix: ''
         permissions:
     GTManiac:
@@ -195,8 +191,8 @@ users:
     asneakyfatcat:
         group: User
         info:
-            prefix: 'The Winrar '
-            suffix: ' demands'
+            prefix: 'The Winrar Merchant '
+            suffix: ''
         permissions:
     lufonso:
         group: User
@@ -217,10 +213,10 @@ users:
             suffix: ''
         permissions:
     dankleton:
-        group: User
+        group: Moderator
         info:
             prefix: ''
-            suffix: ', the redstoner'
+            suffix: 'AKA Commander Crayon'
         permissions:
     BrianFellowes:
         group: User
@@ -268,5 +264,17 @@ users:
         group: User
         info:
             prefix: ''
+            suffix: ''
+        permissions:
+    atyndall1995:
+        group: User
+        info:
+            prefix: ''
+            suffix: ''
+        permissions:
+    ksimo13:
+        group: User
+        info:
+            prefix: 'El Rey de Kylestillia'
             suffix: ''
         permissions:

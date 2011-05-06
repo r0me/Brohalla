@@ -1,2 +1,7 @@
 NeoMeteorites:
-    likeEveryXMinutesPerChunk: 6000
+    likeEveryXMinutesPerChunk: 12000
+    shell: 49
+    explosionSize: 4.0
+    numberOfExplosions: 1
+    blocks: 14,15,16,21,56,73,87,89
+    fancyExplosionSize: 1.0

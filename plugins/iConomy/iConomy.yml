@@ -4,8 +4,8 @@
 
 System:
     # The name of your currency
-    Currency: BROLLAR
-    Currency_Plural: BROLLAR$
+    Currency: Cheddar
+    Currency_Plural: Cheddarz
     # The initial balance a player logs on with
     Initial_Balance: 30.0
     # Should we log transactions?

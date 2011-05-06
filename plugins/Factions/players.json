@@ -1,11 +1,83 @@
 {
+  "GTManiac": {
+    "factionId": 2,
+    "role": "NORMAL",
+    "title": "El Jesus",
+    "power": 10.0,
+    "lastPowerUpdateTime": 1304648598300,
+    "lastLoginTime": 1304637549829,
+    "factionChatting": false
+  },
+  "asneakyfatcat": {
+    "factionId": 2,
+    "role": "MODERATOR",
+    "title": "Cheddarman",
+    "power": 8.0,
+    "lastPowerUpdateTime": 1304709840838,
+    "lastLoginTime": 1304710990738,
+    "factionChatting": false
+  },
+  "dankleton": {
+    "factionId": 7,
+    "role": "ADMIN",
+    "title": "",
+    "power": 4.4323966666666665,
+    "lastPowerUpdateTime": 1304556002829,
+    "lastLoginTime": 1304646019791,
+    "factionChatting": false
+  },
+  "lufonso": {
+    "factionId": 2,
+    "role": "NORMAL",
+    "title": "",
+    "power": 10.0,
+    "lastPowerUpdateTime": 1304648598300,
+    "lastLoginTime": 1304563109017,
+    "factionChatting": false
+  },
+  "Bennythebull": {
+    "factionId": 5,
+    "role": "NORMAL",
+    "title": "",
+    "power": 8.0,
+    "lastPowerUpdateTime": 1304649062418,
+    "lastLoginTime": 1304646370886,
+    "factionChatting": false
+  },
   "CAPSLOCKNINJA": {
     "factionId": 2,
     "role": "ADMIN",
     "title": "Bowss",
     "power": 10.0,
-    "lastPowerUpdateTime": 1304283715985,
-    "lastLoginTime": 1304292110140,
+    "lastPowerUpdateTime": 1304648598300,
+    "lastLoginTime": 1304711946741,
+    "factionChatting": false
+  },
+  "Ti22_simos": {
+    "factionId": 5,
+    "role": "ADMIN",
+    "title": "",
+    "power": 10.0,
+    "lastPowerUpdateTime": 1304549049782,
+    "lastLoginTime": 1304709645085,
+    "factionChatting": false
+  },
+  "prplman": {
+    "factionId": 5,
+    "role": "MODERATOR",
+    "title": "",
+    "power": 8.0,
+    "lastPowerUpdateTime": 1304710294578,
+    "lastLoginTime": 1304710545468,
+    "factionChatting": false
+  },
+  "RampantConstruct": {
+    "factionId": 2,
+    "role": "MODERATOR",
+    "title": "the AI",
+    "power": 10.0,
+    "lastPowerUpdateTime": 1304648598300,
+    "lastLoginTime": 1304638142531,
     "factionChatting": false
   }
 }

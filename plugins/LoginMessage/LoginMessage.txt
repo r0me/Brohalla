@@ -1,3 +1,5 @@
-'Sup, %nm, mah bro. Welcome to BROHALLA!
-There are %size bros online.
+'Sup,&a %nm&f, mah bro. Welcome to BROHALLA!
+There are&a %size bros&f online.
 %ol
+This message in loving memory of
+our good bro &9Wheatley.

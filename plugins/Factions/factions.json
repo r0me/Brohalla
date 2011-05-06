@@ -7,20 +7,52 @@
     "description": ""
   },
   "2": {
-    "relationWish": {},
-    "invites": [
-      "rampantconstruct"
-    ],
+    "relationWish": {
+      "7": "ALLY"
+    },
+    "invites": [],
     "open": false,
-    "tag": "Paradox",
-    "description": "Is the answer to this question no? Y/N",
+    "tag": "Wheatley",
+    "description": "This... Sentence... Is.... FALSE!",
     "home": {
       "world": "world",
-      "x": -487.00931252578005,
-      "y": 64.0,
-      "z": 137.24249135240098,
-      "yaw": 135.88123,
-      "pitch": -5.715632
+      "x": -516.5,
+      "y": 71.0,
+      "z": 100.5,
+      "yaw": 313.2475,
+      "pitch": 11.849975
+    }
+  },
+  "5": {
+    "relationWish": {},
+    "invites": [],
+    "open": true,
+    "tag": "PoP",
+    "description": "We are the Party of Paul, dedicated to Sir Ronald Paul, and our moral duties. Thank you.",
+    "home": {
+      "world": "world",
+      "x": -974.4921026144697,
+      "y": 101.0,
+      "z": 468.20622415187717,
+      "yaw": 212.30995,
+      "pitch": 25.63382
+    }
+  },
+  "7": {
+    "relationWish": {
+      "2": "ALLY"
+    },
+    "invites": [],
+    "open": true,
+    "tag": "LODHF",
+    "description": "The League of Devilishly Handsome fellows",
+    "home": {
+      "world": "world",
+      "x": -846.0419710683556,
+      "y": 114.0,
+      "z": 247.23973688052442,
+      "yaw": -181.21263,
+      "pitch": 10.683629
     }
   },
   "-1": {
